@@ -1,0 +1,143 @@
+intent;utterance
+claims.claim_status;Have you processed my claim?
+claims.claim_status;How long would it take to process my claim?
+claims.claim_status;Is there any status update for my claim?
+claims.claim_status;Is there any new update for my claim?
+claims.claim_status;Could you update me on my claim?
+claims.claim_status;Would you update me on my claim?
+claims.claim_status;What the hell is happening to my claim?
+claims.claim_status;I'm totally pissed off and would like to follow up on my claim.
+claims.claim_status;I'd like to discuss about the status of my claim.
+claims.claim_status;What's the update for my claim status?
+claims.claim_status;What's happening to my claim?
+claims.claim_status;Is there any update on my claim?
+claims.claim_status;Is my claim being processed?
+claims.claim_status;Could I follow up on my claim?
+claims.claim_status;Would you let me know about status of my claim?
+claims.claim_status;Could you tell me about my claim?
+claims.claim_status;I'd like to know the status of my claim number
+claims.claim_status;I'd like to follow up on my claim
+claims.claim_status;I would like to follow up on my claim
+claims.claim_status;I would like to understand where my claim sits.
+claims.claim_status;What happened to my claim?
+claims.claim_status;When will my claim be processed?
+claims.claim_status;When will I receive payment for my claim?
+claims.claim_status;What is the status of my claim?
+claims.claim_status;I would like to check the status of my existing claim
+claims.state_claim_type;I can't find my bags.
+claims.state_claim_type;Could you help me with my luggage issue?
+claims.state_claim_type;What's happening with my bags?
+claims.state_claim_type;My luggage did  not arrive .
+claims.state_claim_type;My bags were stuck in transit.
+claims.state_claim_type;I didn't see my luggage arrive.
+claims.state_claim_type;I'm  not  sure what happened to my belongings.
+claims.state_claim_type;Am I ever going to get my stuff?
+claims.state_claim_type;Why isn't my luggage here?
+claims.state_claim_type;Will my luggage arrive?
+claims.state_claim_type;I'm  not  sure where my stuff is. Can you help with that?
+claims.state_claim_type;I never received my bags.
+claims.state_claim_type;I am still waiting for my bags to arrive.
+claims.state_claim_type;Why are you taking so long to deliver my stuff?
+claims.state_claim_type;I have no idea what you did with my things
+claims.state_claim_type;Some of my bags have issues
+claims.state_claim_type;What's my next step as my bags haven't come yet
+claims.state_claim_type;bags have been  messed up  completely
+claims.state_claim_type;The flight baggage handlers mishandled and  damaged  my bags
+claims.state_claim_type;Some of my bags have been completely  damaged
+claims.state_claim_type;None  of my bags came in the flight
+claims.state_claim_type;All my bags are  damaged  in the flight
+claims.state_claim_type;All my bags are  messed up
+claims.state_claim_type;Looks like my bags could have been  missing
+claims.state_claim_type;Looks like my bags are still  not  there
+claims.state_claim_type;Bag looks out of shape and  damaged
+claims.state_claim_type;Why are my bags  damaged
+claims.state_claim_type;I think you've got my bags  lost
+claims.state_claim_type;I think you got my bags  lost
+claims.state_claim_type;You guys  lost  my bags I think
+claims.state_claim_type;Unfortunately my bags are  missing
+claims.state_claim_type;Unfortunately my bags are  damaged
+claims.state_claim_type;You seem to have really  dinged  my bags.
+claims.state_claim_type;I think you  misplaced  my stuff
+claims.state_claim_type;You guys  messed  up my bags!
+claims.state_claim_type;I think my belongings may have become  lost .
+claims.state_claim_type;My stuff seems to be  delayed  in transit.
+claims.state_claim_type;I can't believe you  busted  my luggage!
+claims.state_claim_type;My bags showed up  busted .
+claims.state_claim_type;My luggage came in all  banged  up.
+claims.state_claim_type;Shocked to see my bags are  damaged
+claims.state_claim_type;My special bag is  damaged  during the flight
+claims.state_claim_type;Luggages are out of shape and  damaged
+claims.state_claim_type;Bags are totally  damaged
+claims.state_claim_type;Some of the bags are  damaged  after the flight.
+claims.state_claim_type;How come my bags are  damaged ?
+claims.state_claim_type;What the hell is happening to my  damaged  bags?
+claims.state_claim_type;I'm really upset because my luggage is  damaged .
+claims.state_claim_type;One of my bags is  missing .
+claims.state_claim_type;My checked in bags have  dents .
+claims.state_claim_type;Unfortunately my bags are now  broken .
+claims.state_claim_type;I noticed that there are some  missing  items.
+claims.state_claim_type;There are things  missing  from my luggage.
+claims.state_claim_type;Some of my items were  lost .
+claims.state_claim_type;There were some  dents  on my bags.
+claims.state_claim_type;My bags were  lost , could you help me with that?
+claims.state_claim_type;I need help with my  delayed  items
+claims.state_claim_type;My suitcases are  missing
+claims.state_claim_type;Some items were  damaged
+claims.state_claim_type;My belongings were badly  damaged
+claims.state_claim_type;Checked in luggages are  missing
+claims.state_claim_type;Checked in bags are  missing
+claims.state_claim_type;Luggages are  missing
+claims.state_claim_type;My belongings are  missing .
+claims.state_claim_type;There is  damage  on my luggage.
+claims.state_claim_type;The luggage was  delayed . 
+claims.state_claim_type;damaged
+claims.start_claim;I'm going to file a bags claim here
+claims.start_claim;I'd need to file an urgent  damaged  bags claim
+claims.start_claim;I'd need to file an urgent bags  lost  claim
+claims.start_claim;I'd need to start a claim on my bags issue
+claims.start_claim;I'd need to file claim regarding my bags issue
+claims.start_claim;Can I file a claim regarding my bags here?
+claims.start_claim;Need an urgent claim to file ASAP
+claims.start_claim;Would you help me file a fast claim?
+claims.start_claim;Could I expedite file a claim?
+claims.start_claim;My bags seem to be  delayed  after my flight. Could you help me with submitting a claim?
+claims.start_claim;My luggage still hasn't showed up yet, I think it's  lost . I need to start a claim.
+claims.start_claim;My belongings were  damaged , and I need to file a claim immediately!
+claims.start_claim;I need to submit my claim as fast as possible
+claims.start_claim;File a claim ASAP!
+claims.start_claim;I'd love for you to file a claim on my  damaged  bags.
+claims.start_claim;You could really help me out by filing a new claim.
+claims.start_claim;It would be helpful if you could raise a new complaint for me.
+claims.start_claim;You need to file a new claim for me.
+claims.start_claim;I could really use your assistance in submitting a new  lost  bag claim.
+claims.start_claim;Is it possible for you to help me file a new claim for my  delayed  suitcase?
+claims.start_claim;Are you able to file a new ticket for me?
+claims.start_claim;I'd like to raise a new ticket please.
+claims.start_claim;Could you help me file a new complaint?
+claims.start_claim;I would like to file a complaint for my  lost  belongings.
+claims.start_claim;I need a new claim because you  damaged  my stuff.
+claims.start_claim;I'd like to file a claim
+claims.start_claim;Need to file a  damaged  bag claim
+claims.start_claim;Lost  bags claim need to be filed
+claims.start_claim;I'd like to initiate a claim for my bags issue
+claims.start_claim;I'd like to file a claim for my bags that are  lost
+claims.start_claim;I need to file a claim for  non-arrival  of my bags
+claims.start_claim;Could I file a claim for the  late  arrival of my bags?
+claims.start_claim;Could I file a claim for my  damaged  bags?
+claims.start_claim;Got the reference number. Need to file a claim
+claims.start_claim;Could I initiate a claim here?
+claims.start_claim;Looks like some of my bags did  not  make it. Need to file a claim
+claims.start_claim;Could I initiate a claim for my bags?
+claims.start_claim;There are issues for my bags. Could I start my claim here?
+claims.start_claim;I'd like to file a claim for my checked in luggages
+claims.start_claim;I'd like to file a claim regarding my bags
+claims.start_claim;Need to file a claim for my bags
+claims.start_claim;File new claim for  damaged  luggage.
+claims.start_claim;I would like to start a new claim for a  lost  bag.
+claims.start_claim;I would like your help submitting a claim  today .
+claims.start_claim;I need to initiate a new claim.
+claims.start_claim;I need assistance filing a claim.
+claims.start_claim;Could you help me submit a claim?
+claims.start_claim;Submit a claim
+claims.start_claim;Start a new claim
+claims.start_claim;I would like to file a claim

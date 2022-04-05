@@ -1,0 +1,282 @@
+intent;utterance
+flights.flight_book;I'd like to buy I a ticket
+flights.flight_book;i want to book a ticket
+flights.flight_book;I want to book a ticket for my mother, she's coming here from  Moscow   DME
+flights.flight_book;Are there any direct flights from  SFO  to  Paris CDG ?
+flights.flight_book;I tried to book a ticket online, but your system is stupid. Can you book it for me?
+flights.flight_book;Please book a flight for me and my husband to go to  EWR   New York  on 5 July
+flights.flight_book;I need a direct flight to  Miami   MIA  in August
+flights.flight_book;I want to fly to  Moscow   DME  in a week
+flights.flight_book;will you set up my ticket from  Toronto    YYZ  to  San Jose    SJC  from May 20th to June 20th? thanks
+flights.flight_book;I need a new ticket to  Joberg   JNB
+flights.flight_book;Can you book my flight to  San Francisco   next month ?
+flights.flight_book;I want to use my reward points to book a ticket to  Milan   MXP  in October
+flights.flight_book;Four business class tickes from  Taiwan  to  Dubai  from June 2nd to 30th
+flights.flight_book;My sister wants to go to  Paris     ORY    for her birthday in March. We need two first class tickets please.
+flights.flight_book;Can you help me book a flight? I don't understand the online sustem. Please help. I wasted almost  30 mins  and did nothing.
+flights.flight_book;I need a flight next saturday to  LAX  from  NGO
+flights.flight_book;Book  SFO  10am to  MIA  on August 10th, 2020 
+flights.flight_book;I want to attend a conference in  Miami  Next June. Help me book a ticket for June 5th to 10th, 2020 please
+flights.flight_book;So, I need to plan a surprise birthday party for my mom and she wants to fly to  Cabo  in June, but I can't let her know about the surprise. Can you help me buy a ticket in both of our names? Again, I cant let her now anything about the ticket.
+flights.flight_book;Help me buy my ticket
+flights.flight_book;What are the flights from  New York    JFK  to  San Francisco   SFO  next month?
+flights.flight_book;Hi, can you find me the cheapest ticket to  Jamaica  for Christmas?
+flights.flight_book;Dude, my browser won't book the ticket I want!
+flights.flight_book;Buy a ticket for  the Fourth of July weekend  holiday
+flights.flight_book;I want to book a flight
+flights.flight_book;Good Morning! I need to find a flight to  Boston  next weekend from  BOS
+flights.flight_book;Can you help me book a flight
+flights.flight_book;I need to book a flight, but I can't
+flights.one_way_ticket;one way to  Denver
+flights.one_way_ticket;get me a ticket one way to  JFK
+flights.one_way_ticket;i want to book a one way ticket
+flights.one_way_ticket;i want to book a one-way ticket
+flights.one_way_ticket;i want to book a  one  ticket
+flights.one_way_ticket;do you sell one way tickets to  Entebbe
+flights.one_way_ticket;can i get a  one  way ticket to  london
+flights.one_way_ticket;give me the  one  way please
+flights.one_way_ticket;just a  one  way
+flights.one_way_ticket;one  way ticket to  chicago  please
+flights.one_way_ticket;i want to book a  one  way ticket to idaho
+flights.one_way_ticket;can you get me a  one  way ticket to  Miami
+flights.one_way_ticket;I'd like to buy a single ticket
+flights.one_way_ticket;I'd like to buy I a  one -way ticket to  Singapore , please.
+flights.one_way_ticket;one way ticket
+flights.one_way_ticket;a  one  way ticket
+flights.one_way_ticket;want a  one  way ticket
+flights.one_way_ticket;no a  one  way ticket
+flights.one_way_ticket;i want a  one  way ticket
+flights.one_way_ticket;just  one  way
+flights.animals_on_board;can I bring a goat?
+flights.animals_on_board;What is the size of anumal I can bring on the plane with me?
+flights.animals_on_board;Tell me about the service anmal policy
+flights.animals_on_board;I need some information about support anumals on a plane
+flights.animals_on_board;I have a support bird. Are birds allowed on the plane
+flights.animals_on_board;Can my dog sit on the seat?
+flights.animals_on_board;If i have a support bird, can I keeo the cage on a seat next to me?
+flights.animals_on_board;What are the rules for a pet on the airplane What is the service animal policy?
+flights.animals_on_board;What about fish? Can I bring my pet fish with me?
+flights.animals_on_board;Is there an extra charge to fly with my support pet?
+flights.animals_on_board;Is my cat allowed on board? 
+flights.animals_on_board;Can she sit in my lap during the flight?
+flights.animals_on_board;I have a small lap dog.
+flights.animals_on_board;How much do I pay to bring my pet on the plane?
+flights.animals_on_board;Do you allow animals on the plane?
+flights.animals_on_board;Do I need to bring a certificate for my emotional support animal?
+flights.animals_on_board;Can I bring my pet on the plant, or are service dogs only allowed?
+flights.animals_on_board;Can I bring my dog?
+flights.animals_on_board;Are support cats allowed?
+flights.animals_on_board;Are support animals allowed on the flight?
+flights.animals_on_board;Are service dogs allowed on the flight?
+flights.round_trip_ticket;My family is visiting our grandmother in  September  and we need  6  round trip tickets.
+flights.round_trip_ticket;round trip
+flights.round_trip_ticket;just round trip ticket
+flights.round_trip_ticket;i want  a  round trip ticket
+flights.round_trip_ticket;want round trip ticket
+flights.round_trip_ticket;want  a  round trip ticket
+flights.round_trip_ticket;a  round trip ticket
+flights.round_trip_ticket;round trip ticket
+flights.round_trip_ticket;I'd like to buy I  a  round trip ticket to  Barcelona  please.
+flights.round_trip_ticket;I'd like to buy  a  double ticket
+flights.round_trip_ticket;can you get me a round trip ticket to  San Diego
+flights.round_trip_ticket;i want to book  a  round trip ticket to idaho
+flights.round_trip_ticket;round trip ticket to  chicago  please
+flights.round_trip_ticket;just  a  round trip
+flights.round_trip_ticket;give me the round trip please
+flights.round_trip_ticket;can i get  a  round trip ticket to  london
+flights.round_trip_ticket;do you sell round trip tickets to  Entebbe
+flights.frequent_flyer_club_join;do I get any bonuses when I join the club?
+flights.frequent_flyer_club_join;Do you have a program to collect ponts for each flight I do
+flights.frequent_flyer_club_join;can i join frequent flyer in this chat
+flights.frequent_flyer_club_join;what are the rules for joining frequent flyer. can i sign up here
+flights.frequent_flyer_club_join;what's the program for earning points for each flight
+flights.frequent_flyer_club_join;help me earn points on my flights
+flights.frequent_flyer_club_join;i need a frequent flyer number. can you help me with that
+flights.frequent_flyer_club_join;frequent flyer. i want to earn points
+flights.frequent_flyer_club_join;sign me up for frequent flyer
+flights.frequent_flyer_club_join;how does frequent flyer work
+flights.frequent_flyer_club_join;does this airling have a frequent flyer club
+flights.frequent_flyer_club_join;if i wanted to join a frequent flyer club, how could i do that
+flights.frequent_flyer_club_join;tell me about the frequent flyer club
+flights.frequent_flyer_club_join;is there a frequent flyer club
+flights.frequent_flyer_club_join;do you guys have a frequent flyer clun to join
+flights.frequent_flyer_club_join;how can I join the frequent flyer club
+flights.frequent_flyer_club_join;I want to joint the frequent flyer club
+flights.masks_on_airplanes;What about masks. Will you give me a free one on my flight  next week ?
+flights.masks_on_airplanes;Is your airline following the CDC rules on masks?
+flights.masks_on_airplanes;Do passengers getr a free mask?
+flights.masks_on_airplanes;Do I have to pay for a mask to get on the flight?
+flights.masks_on_airplanes;Did the your airline opt to follow CDC rules regarding masks
+flights.masks_on_airplanes;Are flight attendants giving masks away on board?
+flights.masks_on_airplanes;Will I get a free surgical mask on the flight?
+flights.masks_on_airplanes;What is the mask policy for your airline?
+flights.masks_on_airplanes;Do children need masks on the plane?
+flights.masks_on_airplanes;Can I use a cloth mask?
+flights.masks_on_airplanes;Do I need an N -95  mask to fly?
+flights.masks_on_airplanes;Is a free mask included with my ticket?
+flights.masks_on_airplanes;Can I get a mask on the flight?
+flights.masks_on_airplanes;Do you provide a mask for passengers?
+flights.masks_on_airplanes;Are you giving away masks on the flight?
+flights.masks_on_airplanes;Will I get a mask on the flight?
+flights.masks_on_airplanes;Should I bring a mask on the flight with me?
+flights.masks_on_airplanes;Should my kids wear a mask on the plane? 
+flights.masks_on_airplanes;Did the CDC require masks on airline flights?
+flights.masks_on_airplanes;Are mask required to fly now?
+flights.masks_on_airplanes;Do I need to wear a mask to fly?
+flights.customer_service;talk to a representative please
+flights.customer_service;Can I talk to a representative
+flights.customer_service;Can I talk to a representative please
+flights.customer_service;transition me to a customer helper
+flights.customer_service;transfer me to a real person
+flights.customer_service;can i talk to someone this isn't working
+flights.customer_service;please representative talk to human this is frustrating,
+flights.customer_service;redirect me to customer service
+flights.customer_service;please redirect me to a representative
+flights.customer_service;real person
+flights.customer_service;real human operator please transfer me
+flights.customer_service;manager no robots
+flights.customer_service;live  rep please
+flights.customer_service;live  human now please
+flights.customer_service;live  agent
+flights.customer_service;i only want to speak to a human
+flights.customer_service;i need to talk to someone
+flights.customer_service;i need to speak to a real person
+flights.customer_service;human please
+flights.customer_service;can you escalate this to a human
+flights.customer_service;can i talk to a real person
+flights.customer_service;can i speak with a person?
+flights.customer_service;can i please speak to a manager
+flights.customer_service;agent
+flights.available_points;Do I have any miles in my frequent flyer account?
+flights.available_points;How many points have accumulated in my account recently? Please check the account  272584
+flights.available_points;Is there enough miles on my flyer account to get a free ticket?
+flights.available_points;Can I buy a ticket using flight points? My account number is  927258
+flights.available_points;Are there many miles left on my frequrnt flyer account?
+flights.available_points;The balance on my account is
+flights.available_points;I took a few flights  last year , but don't know if I have enough points for a free ticket. Please chck for me.
+flights.available_points;Check my frequent flyer points How Many miles are on my account?
+flights.available_points;163893  is my Frequent Flyer account number. What is the available points
+flights.available_points;How many more miles to earn a free ticket? Account  976753
+flights.available_points;Will account  358753  qualify for a free ticket soon?
+flights.available_points;How many points are on the account?
+flights.available_points;I signed up for frequent flyer. The account is  09468753 .
+flights.available_points;My account number is  09256783 . What is the status of my points?
+flights.available_points;Can you check for me? Did  09258903  earn enough points for a free flight
+flights.available_points;"My account  09658953  has points, but I don;t know how many."
+flights.available_points;Check my account  09272583  for available airline points
+flights.available_points; Does  09180274  have any points on it
+flights.available_points;How many points do I have in my account?
+flights.available_points;09532718  is my account number.
+flights.available_points;Number  09182753 . Check my points.
+flights.available_points;My frequent flyer number is  09384756 . How many point do I have available for use?
+flights.refund_request;A refund. I want a refund.
+flights.refund_request;Please refund my ticket
+flights.refund_request;How do i request a refund?
+flights.refund_request;If I am sick, can I get a refund?
+flights.refund_request;If I dont want my ticket anymore. Can I get my money back?
+flights.refund_request;I want my oney back. How can I do this?
+flights.refund_request;I have COVID  19  so I can't fly. Please process my refund.
+flights.refund_request;I am too sick to fly. I need a refund
+flights.refund_request;I want a full refund to my credit card. I am not going to fly.
+flights.refund_request;Can you cancel my ticket and give me a refund?
+flights.refund_request;I need help with my refund.
+flights.refund_request;Please help me get a refund.
+flights.refund_request;What do I need to do to get a refund?
+flights.refund_request;Can you return the cost of my ticket to my credit card?
+flights.refund_request;I changed my mind. Please refund my ticket
+flights.refund_request;Dont goive me a credit. I want a refund
+flights.refund_request;I don't want account credit. Please give me a refund
+flights.refund_request;Will you refund the cost of my ticket
+flights.refund_request;Can I get a refund?
+flights.refund_request;Please return my ticket
+flights.refund_request;I want a refund
+flights.how_many_suitcases;what number of bags can you bring
+flights.how_many_suitcases;what's the luggae limit like how many bags are allowed
+flights.how_many_suitcases;How many carry-ons are allowed
+flights.how_many_suitcases;whats the max weight for a bag
+flights.how_many_suitcases;how many suitcases are allowed
+flights.how_many_suitcases;are  2  carry on bags ok?
+flights.how_many_suitcases;What is the weight limit for suit cases
+flights.how_many_suitcases;What is the weight liit for my luggage
+flights.how_many_suitcases;Tell me abotu the size limit for luggage?can i check  three  bags for free
+flights.how_many_suitcases;My luggages are very large. What is the limit you take on the size?
+flights.how_many_suitcases;What is the excess luggage sixe limit
+flights.how_many_suitcases;Is there a suitcase limit My boxes are really big.
+flights.how_many_suitcases;Is  six  luggages too many for the flight?
+flights.how_many_suitcases;I want to bring  2  suitcases and  1  carry on . is that okay
+flights.how_many_suitcases;I need to find out how big is too big for a free bag
+flights.how_many_suitcases;How many can i check in
+flights.how_many_suitcases;I am moving and need to bring many packs with me.
+flights.how_many_suitcases;How many cases can i bring
+flights.how_many_suitcases;Do you charge for more than  2  suitcases
+flights.how_many_suitcases;Do you change for  four  bags
+flights.how_many_suitcases;Can I bring  5  suitcases ont eh flight
+flights.how_many_suitcases;Cab i bring  three  carry on items
+flights.senior_discount;Can I get a cheaper ticket as a senior?
+flights.senior_discount;any discounts for retired people like me?
+flights.senior_discount;how can you get a senior discount
+flights.senior_discount;I am over 65 will I get any discount for that
+flights.senior_discount;what about any senior discounts
+flights.senior_discount;I am considered a senior, will I get any discount for that?
+flights.senior_discount;Old man discount is how much
+flights.senior_discount;Is the old timer discount over  10%
+flights.senior_discount;Is the senior discount only for over  55 ? Is that possible?
+flights.senior_discount;I want to use my senior discount on my family.
+flights.senior_discount;I want to fly on a grandmother discount
+flights.senior_discount;I want an old lady discount
+flights.senior_discount;I need a golden girls discount to buy the ticket. Can you sign me up for one?
+flights.senior_discount;I am in newly retired. can I get a senior discount
+flights.senior_discount;How much is the elderly discount
+flights.senior_discount;How about a discount for over  65 . Is that available?
+flights.senior_discount;Do you have a senior citizen discount
+flights.senior_discount;Do senior spouses get a discount
+flights.senior_discount;Can my whole family use the senior discount
+flights.senior_discount;Can I get a senior discount?
+flights.senior_discount;A senior discount is valid for my whole family or just me?
+flights.is_ticket_refundable;I hope this is a refundabel ticket please let me know or confirm
+flights.is_ticket_refundable;will I get some of my money back like is it refundable
+flights.is_ticket_refundable;can I get a my money back if I change my mind
+flights.is_ticket_refundable;is this a refundable ticket
+flights.is_ticket_refundable;just want to confirm that this ticket is actually refundabel
+flights.is_ticket_refundable;If I change my mind about this trip will I get a refund?
+flights.is_ticket_refundable;Your tickets are resundable right?
+flights.is_ticket_refundable;Your tickets are refundable right?
+flights.is_ticket_refundable;The refund is on each ticket, is it?
+flights.is_ticket_refundable;The refund is available on this ticket, true?
+flights.is_ticket_refundable;Refundable tickets are part of the sale, right
+flights.is_ticket_refundable;If i want a refund, how long do i have
+flights.is_ticket_refundable;If i cancel the ticket, can i get a refund
+flights.is_ticket_refundable;How long i have to think about the ticket and shrill get a refund
+flights.is_ticket_refundable;How long do i have to refund my ticket
+flights.is_ticket_refundable;Do yiou sell refundable tickets?
+flights.is_ticket_refundable;"Can the ticket be returned if i don;t need it later"
+flights.is_ticket_refundable;Can I get a refund, or is it a credit to the account?
+flights.is_ticket_refundable;Can i change my mind later
+flights.is_ticket_refundable;After i pay, can i get a refund to the same card
+flights.is_ticket_refundable;A refund is valid for how long
+flights.account_credit;whats the balance on my account 
+flights.account_credit;The balance on my account is
+flights.account_credit;looking for my old ticket
+flights.account_credit;find paid ticket
+flights.account_credit;look up ticket
+flights.account_credit;Do I need to call customer service to et my account credits?
+flights.account_credit;Who can tell me my account credits, this chat or customer service?
+flights.account_credit;Is this where I can find out my account credit
+flights.account_credit;Who can tell me if there is a credit on the account
+flights.account_credit;I need to find my account credit. Haow can I do this?
+flights.account_credit;The credit on my account. How much is it?
+flights.account_credit;How much do I have towards my next flight?
+flights.account_credit;My account should have a credit on it.
+flights.account_credit;Did the credit for the flight on  Monday , reach my account?
+flights.account_credit;Where is my account credit for my cancelled flight in  january ?
+flights.account_credit;Last month , I received a credit for a missed flight, but I forgot how much it was.
+flights.account_credit;What is the balance of the credit on my account? 
+flights.account_credit;Please help me. Are you able to tell me how many account credits I have?
+flights.account_credit;I don't know where to look for my account credits.
+flights.account_credit;Can you check for me? Where are my account credits?
+flights.account_credit;I don't know if I have any account credits.
+flights.account_credit;Can you tell me the account credit balance I don't know if I have any account credits.
+flights.account_credit;What about the credit on my account from my cancelled flight?
+flights.account_credit;How can I find my account credits?
+flights.account_credit;Do I have any account credits?
+flights.account_credit;Is there a credit on my account?

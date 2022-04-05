@@ -1,0 +1,949 @@
+intent;utterance
+phone_plan.includes_mms;Do sending images and pictures work with  this  plan?
+phone_plan.includes_mms;Would the TIFF picture images be included along with this?
+phone_plan.includes_mms;Would this plan include MMS too?
+phone_plan.includes_mms;Would you mind checking if this plan includes MMS?
+phone_plan.includes_mms;Does images work with this plan?
+phone_plan.includes_mms;Does this plan have MMS?
+phone_plan.includes_mms;Do you include MMS?
+phone_plan.includes_mms;Are the other image formats included in the plan?
+phone_plan.includes_mms; TIFF formats ?
+phone_plan.includes_mms; PNG
+phone_plan.includes_mms;Will that include JPG
+phone_plan.includes_mms;Can I be able to include images as well?
+phone_plan.includes_mms; Are they included?
+phone_plan.includes_mms;What about picture messages
+phone_plan.includes_mms; free?
+phone_plan.includes_mms;MMS messages
+phone_plan.includes_mms;Are receiving GIF images along with text free?
+phone_plan.includes_mms;Does the plan include TIFF images?
+phone_plan.includes_mms;Are PNG images free?
+phone_plan.includes_mms;Does the plan include JPG messages?
+phone_plan.includes_mms;Are receiving jpg images free?
+phone_plan.includes_mms;Does the plan include MMS?
+phone_plan.includes_mms;Are MMS free?
+phone_plan.includes_mms;Are images free?
+phone_plan.includes_mms;are receiving images along with text free?
+phone_plan.includes_mms;picture messages, is it free?
+phone_plan.includes_mms;Does the plan include pictures messages?
+phone_plan.includes_mms;What about mms, is that included?
+phone_plan.includes_mms;if i receive pictures or images with the text messages are those also free?
+phone_plan.includes_sms;What about SMS for my  phone ?
+phone_plan.includes_sms;How about sending/ receiving texts?
+phone_plan.includes_sms;Could you include SMS in my phone?
+phone_plan.includes_sms;How about texting option?
+phone_plan.includes_sms;Could you also enable SMS?
+phone_plan.includes_sms;Are there any SMS limitations for my phone?
+phone_plan.includes_sms;Are there any limitations to texting?
+phone_plan.includes_sms;Does my phone have the ability to send/ receive texts?
+phone_plan.includes_sms;Please enable SMS for my phone.
+phone_plan.includes_sms;Please include SMS to my plan.
+phone_plan.includes_sms;How about SMS?
+phone_plan.includes_sms;Does my plan include sending texts to or receiving texts from any number?
+phone_plan.includes_sms;Does my plan include SMS?
+phone_plan.includes_sms;Would you please confirm if this covers sms also?
+phone_plan.includes_sms;I think this plan covers the sms also. Am I right?
+phone_plan.includes_sms;Will I get to send sms under this plan?
+phone_plan.includes_sms;Does this apply to sms?
+phone_plan.includes_sms;Wondering if I get to send text messages for free in this plan.
+phone_plan.includes_sms;Are the messages included in this plan?
+phone_plan.includes_sms;Is sending messages free in this plan?
+phone_plan.includes_sms;Can I send a message for no extra cost?
+phone_plan.includes_sms;Does that include texting?
+phone_plan.includes_sms;Is SMS included?
+phone_plan.includes_sms;What about texting?
+phone_plan.includes_sms;Are texts included?
+bill_reduction.other_options;I want another alternative.
+bill_reduction.other_options;Is there any other alternative?
+bill_reduction.other_options;Are there any alternatives available?
+bill_reduction.other_options;Please tell me the other options.
+bill_reduction.other_options;What are the other options?
+bill_reduction.other_options;Other Options?
+bill_reduction.other_options;Tell me about the other options.
+bill_reduction.other_options;Help me know about the other options.
+bill_reduction.other_options;Let me know the better options.
+bill_reduction.other_options;Can you tell me the other options?
+bill_reduction.other_options;I want a better option.
+bill_reduction.other_options;I would like you to search for other ways.
+bill_reduction.other_options;I want to get details of other options.
+bill_reduction.other_options;Are these the available options? Do I have any other?
+bill_reduction.other_options;Is there any better way?
+bill_reduction.other_options;Is there a better way?
+bill_reduction.other_options;Could you get me another option?
+bill_reduction.other_options;What other options do I have?
+bill_reduction.other_options;Is there a better option?
+bill_reduction.other_options;I did not like either of these options. Is there any other?
+bill_reduction.other_options;Are there other ways?
+bill_reduction.other_options;I would like to know other ways to reduce my bill.
+bill_reduction.other_options;Do you have any other choices?
+bill_reduction.other_options;Are there other options?
+bill_reduction.other_options;What other options are there?
+faq.plan_questions;I want to understand the available plans.
+faq.plan_questions;Which plan do you recommend for my needs?
+faq.plan_questions;Can I customize any plans to suit my needs?
+faq.plan_questions;I’m confused with the various plans. Can you help me choose the right one?
+faq.plan_questions;Would you be able to help me pick the right plan for my needs?
+faq.plan_questions;Could you explain the details of various plans?
+faq.plan_questions;I have some plan related questions.
+faq.plan_questions;I need help understanding the various plans I could choose from.
+faq.plan_questions;Could you explain to me the different plans you have?
+faq.plan_questions;What plans do you have?
+faq.plan_questions;What are the various plan choices I have?
+faq.plan_questions;What are the available plan questions?
+faq.plan_questions;Plan questions please.
+faq.plan_questions;Can you tell me more about plan questions?
+faq.plan_questions;Plan questions available?
+faq.plan_questions;More details about plan questions?
+faq.plan_questions;I want to know more details about plan questions.
+faq.plan_questions;Please tell me more about plan questions.
+faq.plan_questions;More Info about plan questions.
+faq.plan_questions;Let me know more about the plan questions.
+faq.plan_questions;Tell me more about the plan questions.
+faq.plan_questions;Help me know about the plan questions.
+faq.plan_questions;Can I know the type of plan questions you can help to resolve?
+faq.plan_questions;What are the plan types available?
+faq.plan_questions;I want to know about plan questions.
+faq.plan_questions;Plan questions
+faq.bill_reduction.other_purchases;Do you notice any other purchases?
+faq.bill_reduction.other_purchases;Did you notice any other purchases?
+faq.bill_reduction.other_purchases;Is that it or are there any more purchases?
+faq.bill_reduction.other_purchases;Please enlighten me about the other purchases that were made recently.
+faq.bill_reduction.other_purchases;I’d like to be aware of all the other purchases made.
+faq.bill_reduction.other_purchases;Please let me know if any other purchases have been added.
+faq.bill_reduction.other_purchases;I’d like to know what other purchases were added.
+faq.bill_reduction.other_purchases;What are the other purchases that I made?
+faq.bill_reduction.other_purchases;What purchases did I make?
+faq.bill_reduction.other_purchases;Did I make any other purchases?
+faq.bill_reduction.other_purchases;Are there any other purchases that I should be aware of?
+faq.bill_reduction.other_purchases;Other purchases?
+faq.bill_reduction.other_purchases;Put me in loop if there are any other purchases.
+faq.bill_reduction.other_purchases;Enrich me with the knowledge of other purchases.
+faq.bill_reduction.other_purchases; please let me know about other purchases.
+faq.bill_reduction.other_purchases;If possible
+faq.bill_reduction.other_purchases;It would be grateful if you let me know about the other purchases.
+faq.bill_reduction.other_purchases;Please let me know if there are any other purchases.
+faq.bill_reduction.other_purchases;Is it possible for you to tell me about other purchases.
+faq.bill_reduction.other_purchases;I want to know if there are any other purchases?
+faq.bill_reduction.other_purchases;Tell me about any other purchases.
+faq.bill_reduction.other_purchases;Can you tell me about other purchases?
+faq.bill_reduction.other_purchases;Help me get the information about any other purchases.
+faq.bill_reduction.other_purchases;Any other purchases?
+faq.bill_reduction.other_purchases;Let me know if there are other purchases?
+faq.bill_reduction.other_purchases;Is there any other purchase?
+faq.bill_reduction.other_purchases;Are there any other purchases?
+phone_plan.new_line_add;Need another line for my phone starting  next month .
+phone_plan.new_line_add;Could you include another line?
+phone_plan.new_line_add;Could you add one more line to my phone account?
+phone_plan.new_line_add;What is the process to include an additional line in my account?
+phone_plan.new_line_add;Can you add a new phone line for my spouse?
+phone_plan.new_line_add;I want to add two new phone lines for my kids.
+phone_plan.new_line_add;I want a new phone line for my daughter.
+phone_plan.new_line_add;I want a new phone line for my son.
+phone_plan.new_line_add;Could you please add a new phone line?
+phone_plan.new_line_add;What is the process to add a new line to my plan?
+phone_plan.new_line_add;How would my pricing change if I add a new line to my plan?
+phone_plan.new_line_add;I’d like to add a new line to my plan.
+phone_plan.new_line_add;Please help adding a new line to my account.
+phone_plan.new_line_add;How do I add another line to my plan?
+phone_plan.new_line_add;How much do I need to pay if I add another line to my plan?
+phone_plan.new_line_add;I need too add another new line to my current plan
+phone_plan.new_line_add;Please add another new line to my existing plan
+phone_plan.new_line_add;Can we add another line to my plan?
+phone_plan.new_line_add;Can you add a new line to my account? How much do I need to pay?
+phone_plan.new_line_add;How much is it to add a line to my current plan?
+phone_plan.new_line_add;How much does it cost to add a line to my existing plan?
+phone_plan.new_line_add; how much more it would cost?
+phone_plan.new_line_add;Can I add another line to my existing plan
+phone_plan.new_line_add;How much would it cost to add new line to my plan?
+phone_plan.new_line_add;I want to add new mobile line to my existing plan
+phone_plan.new_line_add;I was wondering how much more I would need to pay if I added another mobile line to our plan
+phone_plan.new_line_add;How much to pay if I add other line to my plan
+phone_plan.new_line_add;I want to add new line
+phone_plan.cruise_plan_add;Please add cruise plan to all my wireless phone lines.
+phone_plan.cruise_plan_add;How do I remain connected with my family while I am on a cruise vacation? Do I need 
+phone_plan.cruise_plan_add;Please make my current phone work on a cruise for 8 days.
+phone_plan.cruise_plan_add;We are going on a honeymoon trip to Hawaii! Can we have some kind of a cruise phone plan for 6 days?
+phone_plan.cruise_plan_add;Can I make use of the remaining minutes on my current phone plan while I am on a cruise?
+phone_plan.cruise_plan_add;May I get cruise pass on my phone for the the next 7 days?
+phone_plan.cruise_plan_add;I need to add cruise plan to my phone temporariliy.
+phone_plan.cruise_plan_add;Will my current phone work on cruise ship? Do I need to take a special plan?
+phone_plan.cruise_plan_add;I want to use my phone on a cruise ship. Do you have any recommendations?
+phone_plan.cruise_plan_add;Can you expand my coverage to cruise ships for the next 1 week?
+phone_plan.cruise_plan_add;Is my phone capable of working while on a cruise?
+phone_plan.cruise_plan_add;Is  there a cruise ship calling package for my phone?
+phone_plan.cruise_plan_add;Can I use text and data while on a cruise
+phone_plan.cruise_plan_add;I'm taking Norwegian Cruise line for about 6 days. Is there a special phone plan I could use?
+phone_plan.cruise_plan_add;Any mobile phone service while I'm on a cruise vacation?
+phone_plan.cruise_plan_add;How to use my cell phone ona cruise liner?
+phone_plan.cruise_plan_add;How do I avoid roaming charges on a cruise?
+phone_plan.cruise_plan_add;Can I get cruise phone plan for 5 days?
+phone_plan.cruise_plan_add;Can you make my phone work on Carnival cruise? I will be on it for the next 1 week!
+phone_plan.cruise_plan_add;We are going on a Cruise vacation to Hawaii!! How will I make my phone work on a cruise?
+phone_plan.cruise_plan_add; please :)
+phone_plan.cruise_plan_add; Yay! Could you add cruise pass
+phone_plan.cruise_plan_add;I am going on a Disney cruise to Bahamas
+phone_plan.cruise_plan_add;I will be on a Princess cruise from 11th to 17th. Please include travel pass on my phone.
+phone_plan.cruise_plan_add;I am taking Royal caribbean Cruise for the next 7 days. Can you add travel pass to my phone?
+phone_plan.cruise_plan_add;how do I make my phone work in a Cruise ship?
+phone_plan.cruise_plan_add;I'm going on a cruise and need a package for my 4 days there
+phone_plan.cruise_plan_add;I need coverage for a cruise I'm going on to greece
+phone_plan.cruise_plan_add;going on a cruise to barbados for 3 days
+phone_plan.cruise_plan_add;i'm taking a cruise to puerto vallarta and want to be able to use my 
+phone_plan.cruise_plan_add;i'm taking a cruise to  puerto vallarta  and want to be able to use my phone
+phone_plan.cruise_plan_add;going on a cruise to  barbados  for  3  days
+phone_plan.cruise_plan_add;I need coverage for a cruise I'm going on to  greece
+phone_plan.cruise_plan_add;I'm going on a cruise and need a package for my  4  days there
+bill_reduction.current_service_cancellation;I hope the service is cancelled and I won’t be billed from next  month  onwards.
+bill_reduction.current_service_cancellation;When can I expect to get a refund for the service I cancelled.
+bill_reduction.current_service_cancellation;Please refund the fee for the cancelled service at the earliest.
+bill_reduction.current_service_cancellation;I want my money refunded asap since I cancelled my service.
+bill_reduction.current_service_cancellation;Could I get a full or a partial refund for this cancellation?
+bill_reduction.current_service_cancellation;Am I getting a partial refund for the cancelled service?
+bill_reduction.current_service_cancellation;Would you be kind enough to refund the fee for this service since I already cancelled it?
+bill_reduction.current_service_cancellation;Could you please waive the fee for this service?
+bill_reduction.current_service_cancellation;Could you process the refund for the service that I removed?
+bill_reduction.current_service_cancellation;May I get a refund for the cancelled service?
+bill_reduction.current_service_cancellation;I am wondering if I will get a refund by cancelling  this  service.
+bill_reduction.current_service_cancellation; if I cancel the service.
+bill_reduction.current_service_cancellation;Is it possible to get a refund
+bill_reduction.current_service_cancellation;Let the service be cancelled and process the refund.
+bill_reduction.current_service_cancellation;I request you to refund me the fee.
+bill_reduction.current_service_cancellation;Help me cancel the service and to get the money back.
+bill_reduction.current_service_cancellation;Please see if you can wave this fee.
+bill_reduction.current_service_cancellation;I want to get a refund of this.
+bill_reduction.current_service_cancellation;Can I get a refund for this month?
+bill_reduction.current_service_cancellation;Please cancel my subscription and check if I am eligible for a refund.
+bill_reduction.current_service_cancellation;Refund me the money by removing that service.
+bill_reduction.current_service_cancellation;I no longer need that service. Can I get the refund now?
+bill_reduction.current_service_cancellation;Is it possible to refund my money?
+bill_reduction.current_service_cancellation;I want to know if it is possible to un-do this bill.
+bill_reduction.current_service_cancellation;Can you remove this month's service?
+bill_reduction.current_service_cancellation;Can you also wave this fee?
+phone_plan.covers_all_lines;I just want to make sure the plan is included for all the lines
+phone_plan.covers_all_lines;Could you ensure that all lines are covered under the plan?
+phone_plan.covers_all_lines;I want to ensure this covers all the lines.
+phone_plan.covers_all_lines;Could you expand this to all the other lines?
+phone_plan.covers_all_lines;Is it for my line or all the lines?
+phone_plan.covers_all_lines;What lines are included for this package?
+phone_plan.covers_all_lines;Are all the lines included for this?
+phone_plan.covers_all_lines;Would it be included for all the lines in my account?
+phone_plan.covers_all_lines;Is it for covering all the lines?
+phone_plan.covers_all_lines;Will that cover all the lines?
+phone_plan.covers_all_lines;How about the other lines? Does it cover them too? 
+phone_plan.covers_all_lines;Does it only cover one line?
+phone_plan.covers_all_lines;Does it cover all lines?
+phone_plan.covers_all_lines;Are all of my lines covered?
+phone_plan.covers_all_lines;What are the lines that are covered under this plan?
+phone_plan.covers_all_lines;Enrich me with the knowledge if all the lines are covered.
+phone_plan.covers_all_lines;Let me know if all the lines are covered or not.
+phone_plan.covers_all_lines;I want to know if all the lines will be covered.
+phone_plan.covers_all_lines;Single line?
+phone_plan.covers_all_lines;Covers all lines?
+phone_plan.covers_all_lines;Can that cover all the lines?
+phone_plan.covers_all_lines;Will it cover all the lines?
+phone_plan.covers_all_lines;Will all the lines be covered?
+phone_plan.covers_all_lines;Is that per line or on all my lines?
+phone_plan.covers_all_lines;Does that cover all lines?
+faq.plan.current_plan;I want to discuss the details of my present plan.
+faq.plan.current_plan;What exactly is the plan that I currently have?
+faq.plan.current_plan;Could you provide the details of the plan I have at present?
+faq.plan.current_plan;Where do I find the details of my existing plan?
+faq.plan.current_plan;Could you help me understand the details of my current plan?
+faq.plan.current_plan;Need some help understanding the plan I currently have.
+faq.plan.current_plan;Could you tell me which plan I have now?
+faq.plan.current_plan;Can you tell me what phone plan I have now?
+faq.plan.current_plan;What phone plan do I have now?
+faq.plan.current_plan;Which plan do I have now?
+faq.plan.current_plan;Can you see which plan I have now?
+faq.plan.current_plan;What plan do I have now?
+faq.plan.current_plan;What is my current plan?
+faq.plan.current_plan;What is my current data plan?
+faq.plan.current_plan;Please let me know my present plan.
+faq.plan.current_plan;Help me know about my current plan.
+faq.plan.current_plan;Please help me know about my current plan.
+faq.plan.current_plan;Can you help me know about my current plan?
+faq.plan.current_plan;Tell me about my present plan.
+faq.plan.current_plan;Can I know about my present plan?
+faq.plan.current_plan;Can I know about my current plan?
+faq.plan.current_plan;What is my present plan?
+faq.plan.current_plan;Let me know my present plan.
+faq.plan.current_plan;Let me know my current plan.
+faq.plan.current_plan;Please tell me about my current plan.
+faq.plan.current_plan;Tell me about my current plan.
+faq.plan.current_plan;What can you tell me about my current plan?
+faq.plan.current_plan;Can you tell me my current plan?
+phone_plan.plan_cancel;Can you cancel the travel plan from  next Monday ? I will be back in town on  Sunday .
+phone_plan.plan_cancel;I don’t need the travel plan any more.
+phone_plan.plan_cancel;I no longer need the travel plan on my account.
+phone_plan.plan_cancel;Could you unsubscribe me from the travel plan?
+phone_plan.plan_cancel;Please unsubscribe the travel plan. I no longer need it.
+phone_plan.plan_cancel;I’d like to unsubscribe the international travel plan.
+phone_plan.plan_cancel;Please remove the international plan that I recently added.
+phone_plan.plan_cancel;I no longer need the international plan. Please remove it.
+phone_plan.plan_cancel;Could you cancel the international plan?
+phone_plan.plan_cancel;I’d like to cancel the plan that I recently added for my international trip.
+phone_plan.plan_cancel;Should I cancel my international plan? Or will you be able to do that for me?
+phone_plan.plan_cancel;Can you cancel my international plan for me?
+phone_plan.plan_cancel;Can I cancel my international plan?
+phone_plan.plan_cancel;Wondering if I can cancel my international plan.
+phone_plan.plan_cancel;I would like to know if it is possible to unsubscribe the international plan I have on my line.
+phone_plan.plan_cancel;I will be done with my trip in  3 days . So, I do not need the plan. Please cancel it.
+phone_plan.plan_cancel;I do not need the international plan. Cancel it.
+phone_plan.plan_cancel;Please cancel my international roaming subscription.
+phone_plan.plan_cancel;How to cancel my subscription of an international plan.
+phone_plan.plan_cancel;I want to know the steps to cancel the international plan which I opted for.
+phone_plan.plan_cancel;Should I cancel my plan when I get back
+phone_plan.plan_cancel;Should I cancel my plan then?
+phone_plan.plan_cancel;do I need to cancel when i get back?
+phone_plan.plan_cancel;I no longer need an international plan and would like to cancel
+phone_plan.plan_cancel;I'm returning on Tuesday. Can I cancel plan then?
+phone_plan.plan_cancel;I need to cancel plan. Should I cancel or can you?
+phone_plan.plan_cancel;How do I cancel my international plan?
+phone_plan.plan_cancel;I'm back in the us and would like to cancel my plan.
+phone_plan.cheaper_plan_options;I find the  current  plan getting expensive. I need a cheaper plan.
+phone_plan.cheaper_plan_options;Do you have any other plan that is more affordable for me?
+phone_plan.cheaper_plan_options;I want a cheaper plan for my phone.
+phone_plan.cheaper_plan_options;I want to downgrade the plan and get a plan that is affordable.
+phone_plan.cheaper_plan_options;Do you have alternate plans that are cheaper than the current one?
+phone_plan.cheaper_plan_options;I can’t afford the current pricing. Is there a cheaper option?
+phone_plan.cheaper_plan_options;I need an affordable plan for my phone.
+phone_plan.cheaper_plan_options;Is there no other cheap plan?
+phone_plan.cheaper_plan_options;I would like you to search for other plans for less.
+phone_plan.cheaper_plan_options;I want to get details of other cheaper options.
+phone_plan.cheaper_plan_options;Is  this  the cheaper plan you have?
+phone_plan.cheaper_plan_options;that is the cheapest plan you have?
+phone_plan.cheaper_plan_options;are there no cheaper plans than that?
+phone_plan.cheaper_plan_options;Are these the available options? Do I have anything cheaper?
+phone_plan.cheaper_plan_options;Could you get me a less expensive option?
+phone_plan.cheaper_plan_options;What other cheap options do I have?
+phone_plan.cheaper_plan_options;Is there a cheaper option?
+phone_plan.cheaper_plan_options;I did not like either of these options. Are there any other cheaper plans?
+phone_plan.cheaper_plan_options;Are there other cheap plans?
+phone_plan.cheaper_plan_options;Do you have any other cheaper choices?
+phone_plan.cheaper_plan_options;Are there other more affordable options?
+phone_plan.cheaper_plan_options;What are the other affordable plans?
+phone_plan.cheaper_plan_options;How to get a cheaper monthly bill?
+phone_plan.cheaper_plan_options;Is anything cheaper?
+phone_plan.cheaper_plan_options;Have any other cheaper plans?
+phone_plan.cheaper_plan_options;Do you have anything more affordable?
+phone_plan.cheaper_plan_options;Is there anything cheaper?
+phone_plan.cheaper_plan_options;Are there any cheaper options?
+phone_plan.activation_fee;Do I need to be aware of any activation related charges?
+phone_plan.activation_fee;I assume there is some activation fee.
+phone_plan.activation_fee;Could you provide any information regarding the price to activate the service?
+phone_plan.activation_fee;Any activation related fees?
+phone_plan.activation_fee;Any activation related charges?
+phone_plan.activation_fee;How much would the activation cost?
+phone_plan.activation_fee;What is the fee to activate my service?
+phone_plan.activation_fee;Do I need to pay for activation?
+phone_plan.activation_fee;Do I have to pay anything to activate my service?
+phone_plan.activation_fee;I hope there is no activation fee.
+phone_plan.activation_fee; such as the activation fees?
+phone_plan.activation_fee;Any hidden charges
+phone_plan.activation_fee;Are there any activation fees that I should be aware of?
+phone_plan.activation_fee;Does my phone have an activation fee?
+phone_plan.activation_fee;What is the activation fee for my phone?
+phone_plan.activation_fee;Can you tell me the activation fee?
+phone_plan.activation_fee; What is the activation fee for this?
+phone_plan.activation_fee;How much is the activation fee?
+phone_plan.activation_fee;Will I have to pay any activation fee?
+phone_plan.activation_fee;Is there an activation fee?
+phone_plan.activation_fee;What is the activation fee?
+phone_plan.activation_fee;Do I have to pay an activation fee?
+phone_plan.activation_fee;Is there some kind of activation charge?
+phone_plan.activation_fee;Do I have to pay a fee to turn it on?
+phone_plan.activation_fee;Are there activation fees?
+phone_plan.activation_fee;does  this  have any activation fees?
+troubleshoot.router_issue;no wifi connection at home
+troubleshoot.router_issue;I am not able to upload pictures to web.
+troubleshoot.router_issue;My WiFi modem is not working.
+troubleshoot.router_issue;My router is not working even though I have restarted it a  couple  of times.
+troubleshoot.router_issue;It's taking a lot of time for a web page to reload.
+troubleshoot.router_issue;My internet stutters during my virtual meetings.
+troubleshoot.router_issue;My WiFi signals are too weak. Please improve them.
+troubleshoot.router_issue;I cannot send texts.
+troubleshoot.router_issue;My WiFi isn't working and I've restarted my router many times.
+troubleshoot.router_issue;Improve my WiFi speed.
+troubleshoot.router_issue;I am not able to watch good quality videos.
+troubleshoot.router_issue;My texts aren't going through. What to do?
+troubleshoot.router_issue;I am having trouble listening to calls.
+troubleshoot.router_issue;I am not able to receive calls.
+troubleshoot.router_issue;I am not able to receive texts. What to do?
+troubleshoot.router_issue;Wifi doesn't work.
+troubleshoot.router_issue;I am facing challenges in connecting to the web.
+troubleshoot.router_issue;The signal strength is weak.
+troubleshoot.router_issue;I have a poor network.
+troubleshoot.router_issue;I think my router is not working well.
+troubleshoot.router_issue;I can not access the internet.
+troubleshoot.router_issue;I seem to have issues connecting to the web.
+troubleshoot.router_issue;I am having trouble connecting to the internet
+troubleshoot.router_issue;My  router  is not working .
+troubleshoot.router_issue;My WiFi is not working
+troubleshoot.router_issue;My  internet  isn't working and I've restarted my  router  a couple of times.
+phone_plan.other_options;I want another alternative.
+phone_plan.other_options;Is there any other alternative?
+phone_plan.other_options;Are there any alternatives available?
+phone_plan.other_options;Please tell me the other options.
+phone_plan.other_options;What are the other options?
+phone_plan.other_options;Other Options?
+phone_plan.other_options;Tell me about the other options.
+phone_plan.other_options;Help me know about the other options.
+phone_plan.other_options;Let me know the better options.
+phone_plan.other_options;Can you tell me the other options?
+phone_plan.other_options;I want a better option.
+phone_plan.other_options;I would like you to search for other ways.
+phone_plan.other_options;I want to get details of other options.
+phone_plan.other_options;Are these the available options? Do I have any other?
+phone_plan.other_options;Is there any better way?
+phone_plan.other_options;Is there a better way?
+phone_plan.other_options;Could you get me another option?
+phone_plan.other_options;What other options do I have?
+phone_plan.other_options;Is there a better option?
+phone_plan.other_options;I did not like either of these options. Is there any other?
+phone_plan.other_options;Are there other ways?
+phone_plan.other_options;I would like to know other ways to reduce my bill.
+phone_plan.other_options;Do you have any other choices?
+phone_plan.other_options;Are there other options?
+phone_plan.other_options;What other options are there?
+phone_plan.other_options;can you show me other available options?
+phone_plan.other_options;show me other options?
+phone_plan.charge_type;Is  this a monthly   recurring  charge?
+phone_plan.charge_type;How often is the billing applied?
+phone_plan.charge_type;How often will I be billed for this?
+phone_plan.charge_type;Is this a bimonthly charge?
+phone_plan.charge_type;Is it an annual charge or a monthly charge?
+phone_plan.charge_type;Is this a charge that is recurring every month?
+phone_plan.charge_type;How frequently will this charge be applied?
+phone_plan.charge_type;Is there a cadence for this type of charge?
+phone_plan.charge_type;What is the frequency of this charge?
+phone_plan.charge_type;Is it yearly payment?
+phone_plan.charge_type;Is it one time payment for the subscription?
+phone_plan.charge_type;When is this subscription ending?
+phone_plan.charge_type;When will this be ending?
+phone_plan.charge_type;How long do I have to pay?
+phone_plan.charge_type;How many months is this commitment?
+phone_plan.charge_type;Will I be billed every time?
+phone_plan.charge_type;Does this happen every month?
+phone_plan.charge_type;Am I being charged every month?
+phone_plan.charge_type;Is it recurrent payment?
+phone_plan.charge_type;Will I be charged every month for this?
+phone_plan.charge_type;Is it a single time charge?
+phone_plan.charge_type;What type of payment charge is it?
+phone_plan.charge_type;Is that a one time charge?
+phone_plan.charge_type;s this a one time?
+phone_plan.charge_type;Is that a  $15  increase per month?
+bill_reduction.unfamiliar_charge;I’m not acknowledged of doing any such purchases
+bill_reduction.unfamiliar_charge;I’m not acknowledged of any such thing.
+bill_reduction.unfamiliar_charge;I’m not aware of anything .
+bill_reduction.unfamiliar_charge;I did not do any transactions.
+bill_reduction.unfamiliar_charge;I have no knowledge of purchases.
+bill_reduction.unfamiliar_charge;I guess there are no purchases made.
+bill_reduction.unfamiliar_charge;No purchases made.
+bill_reduction.unfamiliar_charge;I think i have not made any purchases.
+bill_reduction.unfamiliar_charge;I did not make any transactions.
+bill_reduction.unfamiliar_charge;I have no knowledge of it.
+bill_reduction.unfamiliar_charge;I did not commit to it.
+bill_reduction.unfamiliar_charge;I did not subscribe to it.
+bill_reduction.unfamiliar_charge; I did not purchase it.
+bill_reduction.unfamiliar_charge;This is strange
+bill_reduction.unfamiliar_charge;It’s unfamiliar to me.
+bill_reduction.unfamiliar_charge;I am not familiar with this.
+bill_reduction.unfamiliar_charge;I have no idea of this transaction.
+bill_reduction.unfamiliar_charge;I have no idea about it.
+bill_reduction.unfamiliar_charge;I did not make that purchase.
+bill_reduction.unfamiliar_charge;I don’t know if it is billed.
+bill_reduction.unfamiliar_charge;I don’t know about those charges.
+bill_reduction.unfamiliar_charge;I do not know about that.
+bill_reduction.unfamiliar_charge;I did not buy it.
+bill_reduction.unfamiliar_charge;I do not know that transaction.
+bill_reduction.unfamiliar_charge;Is it? I haven’t made any purchases.
+bill_reduction.unfamiliar_charge;I did not make that purchase
+faq.support_bot;Are you a bot?
+faq.support_bot;Are you a real person?
+faq.support_bot;I would appreciate some help.
+faq.support_bot;I badly need some help.
+faq.support_bot;What are the areas where you could help?
+faq.support_bot;How could you help me?
+faq.support_bot;May I get some directions?
+faq.support_bot;Could you please help me with the service?
+faq.support_bot;Need help. I’m stuck :(
+faq.support_bot;What info can I get from you?
+faq.support_bot;I am looking for some help.
+faq.support_bot;Can you help with my questions?
+faq.support_bot;Wondering how you can help me
+faq.support_bot;How can the bot help me?
+faq.support_bot;What does the bot do?
+faq.support_bot;what the virtual agent can do?
+faq.support_bot;what the agent can do?
+faq.support_bot;what the bot can do?
+faq.support_bot;What would you like to do?
+faq.support_bot;Why are you here?
+faq.support_bot;What can you do for me?
+faq.support_bot;What are you?
+faq.support_bot;Who are you?
+faq.support_bot;What type of chatbot are you?
+faq.support_bot;What things do you do to help me?
+faq.support_bot;What can you do to help me?
+faq.support_bot;What do you do?
+faq.support_bot;How do you work?
+faq.support_bot;What can you do?
+faq.support_bot;How can you help me?
+phone_plan.new_number;Can you reveal my new number?
+phone_plan.new_number;I'm excited to know my new number.
+phone_plan.new_number;What's my number?
+phone_plan.new_number;Would you mind telling me my new number?
+phone_plan.new_number;New number
+phone_plan.new_number;May I ask the number of my new line?
+phone_plan.new_number;Tell me my new number please.
+phone_plan.new_number;Let me know my new number.
+phone_plan.new_number;How can I get the new line's number?
+phone_plan.new_number;Which is the new line I got now?
+phone_plan.new_number;What is the number of the line, which I just got?
+phone_plan.new_number;Can I get the latest line's number?
+phone_plan.new_number;Is it possible to know my new line's number?
+phone_plan.new_number;Can I see the number please?
+phone_plan.new_number;What is  this  new line's number?
+phone_plan.new_number;I want to know my new device's number.
+phone_plan.new_number;Could you give me my new line's contact number?
+phone_plan.new_number;Show me my new number
+phone_plan.new_number;What is my  current  number?
+phone_plan.new_number;My updated number please
+phone_plan.new_number;What is the latest number?
+phone_plan.new_number;What is the updated number?
+phone_plan.new_number;Can you tell me my new number now?
+phone_plan.new_number;What is my new number?
+phone_plan.general_plan_question;Please change my plan.
+phone_plan.general_plan_question;Switch my plan.
+phone_plan.general_plan_question;Alter my plan.
+phone_plan.general_plan_question;Please help me change my plan.
+phone_plan.general_plan_question;Can I be switched to a different plan?
+phone_plan.general_plan_question;Guide me to change plans.
+phone_plan.general_plan_question;Transfer my plan.
+phone_plan.general_plan_question;Switch  plans.
+phone_plan.general_plan_question;Let me change  plans.
+phone_plan.general_plan_question;Change my plan.
+phone_plan.general_plan_question;I want to alter my plan..
+phone_plan.general_plan_question;Transfer my subscription.
+phone_plan.general_plan_question;Help me transfer my subscription.
+phone_plan.general_plan_question;I want to transfer my subscription .
+phone_plan.general_plan_question;Subscribe to other plans.
+phone_plan.general_plan_question;Switch to another plan.
+phone_plan.general_plan_question;Please switch me to other plans.
+phone_plan.general_plan_question;Help me switch to other plans.
+phone_plan.general_plan_question;Let me be switched to another plan.
+phone_plan.general_plan_question;Switch me to other plans.
+phone_plan.general_plan_question;Can I be switched to another plan?
+phone_plan.general_plan_question;Can you switch me to other plans?
+phone_plan.general_plan_question;I want to switch to other plans
+phone_plan.general_plan_question;thinking about a plan change
+phone_plan.general_plan_question;change plan
+bill_reduction.initiate;Why is my bill so high  this month ?
+bill_reduction.initiate;My  TV  bill increased by  $15  and I can't seem to figure out why.
+bill_reduction.initiate;I am trying to figure out why I was charged an extra  $25  in  the past month .
+bill_reduction.initiate;Can you explain my recent bill? The charges seem rather unusual.
+bill_reduction.initiate;There is some high fee added to my recent bill. What is it regarding?
+bill_reduction.initiate;My current bill shows higher than normal charge. Can you resolve it?
+bill_reduction.initiate;I’m shocked to see a high charge on my recent bill.
+bill_reduction.initiate;My recent bill is 20% higher than the previous one.
+bill_reduction.initiate;There seems to be some unauthorized charges on my account. Could you help?
+bill_reduction.initiate;How can I cut-down my monthly bill?
+bill_reduction.initiate;Are there any plans with less monthly charges/bills?
+bill_reduction.initiate;Can I get a better plan?
+bill_reduction.initiate;I want to decrease my monthly charges on the phone.
+bill_reduction.initiate;I’ve been noticing extra charges to my account. Could you help me understand them?
+bill_reduction.initiate;Could I get more details on this month’s mobile bill? It seems high.
+bill_reduction.initiate;I don’t understand the reason for the high bill on my mobile this month.
+bill_reduction.initiate;I wasn’t expecting a higher bill on my mobile this month.
+bill_reduction.initiate;My mobile bill is higher than usual.
+bill_reduction.initiate;I got my monthly bill and wondering why it is higher than usual.
+bill_reduction.initiate;This month’s bill is more than last month’s.
+bill_reduction.initiate;My last month’s bill is less than the current month’s bill.
+bill_reduction.initiate;Why is my bill so high for the past few months?
+bill_reduction.initiate;My TV bill increased by $15 and I can't seem to figure out why.
+bill_reduction.initiate;Why is my bill so high for the month of february?
+bill_reduction.initiate;Why is my recent bill so high?
+bill_reduction.initiate;Why is my bill so high this month?
+bill_reduction.initiate;Why is my bill so high?
+bill_reduction.save_bill;Are there any  offers  running?
+bill_reduction.save_bill;Are there any special  promotions  to help me reduce my monthly bill amount?
+bill_reduction.save_bill;do you have any  discount  plans?
+bill_reduction.save_bill;Are there any  discounts  or new plans I can take advantage of to lower my bill amount?
+bill_reduction.save_bill;Do you have any  discount  plans for thanksgiving?
+bill_reduction.save_bill;Are there any upcoming  promotions  for existing customers?
+bill_reduction.save_bill;I've been a loyal customer for several years now. Can I get a  discount  starting the next billing cycle?
+bill_reduction.save_bill;Do you have any  promotions  for christmas/ new year specifically for existing customers?
+bill_reduction.save_bill;Is there any  deal  to reduce my bill?
+bill_reduction.save_bill;Am I eligible for any  promotional  offer?
+bill_reduction.save_bill;Can I get a better  discount  plan?
+bill_reduction.save_bill;Are  Discount  plans available?
+bill_reduction.save_bill;Discount  available?
+bill_reduction.save_bill;Free  promotion  available?
+bill_reduction.save_bill;Will the  discount  be given?
+bill_reduction.save_bill;Can I avail the  discount  plan?
+bill_reduction.save_bill;Please save money.
+bill_reduction.save_bill;I have no money right now. Please reduce my bill.
+bill_reduction.save_bill;What are the ways I can reduce my bill?
+bill_reduction.save_bill;Lower my bill.
+bill_reduction.save_bill;Save money on my bills.
+bill_reduction.save_bill;Reduce my bill.
+bill_reduction.save_bill;Let me know the best way to reduce my bills.
+bill_reduction.save_bill;Help me in reducing my bills.
+bill_reduction.save_bill;Can you help me in saving money on my bills?
+bill_reduction.save_bill;Help me in saving money on my bills.
+bill_reduction.save_bill;I want to cut down my monthly bill.
+bill_reduction.save_bill;Please help me find a way to reduce my bill.
+bill_reduction.save_bill;Is there a way to lower my bill?
+bill_reduction.save_bill;I want to save money on my monthly plan.
+bill_reduction.save_bill;My monthly bill is high. I want to reduce it.
+bill_reduction.save_bill;How can I lower my bill?
+bill_reduction.save_bill;I think I no longer need all the services. Can I reduce my bill by adjusting my service options?
+bill_reduction.save_bill;I lost my job and can’t pay the full bill. Can you help  reduce the bill amount for some time?
+bill_reduction.save_bill;I am financially impacted due to Covid. Is there a way I could reduce my bill for some time?
+bill_reduction.save_bill;I wish to change my plan and get a lower bill each month?
+bill_reduction.save_bill;Are there any best practices that help me reduce my bill?
+bill_reduction.save_bill;Could you help me find ways to reduce my bill amount?
+bill_reduction.save_bill;How do I reduce my bill amount?
+bill_reduction.save_bill;What can I do to reduce my bill amount?
+bill_reduction.save_bill;How can I save money on my Bill?
+bill_reduction.save_bill;"How can I save money on my bill?"
+faq.troubleshoot.service_type;Who can help me troubleshoot the problem with my service.
+faq.troubleshoot.service_type;How do I troubleshoot the problem I have with my service?
+faq.troubleshoot.service_type;Are you the right person to address any service related issues?
+faq.troubleshoot.service_type;Please troubleshoot my service disruption.
+faq.troubleshoot.service_type;Would you be able to help troubleshoot the service issue I am facing?
+faq.troubleshoot.service_type;Could you help me find the root-cause for the service issue I am having?
+faq.troubleshoot.service_type;What is the root-cause for the issue I’m facing?
+faq.troubleshoot.service_type;I’m trying to troubleshoot an issue. Would you be able to help me?
+faq.troubleshoot.service_type;I need some help troubleshooting an issue.
+faq.troubleshoot.service_type;How to change the wifi settings?
+faq.troubleshoot.service_type;What are the service types you can provide us?
+faq.troubleshoot.service_type;What are the main service types you can provide  for us?
+faq.troubleshoot.service_type;Can you tell me the types of services you provide?
+faq.troubleshoot.service_type;Which types of services can you help us to troubleshoot?
+faq.troubleshoot.service_type;What are the types of services you can look over?
+faq.troubleshoot.service_type;Tell me about the service types you can troubleshoot.
+faq.troubleshoot.service_type;Tell me about the types of services present.
+faq.troubleshoot.service_type;Please tell me about the types of services you can help out with.
+faq.troubleshoot.service_type;Please tell me about the service types you can troubleshoot.
+faq.troubleshoot.service_type;Can you tell me about the service types you can help out with?
+faq.troubleshoot.service_type;On what types of services you can provide help on?
+faq.troubleshoot.service_type;Types of services you can troubleshoot.
+faq.troubleshoot.service_type;Can you tell me the type of services you can troubleshoot?
+faq.troubleshoot.service_type;What services are you troubleshooting right now?
+faq.troubleshoot.service_type;What type of services can you troubleshoot?
+bill_reduction.cheaper_plan_options;I need a  phone  plan that is more affordable. Please help.
+bill_reduction.cheaper_plan_options;Any cheaper options that you could make me aware of?
+bill_reduction.cheaper_plan_options;Do you have another cheaper plan for my phone?
+bill_reduction.cheaper_plan_options;May I get a cheaper phone plan?
+bill_reduction.cheaper_plan_options;How do I make sure my phone gets a reduced bill?
+bill_reduction.cheaper_plan_options;I want reduced phone bills each month and I am looking.
+bill_reduction.cheaper_plan_options;I want a plan that is cheaper since I don’t need all the services.
+bill_reduction.cheaper_plan_options;This plan doesn’t suit my needs and it’s expensive. Do you have a cheaper plan?
+bill_reduction.cheaper_plan_options;What other plans are available that are cheaper?
+bill_reduction.cheaper_plan_options;Could you help me get a cheaper plan?
+bill_reduction.cheaper_plan_options;I would like you to search for other plans with less monthly bill.
+bill_reduction.cheaper_plan_options;I want to get details of other cheaper options.
+bill_reduction.cheaper_plan_options;is  this  the cheaper plan you have?
+bill_reduction.cheaper_plan_options;that is the cheapest plan you have?
+bill_reduction.cheaper_plan_options;are there no cheaper plans than that?
+bill_reduction.cheaper_plan_options;Are these the available options? Do I have anything cheaper?
+bill_reduction.cheaper_plan_options;Could you get me a less expensive option?
+bill_reduction.cheaper_plan_options;What other cheap options do I have?
+bill_reduction.cheaper_plan_options;Is there a cheaper option?
+bill_reduction.cheaper_plan_options;I did not like either of these options. Are there any other cheaper plans?
+bill_reduction.cheaper_plan_options;Are there other cheap plans?
+bill_reduction.cheaper_plan_options;Do you have any other cheaper choices?
+bill_reduction.cheaper_plan_options;Are there other more affordable options?
+bill_reduction.cheaper_plan_options;What are the other affordable plans?
+bill_reduction.cheaper_plan_options;Are there any cheaper options?
+bill_reduction.cheaper_plan_options;Is there anything cheaper?
+bill_reduction.cheaper_plan_options;Do you have anything more affordable?
+bill_reduction.cheaper_plan_options;I am wondering if I could reduce my monthly bill amount by getting into a different plan.
+bill_reduction.cheaper_plan_options;How to get a cheaper monthly bill?
+troubleshoot.router_placement;What is the best place to place a router at home?
+troubleshoot.router_placement;How is the router placed?
+troubleshoot.router_placement;Can the router be placed anywhere in the house?
+troubleshoot.router_placement;Where can be the WiFi router located?
+troubleshoot.router_placement;What is the best location for a router?
+troubleshoot.router_placement;Where to place a router for optimum signals?
+troubleshoot.router_placement;How to place a router for optimum signals?
+troubleshoot.router_placement;How can I place my router for better signals?
+troubleshoot.router_placement;Where do I place my router for best placement?
+troubleshoot.router_placement;Router placement.
+troubleshoot.router_placement;Do you know the optimum router placement?
+troubleshoot.router_placement;Where can I place my modem?
+troubleshoot.router_placement;Help me place the router so that I get maximum signal strength.
+troubleshoot.router_placement;Help me with my router placement.
+troubleshoot.router_placement;Tell me a place where my WiFi has less interference with other signals.
+troubleshoot.router_placement;Suggest me a place to keep my router where I can get a maximum amount of signals.
+troubleshoot.router_placement;Let me know the best place for my modem placement.
+troubleshoot.router_placement;Please let me know the best place for my router placement.
+troubleshoot.router_placement;Tell me the best place for my modem placement.
+troubleshoot.router_placement;Tell me the best place for my router placement.
+troubleshoot.router_placement;Can you tell me the better place to place my router?
+troubleshoot.router_placement;Where can I place my router?
+troubleshoot.router_placement;Where do I place my router?
+troubleshoot.router_placement;Can you help me with my router placement?
+troubleshoot.router_placement;I want to know my optimum router placement
+phone_plan.travel_plan_add;We will be leaving for  London   next week .
+phone_plan.travel_plan_add;will be leaving for  spain   next week
+phone_plan.travel_plan_add;can I use internet and make calls while I am abroad?
+phone_plan.travel_plan_add;Going over seas and need a travel plan
+phone_plan.travel_plan_add;I need help for a trip I'm taking soon.
+phone_plan.travel_plan_add;Is there an international traveling package for my phone?
+phone_plan.travel_plan_add;I want the ability to send text messages while traveling internationally.
+phone_plan.travel_plan_add;Can I get international roaming enabled for my phone?
+phone_plan.travel_plan_add;Can you add international roaming service for my phone?
+phone_plan.travel_plan_add;How do I avoid roaming fees while using my phone in a different country?
+phone_plan.travel_plan_add;Should I get a new phoen plan while going abroad?
+phone_plan.travel_plan_add;Please ensure my phone works in  South Africa  from 11th to 22nd of this month.
+phone_plan.travel_plan_add;Can you expand my coverage to countries outside the  US  for about  9  days?
+phone_plan.travel_plan_add;I want international day pass on my phone for the next  7  days.
+phone_plan.travel_plan_add;I want travel pass for the next  10  days.
+phone_plan.travel_plan_add;Is my phone capable of working with networks in other countries?
+phone_plan.travel_plan_add;Can I make phone calls while traveling internationally?
+phone_plan.travel_plan_add;Will internet on my phone work while I am traveling abroad?
+phone_plan.travel_plan_add;I will be visting my parents in  Sri Lanka  for the next two weeks. Could you enable travel pass to my phone?
+phone_plan.travel_plan_add;How do I add some type ofan international plan to my phone?
+phone_plan.travel_plan_add;Can I use my data while traveling internationally?
+phone_plan.travel_plan_add;I am traveling internationally. How do I make use of my current phone instead of buying a new phone and/or a local SIM card?
+phone_plan.travel_plan_add;I am going to  Israel  on a study tour. I want my phone to work in the local telecom network.
+phone_plan.travel_plan_add;I am going to  Dubai  on a business tour. Please enable travel plan to my phone.
+phone_plan.travel_plan_add;I will be in India for the next  3  weeks. Can I make my phone work with Reliance network?
+phone_plan.travel_plan_add;How do I make my current phone work in a differen country?
+phone_plan.travel_plan_add;I will be in Canada next week and will be back the following week. Will my phone work in  Canada ?
+phone_plan.travel_plan_add;I am planning for a hitchhiking tour in  Asia  and  Europe . Any tips to remain in contact with my parents using my existing phone?
+phone_plan.travel_plan_add;We are going on a honeymoon trip to  New Zealand . Can we have some kind of an international phone plan?
+phone_plan.travel_plan_add;I am going to  Africa  on a study trip. Would my current phone work there?
+phone_plan.travel_plan_add;How do I get international travel pass on my phone line?
+phone_plan.travel_plan_add;Can I use my existing phone during international travel?
+phone_plan.travel_plan_add;I am going abroad on vacation. Can I use the remaining minutes in my phone while traveling?
+phone_plan.travel_plan_add;I will be visiting my friend in  Japan  next month and I want travel plan for my phone during this period
+phone_plan.travel_plan_add;I will be going on a family vacation to  Asia  for the next  3  weeks. Can I use my existing phone without taking a local SIM card?
+phone_plan.travel_plan_add;I'm going on a business trip to  Europe . Can I get a travel pass added to my account?
+phone_plan.travel_plan_add;going to be traveling and need to make sure my phone will work
+phone_plan.travel_plan_add;going to be in  china  and need coverage for my phone
+phone_plan.travel_plan_add;need a plan because I'll be in  India  for  3  days
+phone_plan.travel_plan_add;traveling to mexico and want to make sure i have coverage
+phone_plan.travel_plan_add;taking a flight to  Montreal  and I want to make sure data works when i land
+phone_plan.travel_plan_add;i'm going on a trip to  Kuala Lumpur  for  7  days
+phone_plan.travel_plan_add;i'm going on a trip to  Kuala Lumpur  for  7  days
+phone_plan.travel_plan_add;traveling to  mexico  and want to make sure i have coverage
+faq.bill_reduction.bill_type;How could I obtain a lower bill every month?
+faq.bill_reduction.bill_type;Is there a way I could have lower bill amount each month?
+faq.bill_reduction.bill_type;Could you get my bill reduced?
+faq.bill_reduction.bill_type;Need some help getting my bill reduced.
+faq.bill_reduction.bill_type;Any Bill reduction options for my account?
+faq.bill_reduction.bill_type;How could I potentially reduce my monthly bill?
+faq.bill_reduction.bill_type;How could I possibly reduce my bill?
+faq.bill_reduction.bill_type;What options do I have to reduce my bill?
+faq.bill_reduction.bill_type; What are my options to reduce my bill?
+faq.bill_reduction.bill_type; What bills can you investigate?
+faq.bill_reduction.bill_type; Bill types?
+faq.bill_reduction.bill_type;What are the bill types you can explore?
+faq.bill_reduction.bill_type;What are the main  bill  types you can look over for us?
+faq.bill_reduction.bill_type;Can you tell me the types of bills you can explore?
+faq.bill_reduction.bill_type;Which types of bills can you help us to investigate?
+faq.bill_reduction.bill_type;Which types of bills can you look over?
+faq.bill_reduction.bill_type;What are the types of bills you can look over?
+faq.bill_reduction.bill_type;Tell me about the bill types you can investigate.
+faq.bill_reduction.bill_type;Tell me about the types of bills present.
+faq.bill_reduction.bill_type;Please tell me about the types of bills you can help out with.
+faq.bill_reduction.bill_type;Please tell me about the bill types you can investigate.
+faq.bill_reduction.bill_type;Can you tell me about the bill types you can help out with?
+faq.bill_reduction.bill_type;On what types of bills you can provide help on?
+faq.bill_reduction.bill_type;Types of bills you can investigate.
+faq.bill_reduction.bill_type;Can you tell me the types of bills you can investigate?
+faq.bill_reduction.bill_type;What are the type of bills you can help me to investigate?
+faq.bill_reduction.bill_type;What type of bills can you help me to investigate?
+bill_reduction.paymentcharge_type;Is  this a monthly   recurring  charge?
+bill_reduction.paymentcharge_type;How often is the billing applied?
+bill_reduction.paymentcharge_type;How often will I be billed for this?
+bill_reduction.paymentcharge_type;Is this a bimonthly charge?
+bill_reduction.paymentcharge_type;Is it an annual charge or a monthly charge?
+bill_reduction.paymentcharge_type;Is this a charge that is recurring every month?
+bill_reduction.paymentcharge_type;How frequently will this charge be applied?
+bill_reduction.paymentcharge_type;Is there a cadence for this type of charge?
+bill_reduction.paymentcharge_type;What is the frequency of this charge?
+bill_reduction.paymentcharge_type;Is it yearly payment?
+bill_reduction.paymentcharge_type;Is it  one time  payment for the subscription?
+bill_reduction.paymentcharge_type;When is this subscription ending?
+bill_reduction.paymentcharge_type;When will this be ending?
+bill_reduction.paymentcharge_type;How long do I have to pay?
+bill_reduction.paymentcharge_type;How many months is this commitment?
+bill_reduction.paymentcharge_type;Will I be billed every time?
+bill_reduction.paymentcharge_type;Does this happen every month?
+bill_reduction.paymentcharge_type;Am I being charged every month?
+bill_reduction.paymentcharge_type;Is it  recurrent  payment?
+bill_reduction.paymentcharge_type;Will I be charged every month for this?
+bill_reduction.paymentcharge_type;Is it a single time charge?
+bill_reduction.paymentcharge_type;What type of payment charge is it?
+bill_reduction.paymentcharge_type;Is that a  one time  charge?
+bill_reduction.paymentcharge_type;is this a  one time ?
+bill_reduction.paymentcharge_type;is  this  a  one time ?
+bill_reduction.paymentcharge_type;is this a  recurring  charge?
+bill_reduction.paymentcharge_type;what type of payment charge it is?
+phone_plan.first_option;consider the  first option
+phone_plan.first_option;I will take the  first option
+phone_plan.first_option;the other  one
+phone_plan.first_option;I'll take the  first one
+phone_plan.unlimited_plans;can I switch to the un-limited data plan please
+phone_plan.unlimited_plans;Can I be switched to unlimited data?
+phone_plan.unlimited_plans;How can I switch to unlimited data plans.
+phone_plan.unlimited_plans;want un-limited
+phone_plan.unlimited_plans;" Can I be switched to unlimited data? "
+phone_plan.unlimited_plans;switch to unlimited data
+phone_plan.unlimited_plans;Guide me to switch my plan to unlimited.
+phone_plan.unlimited_plans;It’s better to switch to unlimited for better options. Help me with it.
+phone_plan.unlimited_plans;I feel like changing my plan type to unlimited. Can you help me with it?
+phone_plan.unlimited_plans;How can I switch to un-limited plans.
+phone_plan.unlimited_plans;Let me change to unlimited plans.
+phone_plan.unlimited_plans;Change my subscription to unlimited plans.
+phone_plan.unlimited_plans;I want to alter my subscription to an unlimited plan.
+phone_plan.unlimited_plans;Transfer my subscription to unlimited plans.
+phone_plan.unlimited_plans;Help me transfer my subscription to unlimited plans.
+phone_plan.unlimited_plans;I want to transfer my subscription to unlimited plans.
+phone_plan.unlimited_plans;Subscribe to unlimited plans
+phone_plan.unlimited_plans;Switch to unlimited plans.
+phone_plan.unlimited_plans;Please switch me to unlimited plans.
+phone_plan.unlimited_plans;Help me switch to unlimited plans.
+phone_plan.unlimited_plans;Let me be switched to unlimited plans.
+phone_plan.unlimited_plans;Switch me to unlimited plans.
+phone_plan.unlimited_plans;Can I be switched to unlimited plans?
+phone_plan.unlimited_plans;Can you switch me to unlimited plans?
+phone_plan.unlimited_plans;I want to switch to unlimited plans
+phone_plan.unlimited_plans;what are my plan options
+phone_plan.unlimited_plans;do you have any unlimited plans?
+phone_plan.unlimited_plans;I need to switch to unlimited plans
+phone_plan.unlimited_plans;want to switch to unlimited plans
+troubleshoot.outage_issue;I think there is low wattage in our house.
+troubleshoot.outage_issue;Please restore our electrical supply.
+troubleshoot.outage_issue;We have no electricity here. What to do?
+troubleshoot.outage_issue;There is loss of electrical power in our area.
+troubleshoot.outage_issue;Is there a power cut in our area? If so, provide me the details.
+troubleshoot.outage_issue;Can you provide me the details about the power cut in our area?
+troubleshoot.outage_issue;It's been  eight hours  of outage here.
+troubleshoot.outage_issue;It's very cool in here with no power.
+troubleshoot.outage_issue;Please provide me with details about the power outage in our area.
+troubleshoot.outage_issue;Details about the power outage in our area.
+troubleshoot.outage_issue;Provide me details about the power cut in our area.
+troubleshoot.outage_issue;Power cut in here.
+troubleshoot.outage_issue;I want you to help me know about the power outage in our area.
+troubleshoot.outage_issue;Can you help me with the power outage in our area?
+troubleshoot.outage_issue;I think there is a power outage in our area.
+troubleshoot.outage_issue;Power Outage here.
+troubleshoot.outage_issue;Outage here
+troubleshoot.outage_issue;Outage here. What to do?
+troubleshoot.outage_issue;No power here.
+troubleshoot.outage_issue;It's an outage in our area. What to do?
+troubleshoot.outage_issue;It's power cut out here.
+troubleshoot.outage_issue;There is no power in here.
+troubleshoot.outage_issue;There is power  outage  in our area. What to do?
+troubleshoot.outage_issue;There is  outage  in our area . what to do?
+troubleshoot.outage_issue;There is  power cut  in our area. What to do?
+phone_plan.upgrade_data;I’d like to have an upgrade for my data.
+phone_plan.upgrade_data;I need a better data plan for my usage.
+phone_plan.upgrade_data;What are the various data upgrade options?
+phone_plan.upgrade_data;Could you please put me in a higher data plan?
+phone_plan.upgrade_data;I need a better data plan for my needs. 
+phone_plan.upgrade_data;Please put me in the higher data tier.
+phone_plan.upgrade_data;I frequently run out of data. Is there an upgraded data plan that I could use?
+phone_plan.upgrade_data;I need additional data. Could you upgrade it?
+phone_plan.upgrade_data;Could you upgrade my date?
+phone_plan.upgrade_data;Help me add more data to the existing data plan.
+phone_plan.upgrade_data;Please add more data.
+phone_plan.upgrade_data;Let the data plan be upgraded.
+phone_plan.upgrade_data;Help me upgrade the data
+phone_plan.upgrade_data;Please upgrade data
+phone_plan.upgrade_data;Upgrade the plan.
+phone_plan.upgrade_data;Upgrade my data plan
+phone_plan.upgrade_data;This data plan does not meet my needs. Can I upgrade to a better one?
+phone_plan.upgrade_data;I need a high volume of data.
+phone_plan.upgrade_data;I want to have a sufficient data plan.
+phone_plan.upgrade_data;The current data plan is not sufficient enough.
+phone_plan.upgrade_data;I want more data.
+phone_plan.upgrade_data;How to change my data plan?
+phone_plan.upgrade_data;How can I upgrade my data plan to others?
+phone_plan.upgrade_data;Can I upgrade my data plan
+phone_plan.upgrade_data;need to upgrade my data plan
+phone_plan.upgrade_data;I want to upgrade in data usage
+phone_plan.upgrade_data;upgrade my data
+phone_plan.upgrade_data;I want to upgrade my data usage
+troubleshoot.outage_timeline;How long will it take?
+troubleshoot.outage_timeline;How much time do I have to wait?
+troubleshoot.outage_timeline;When will it return?
+troubleshoot.outage_timeline;ETA for power to be back.
+troubleshoot.outage_timeline;How long does it take?
+troubleshoot.outage_timeline;When will it be back?
+troubleshoot.outage_timeline;At what time can the power be back?
+troubleshoot.outage_timeline;Can you tell me the estimated time for the power to be restored?
+troubleshoot.outage_timeline;When will the power be back?
+troubleshoot.outage_timeline;Will the power be back soon?
+troubleshoot.outage_timeline;Please let me know the duration of the outage.
+troubleshoot.outage_timeline;Tell me when the power is returning.
+troubleshoot.outage_timeline;Please tell me ETA .
+troubleshoot.outage_timeline;How long do I have to wait for the service to return?
+troubleshoot.outage_timeline;How long does that take?
+troubleshoot.outage_timeline;How long will it take for the service to be returned?
+troubleshoot.outage_timeline;Can the service be restored by the evening?
+troubleshoot.outage_timeline;What is the approximate time for the service to restore?
+troubleshoot.outage_timeline;Will the service be back in  2  hours?
+troubleshoot.outage_timeline;What is the ETA for getting the service back?
+troubleshoot.outage_timeline;Can you tell me the approximate time for service to return to normalcy?
+troubleshoot.outage_timeline;For how long do I need to wait for service to return?
+troubleshoot.outage_timeline;How much time is it going to take?
+troubleshoot.outage_timeline;How long do I have to wait?
+troubleshoot.outage_timeline;How long is it going to take?
+troubleshoot.outage_timeline;Do you know how long it's going to take?
+faq.bill_reduction.current_bill;I just can’t figure out my bill.
+faq.bill_reduction.current_bill;I want to understand my bill and I can’t seem to figure it out.
+faq.bill_reduction.current_bill;Would you be kind enough to help me go through my current bill?
+faq.bill_reduction.current_bill;Could you walk me through my current bill?
+faq.bill_reduction.current_bill;Would you be able to explain my bill to me?
+faq.bill_reduction.current_bill;I don’t know how I’m currently billed.
+faq.bill_reduction.current_bill;How do I understand my current bill?
+faq.bill_reduction.current_bill;Please explain the typical items I see in my current bill.
+faq.bill_reduction.current_bill;What are the usual entries in my current bill?
+faq.bill_reduction.current_bill;I want to know the components of my existing bill.
+faq.bill_reduction.current_bill;I need help understanding my current bill.
+faq.bill_reduction.current_bill;I want to understand my current bill.
+faq.bill_reduction.current_bill;Tell me my current phone bill.
+faq.bill_reduction.current_bill;What is my current phone bill?
+faq.bill_reduction.current_bill;Can you tell me what my phone bill is?
+faq.bill_reduction.current_bill;How can you help me know my phone bill?
+faq.bill_reduction.current_bill;Can I know my phone bill?
+faq.bill_reduction.current_bill;I want to know my current phone bill.
+faq.bill_reduction.current_bill;Please help me know my current phone bill.
+faq.bill_reduction.current_bill;Please let me know my phone bill.
+faq.bill_reduction.current_bill;Help me know my current phone bill.
+faq.bill_reduction.current_bill;Can you tell me my phone  bill ?
+faq.bill_reduction.current_bill;What is my phone  bill ?
+faq.bill_reduction.current_bill;Let me know my current phone bill.
+faq.bill_reduction.current_bill;Please tell me know my current phone bill.
+faq.bill_reduction.current_bill;Can you tell me my current phone bill?
+faq.bill_reduction.current_bill;What is my current bill?
+troubleshoot.password_change;Password slipped out of my mind. Please change it.
+troubleshoot.password_change;I failed to remember my password. Please help
+troubleshoot.password_change;I want to change my router password.
+troubleshoot.password_change;Forgot my password.
+troubleshoot.password_change;Can you help me change my router password?
+troubleshoot.password_change;Please change my password.
+troubleshoot.password_change;I want to reset my password.
+troubleshoot.password_change;Let me reset my password.
+troubleshoot.password_change;"Too many people are using my wifi. Help me! Let me reset my password."
+troubleshoot.password_change;Guide me the details to change my password.
+troubleshoot.password_change;Reset my password.
+troubleshoot.password_change;Help me change my password
+troubleshoot.password_change;Change my password.
+troubleshoot.password_change;I suspect some unauthorised logins. Are there any instructions to change the password?
+troubleshoot.password_change;I want to change the default password. What's the procedure?
+troubleshoot.password_change;How do I change the default password?
+troubleshoot.password_change;Looks like my router is no longer accepting my password. How do I change it?
+troubleshoot.password_change;What steps do I need to follow to reset my password?
+troubleshoot.password_change;Please help me with the process of changing the password.
+troubleshoot.password_change;Need help changing the admin password for my router.
+troubleshoot.password_change;My password doesn't work. How do I reset it?
+troubleshoot.password_change;I forgot my password. How do I change it?
+troubleshoot.password_change;How do I reset my password?
+troubleshoot.password_change;Can you please help me change my  wifi   password ?
+troubleshoot.password_change;I want to change my  password

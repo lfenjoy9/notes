@@ -1,0 +1,415 @@
+intent;utterance
+credit_card.replace_card;Can I get a new card, my one is damaged
+credit_card.replace_card;My credit card is lost, I need a replacement
+credit_card.replace_card;Replace my lost card
+credit_card.replace_card;replace a damaged card
+credit_card.replace_card;my card is damaged and I need a new one
+credit_card.replace_card;I lost my card, can I get a replacement
+credit_card.replace_card;Can I get my card replaced
+credit_card.replace_card;Card replacement
+credit_card.replace_card;I need to replace my credit card
+credit_card.replace_card;Can you send me a new credit card
+credit_card.replace_card;Please send a new credit card
+credit_card.replace_card;I need to be sent a new card
+credit_card.replace_card;Can you replace my card
+credit_card.replace_card;Send me a new card
+credit_card.replace_card;Can you send me a new card
+credit_card.replace_card;Can I get a new card
+credit_card.replace_card;Can I get a card replacement
+credit_card.replace_card;New credit card
+credit_card.replace_card;Need to replace my credit card
+credit_card.replace_card;Need to replace card
+credit_card.replace_card;I need a new credit card
+credit_card.replace_card;Replace my card
+credit_card.replace_card;New card
+credit_card.replace_card;I need to replace my card
+credit_card.replace_card;I need a new card
+credit_card.recurring_transactions;What happens to my existing recurring payments
+credit_card.recurring_transactions;I have monthly subscriptions, will they need changed
+credit_card.recurring_transactions;What about my annual subscriptions
+credit_card.recurring_transactions;I have annual payments set up, will they be affected
+credit_card.recurring_transactions;I have monthly bills coming off this card
+credit_card.recurring_transactions;Will my regular payments be affected
+credit_card.recurring_transactions;Do I need to do anything about my monthly subscriptions
+credit_card.recurring_transactions;Will this affect my subscription to Netflix
+credit_card.recurring_transactions;Does this affect my recurring payments
+credit_card.recurring_transactions;Will my recurring payments still go through
+credit_card.recurring_transactions;I have regular outgoings from that card
+credit_card.recurring_transactions;I have monthly payments set up, will they still be paid
+credit_card.recurring_transactions;will this affect my regular payments
+credit_card.recurring_transactions;what about my regular payments
+credit_card.recurring_transactions;will my gym payment still go through
+credit_card.recurring_transactions;what about my gym membership
+credit_card.recurring_transactions;I pay for streaming with that card
+credit_card.recurring_transactions;I have monthly subscriptions on this card
+credit_card.recurring_transactions;will my netflix still be paid
+credit_card.recurring_transactions;will my cell phone bill still be paid
+credit_card.recurring_transactions;I have monthly subscriptions, will those be paid
+credit_card.recurring_transactions;what about my subscription
+credit_card.recurring_transactions;what about my monthly bills
+credit_card.recurring_transactions;will my monthly transactions still be paid
+credit_card.recurring_transactions;will my recurring payments still happen
+loan_application.timelines;How long do I need to wait
+loan_application.timelines;Do you know how long this will take
+loan_application.timelines;what date will I hear by
+loan_application.timelines;Will I hear in  the next few days
+loan_application.timelines;Is there a deadline for the decision
+loan_application.timelines;How long does it take on average
+loan_application.timelines;will I be told when?
+loan_application.timelines;When will I hear?
+loan_application.timelines;will it take much longer
+loan_application.timelines;give me some idea of timing please
+loan_application.timelines;and when will this be?
+loan_application.timelines;when can I expect to hear back?
+loan_application.timelines;what's the timing for approval?
+loan_application.timelines;when will the loan be approved?
+loan_application.timelines;when will it be approved?
+loan_application.timelines;when can I get a decision?
+loan_application.timelines;when will this be?
+loan_application.timelines;Can you give me an idea of duration?
+loan_application.timelines;how much longer?
+loan_application.timelines;can you give me a date when it is done?
+loan_application.timelines;when can I expect the money?
+loan_application.timelines;is it going to take much longer?
+loan_application.timelines;How long will it take
+loan_application.timelines;When will you make a decision
+loan_application.timelines;Do you have a sense for when it might be done?
+credit_card.card_shipping;can you send my new card asap
+credit_card.card_shipping;when will my new credit card be mailed
+credit_card.card_shipping;How long before I get my new card
+credit_card.card_shipping;Will I receive it in  the next few days
+credit_card.card_shipping;Can I get it any quicker
+credit_card.card_shipping;How long am I expecting to wait
+credit_card.card_shipping;when will I receive the new card
+credit_card.card_shipping;will it be mailed straight a way
+credit_card.card_shipping;will it come in the mail
+credit_card.card_shipping;how many days will I need to wait
+credit_card.card_shipping;will it arrive  this week
+credit_card.card_shipping;when will my new card arrive
+credit_card.card_shipping;when will it be delivered
+credit_card.card_shipping;can you send it fast
+credit_card.card_shipping;can you send it quickly
+credit_card.card_shipping;can you expedite it
+credit_card.card_shipping;how long will I be without a card
+credit_card.card_shipping;when can I expect my new card
+credit_card.card_shipping;what's the shipping speed
+credit_card.card_shipping;what's the shipping method
+credit_card.card_shipping;when will it arrive
+credit_card.card_shipping;how long does it usually take
+credit_card.card_shipping;how fast do you ship
+credit_card.card_shipping;how long until my new card arrives
+credit_card.card_shipping;when will I get my new card
+credit_card.due_date;How many days until the payment is due?
+credit_card.due_date;How long until the payment due date
+credit_card.due_date;How long have I got until the next payment
+credit_card.due_date;I need to know when the payment is due by
+credit_card.due_date;Need to know the payment due date
+credit_card.due_date;I need to know when the payment is due
+credit_card.due_date;when is the payment date
+credit_card.due_date;when is the latest I can make the payment
+credit_card.due_date;When is the  last  date for payment
+credit_card.due_date;What date does the payment need to be made
+credit_card.due_date;what date is the balance due
+credit_card.due_date;What date is the payment due?
+credit_card.due_date;When is the due date for payment?
+credit_card.due_date;payment due date
+credit_card.due_date;what date is payment due
+credit_card.due_date;When does the payment need to be made
+credit_card.due_date;when do I need to make the payment by
+credit_card.due_date;What is the payment due date
+credit_card.due_date;Due date
+credit_card.due_date;What's the due date?
+credit_card.due_date;When do I need to make a payment by?
+credit_card.due_date;When do I need to pay by?
+credit_card.due_date;When is my payment due?
+credit_card.due_date;When is my balance due?
+credit_card.due_date;When is it due?
+credit_card.minimum_payment;What is the least payment I'm allowed to make
+credit_card.minimum_payment;What's the lowest payment I can make
+credit_card.minimum_payment;What is the least payment I can make
+credit_card.minimum_payment;minimum payment due
+credit_card.minimum_payment;What is the lowest amount I can pay
+credit_card.minimum_payment;What's the minimum amount I can pay
+credit_card.minimum_payment;What is the minimum I need to pay
+credit_card.minimum_payment;what amount is due
+credit_card.minimum_payment;How much is the minimum payment
+credit_card.minimum_payment;Can I make the minimum payment
+credit_card.minimum_payment;I can only pay the minimum
+credit_card.minimum_payment;What's the minimum payment amount
+credit_card.minimum_payment;I need to know the minimum payment amount
+credit_card.minimum_payment;what's my minimum payment for  last  month
+credit_card.minimum_payment;minimum for  last  month
+credit_card.minimum_payment;minimum due for  last  month
+credit_card.minimum_payment;I can't pay all of it
+credit_card.minimum_payment;I can't pay the whole thing right now
+credit_card.minimum_payment;I can't pay all of it, can I pay a part of it?
+credit_card.minimum_payment;What's my minimum payment due?
+credit_card.minimum_payment;Is there a minimum?
+credit_card.minimum_payment;What's the least I can pay?
+credit_card.minimum_payment;How much do I need to pay?
+credit_card.minimum_payment;Minimum
+credit_card.minimum_payment;What the minimum?
+credit_card.minimum_payment;What's the minimum I can pay?
+loan_application.status;I'm after the status of my  home  loan application
+loan_application.status;I applied for a loan and I'm looking for an update
+loan_application.status;What's happening with my  auto  loan application
+loan_application.status;Status of loan application with reference  196340972
+loan_application.status;I applied for a  home  loan and I need an update on the progress
+loan_application.status;Can I get an update on my application for a loan?
+loan_application.status;hi can i check on  home  loan  192039101
+loan_application.status;What about my  auto  loan  210932401
+loan_application.status;What is the status of my loan application  123456789 ?
+loan_application.status;hi can i look at my  auto  loan  459019291 ?
+loan_application.status;I need help with my  home  loan
+loan_application.status;What is the status of my  mortgage
+loan_application.status;Has loan  123456789  been approved
+loan_application.status;I applied for a loan, ref  123456789
+loan_application.status;What is the status of my loan application  123456789
+loan_application.status;I want to know about my loan application
+loan_application.status;I applied for a loan and I haven't had an update
+loan_application.status;Was my loan application rejected
+loan_application.status;Has my loan application been approved
+loan_application.status;Do you have an update on my  Honda  loan application?
+loan_application.status;What is my  mortgage  application status?
+loan_application.status;What is my  auto  loan application status?
+loan_application.status;update on my loan
+loan_application.status;what's the status of my loan application
+loan_application.status;how is my loan application progressing?
+credit_card.lost_card;stop payments from my card please I don't have it anymore
+credit_card.lost_card;stop my card
+credit_card.lost_card;my card needs cancelling
+credit_card.lost_card;please cancel my card
+credit_card.lost_card;I need to cancel my card
+credit_card.lost_card;lost or stolen card
+credit_card.lost_card;lost or stolen
+credit_card.lost_card;My credit card is lost
+credit_card.lost_card;Report a stolen card
+credit_card.lost_card;stolen card
+credit_card.lost_card;Lost card
+credit_card.lost_card;Report a lost credit card
+credit_card.lost_card;I can't find my credit card
+credit_card.lost_card;I've lost my credit card
+credit_card.lost_card;I want to report my card as missing
+credit_card.lost_card;I want to report a lost card
+credit_card.lost_card;I don't know where my card is
+credit_card.lost_card;I haven't been able to find my card
+credit_card.lost_card;Left my card at a restaurant
+credit_card.lost_card;I left my card in a taxi
+credit_card.lost_card;I think I left my card at the store
+credit_card.lost_card;I think I left my card at checkout
+credit_card.lost_card;I've misplaced my card
+credit_card.lost_card;I think my card was stolen
+credit_card.lost_card;Card stolen
+credit_card.lost_card;My card was stolen
+credit_card.lost_card;I'm missing my card
+credit_card.lost_card;My card is missing
+credit_card.lost_card;I think I lost my card
+credit_card.lost_card;I lost my card
+credit_card.compare;compare the  cashback rate  for  Gold Card  and  Silver Card
+credit_card.compare;compare the  cashback rate  for  Gold Card  and  Silver Card
+credit_card.compare;what are the  cashback  rates for  gold  and  silver  credit cards
+credit_card.compare;compare features of  bronze  and  silver  cards
+credit_card.compare;Compare  platinum  and  gold  cards
+credit_card.compare;credit card compare
+credit_card.compare;what are the differences between  gold  and  silver  cards
+credit_card.compare;can i compare  bronze  and  platinum  credit cards
+credit_card.compare;compare  interest   rates  for your credit cards
+credit_card.compare;how do the  cash back  rates compare between  gold  and  bronze
+credit_card.compare;is there a difference between the  fees  for  gold  and  silver
+credit_card.compare;i want to compare credit cards
+credit_card.compare;what cards have the best  cashback ?
+credit_card.compare;what's the best  interest   rates  on your credit cards?
+credit_card.compare;i want to compare  interest rates  on your credit cards
+credit_card.compare;compare  cashback  cards
+credit_card.compare;I want to compare features between credit cards
+credit_card.compare;compare credit cards
+credit_card.compare;i want to find the cards with the highest  cashback
+credit_card.compare;what are the  fees  for  bronze  and  silver
+credit_card.compare;compare cards with  cashback
+credit_card.compare;I can't find information about the differences between  gold  and  bronze
+credit_card.compare;How many  bonus points  do I get signing on with  gold  and  bronze ?
+credit_card.compare;What is the difference in  cashback  between  gold  and  bronze ?
+credit_card.compare;What  interest rates  apply to   gold  and  bronze ?
+credit_card.compare;I'm trying to find the  annual fees  between  gold  and  bronze , but can't seem to find it
+credit_card.compare;Compare credit card features
+credit_card.charges;There's a transaction for  $30   yesterday  and I didn't make it
+credit_card.charges;What's the charge for  $20
+credit_card.charges;I see a transaction for  $99.99  that appeared on my card on  Monday  that shouldn't be there
+credit_card.charges;Walmart has taken  $200  from account without my knowledge
+credit_card.charges;I've been wrongly charged  $35
+credit_card.charges;I don't know what the transaction for  $100  was
+credit_card.charges;$60  has come off my card  today  and I don't know what it is
+credit_card.charges;Query a charge for  $10  that appeared  yesterday
+credit_card.charges;There's a charge on my statement dated  11th November  that I don't recognize
+credit_card.charges;I don't recognize a charge for  $50  on my account
+credit_card.charges;I've been charged by Amazon for something on  8th Dec
+credit_card.charges;There's a fraudulent charge for  $25  on my account
+credit_card.charges;I've been charged  $20  and I don't know why
+credit_card.charges;What is the  $150  transaction showing on my statement for  yesterday
+credit_card.charges;I don't recognize the  $150  charge made on my card on  25th December
+credit_card.charges;There is a charge for  $150  on my account that I didn't spend
+credit_card.charges;I want to dispute a charge on  11th October
+credit_card.charges;There is a charge  yesterday  that I don't recognise
+credit_card.charges;I want to report fraud on my account
+credit_card.charges;I want to question a transaction that I see on my statement
+credit_card.charges;I have a charge that I'd like to dispute
+credit_card.charges;I don't recognize a transaction on my card
+credit_card.charges;I've been charged for something I didn't buy
+credit_card.charges;What's this transaction on my account?
+credit_card.charges;I've been overcharged
+credit_card.charges;There is a transaction on my statement that I didn't make
+credit_card.charges;There is a payment I don't recognise
+credit_card.charges;I want to dispute a transaction
+credit_card.charges;fraudulent charge on my card
+credit_card.charges;I have a charge on my credit card that I don't recognize
+credit_card.late_fee;Charges for late payments
+credit_card.late_fee;Fees  for missed or late payments
+credit_card.late_fee;If I miss the due date will I be charged
+credit_card.late_fee;Missed payment  fees
+credit_card.late_fee;What's the  fee  for a missed payment
+credit_card.late_fee;How much will I be  charged  for missing a payment?
+credit_card.late_fee;If I miss the payment due date is there a  fee ?
+credit_card.late_fee;Is there a charge if I pay after the due date
+credit_card.late_fee;will I be charged If I miss a payment
+credit_card.late_fee;What's the charge for missing a payment?
+credit_card.late_fee;Is there a  fee  if I make a late payment
+credit_card.late_fee;If I miss a payment is there a  fee
+credit_card.late_fee;Is there a charge if I miss a payment
+credit_card.late_fee;will you charge me a late fee
+credit_card.late_fee;will I be charged a late fee
+credit_card.late_fee;will I owe a late fee if I miss the payment
+credit_card.late_fee;do you have a late fee
+credit_card.late_fee;what will be my fee for paying late
+credit_card.late_fee;what's the fee if I pay late
+credit_card.late_fee;how about a late fee
+credit_card.late_fee;late payment fee
+credit_card.late_fee;what if I can't pay on time
+credit_card.late_fee;how much is the late fee
+credit_card.late_fee;is there a late fee
+credit_card.late_fee;what's the late fee
+credit_card.further_comparisons;all of them
+credit_card.further_comparisons;are the  fees   different  for each card?
+credit_card.further_comparisons;What are the  rewards  on offer for those cards
+credit_card.further_comparisons;Now the  interest rates
+credit_card.further_comparisons;Are there any  bonus points  on those cards?
+credit_card.further_comparisons;I want to compare  fees  as well
+credit_card.further_comparisons;can I compare  cash back   rates  now
+credit_card.further_comparisons;yes are there any  fees ?
+credit_card.further_comparisons;what  cash back   rates  are available?
+credit_card.further_comparisons;do any of the cards charge a subscription  fee
+credit_card.further_comparisons;What is the lowest  interest rate ?
+credit_card.further_comparisons;are there any cards that offer  rewards ?
+credit_card.further_comparisons;ya, tell me about  bonus points
+credit_card.further_comparisons;yeah, I want to know about  interest rates
+credit_card.further_comparisons;yes, what about  annual fees ?
+credit_card.further_comparisons;I'm trying to find the  annual fees
+credit_card.further_comparisons;What  interest rates  apply
+credit_card.further_comparisons;What is the  difference  in the  cashback
+credit_card.further_comparisons;How many  bonus points  do I get?
+credit_card.further_comparisons;What about the  interest rates ?
+credit_card.further_comparisons;Can you tell me about the  cashback ?
+credit_card.further_comparisons;Any  cashback ?
+credit_card.further_comparisons;And the  interest rates ?
+credit_card.further_comparisons;bonus points ?
+credit_card.further_comparisons;Are there any  fees ?
+credit_card.further_comparisons;What about  cashback ?
+credit_card.check_balance;Credit card balance amount
+credit_card.check_balance;How much am I owe on my account
+credit_card.check_balance;credit card balance for card ending  3951
+credit_card.check_balance;Balance on my credit card
+credit_card.check_balance;Can you tell me my balance?
+credit_card.check_balance;What's the statement balance
+credit_card.check_balance;How much is on my card?
+credit_card.check_balance;Credit card balance for card ending  3972
+credit_card.check_balance;Account balance
+credit_card.check_balance;What's the balance on my account
+credit_card.check_balance;What's my total balance
+credit_card.check_balance;credit card balance please
+credit_card.check_balance;Credit card ending  1846  balance
+credit_card.check_balance;What's the balance on my credit card
+credit_card.check_balance;Balance please
+credit_card.check_balance;How much do I owe on  4657 ?
+credit_card.check_balance;How much do I owe?
+credit_card.check_balance;Balance for  7890
+credit_card.check_balance;What's the balance for the account ending in  4356 ?
+credit_card.check_balance;Balance for card ending in  1234
+credit_card.check_balance;Card balance
+credit_card.check_balance;Balance
+credit_card.check_balance;What's my current balance?
+credit_card.check_balance;What's the balance on my card?
+credit_card.check_balance;What's my card balance?
+credit_card.make_a_payment;make a card payment please
+credit_card.make_a_payment;Make payment off my card
+credit_card.make_a_payment;Pay off my credit card balance for card  7420
+credit_card.make_a_payment;credit card ending  1065 , make a payment
+credit_card.make_a_payment;I'd like to pay my credit card  bill
+credit_card.make_a_payment;I want to make a payment on my credit card ending  2054
+credit_card.make_a_payment;I want to pay off my credit card balance
+credit_card.make_a_payment;I want to pay the balance
+credit_card.make_a_payment;Card payment
+credit_card.make_a_payment;Payment to card ending  6295
+credit_card.make_a_payment;Make a payment towards my credit card balance
+credit_card.make_a_payment;Pay my balance in full
+credit_card.make_a_payment;Pay my credit card balance
+credit_card.make_a_payment;Credit card payment
+credit_card.make_a_payment;payment on my credit card
+credit_card.make_a_payment;I want to pay my credit card  bill
+credit_card.make_a_payment;I would like to pay off  3948
+credit_card.make_a_payment;I would like to make a payment
+credit_card.make_a_payment;Pay the balance
+credit_card.make_a_payment;Payment for card  9453
+credit_card.make_a_payment;I want to pay my card
+credit_card.make_a_payment;Make a payment
+credit_card.make_a_payment;Payment
+credit_card.make_a_payment;I want to make a payment for the card ending in  4398
+credit_card.make_a_payment;I'd like to make a payment
+credit_card.lock_card;I need a temporary hold on my card
+credit_card.lock_card;Temporary block for my credit card
+credit_card.lock_card;Put a hold on my card
+credit_card.lock_card;Put a block on my credit card
+credit_card.lock_card;Block my card
+credit_card.lock_card;I need a freeze on my card
+credit_card.lock_card;put a freeze on my credit card
+credit_card.lock_card;freeze my card
+credit_card.lock_card;Temporarily hold card
+credit_card.lock_card;Temporarily lock card
+credit_card.lock_card;Temporarily freeze card
+credit_card.lock_card;Need to lock my card
+credit_card.lock_card;I can't find my card can you put a hold on it
+credit_card.lock_card;I need to temporarily lock my card
+credit_card.lock_card;Can you pause my credit card
+credit_card.lock_card;Pause my credit card
+credit_card.lock_card;I need you to pause my card
+credit_card.lock_card;I need to lock my card
+credit_card.lock_card;Lock my card
+credit_card.lock_card;Can you lock my credit card
+credit_card.lock_card;Can you freeze my card
+credit_card.lock_card;Hold on my card
+credit_card.lock_card;I need to put a hold on my card
+credit_card.lock_card;Can you put a pause on my card
+credit_card.lock_card;Freeze my card
+credit_card.last_statement_balance;I want my  statement balance  please
+credit_card.last_statement_balance;I want to know my credit card  statement balance  amount
+credit_card.last_statement_balance;What was my statement balance amount
+credit_card.last_statement_balance;last  month's  statement balance
+credit_card.last_statement_balance;statement balance  for my credit card
+credit_card.last_statement_balance;Credit card  statement balance
+credit_card.last_statement_balance;last statement balance
+credit_card.last_statement_balance;what was the  statement balance  on my  last  bill
+credit_card.last_statement_balance;what was my bill  last  month
+credit_card.last_statement_balance;what's  last  month's  statement
+credit_card.last_statement_balance;last  month's bill
+credit_card.last_statement_balance;how much do I owe from  last  month
+credit_card.last_statement_balance;remaining balance from my  last  bill
+credit_card.last_statement_balance;what do I owe from the  last statement
+credit_card.last_statement_balance;how much do I owe from my  last statement
+credit_card.last_statement_balance;how much do I owe from my  last  bill
+credit_card.last_statement_balance;balance from my  last statement
+credit_card.last_statement_balance;what's the balance from my  last statement
+credit_card.last_statement_balance;and how about my  last statement
+credit_card.last_statement_balance;last  bill
+credit_card.last_statement_balance;last statement
+credit_card.last_statement_balance;what was my  last statement
+credit_card.last_statement_balance;what was my  last  bill
+credit_card.last_statement_balance;what was the  last statement  total
+credit_card.last_statement_balance;how about my  last statement

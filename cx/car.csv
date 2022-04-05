@@ -1,0 +1,176 @@
+intent;utterance
+car_rental.larger_vehicle;test
+car_rental.larger_vehicle;no need to show me the tiny cars i need a real one
+car_rental.larger_vehicle;it sounds cramped and uncomfy show me something larger
+car_rental.larger_vehicle;i want a biger car for this trip
+car_rental.larger_vehicle;show me real big cars
+car_rental.larger_vehicle;upgrade it to suv?
+car_rental.larger_vehicle;i'll be traveling with  two  dogs need something more spacious
+car_rental.larger_vehicle;it won't suffice for my big family
+car_rental.larger_vehicle;do you have trucks or something bigger
+car_rental.larger_vehicle;bigger car?
+car_rental.larger_vehicle;i dont think we will fit, anything else?
+car_rental.larger_vehicle;anything for 4 plus people?
+car_rental.larger_vehicle;i need to fit my family, there are 6 of us. anything that can fit us?
+car_rental.larger_vehicle;can i get something that fits more people?
+car_rental.larger_vehicle;can i get an SUV?
+car_rental.larger_vehicle;can i get a van?
+car_rental.larger_vehicle;anything with more legroom?
+car_rental.larger_vehicle;is there a bigger option?
+car_rental.larger_vehicle;anything larger?
+car_rental.larger_vehicle;need more room
+car_rental.larger_vehicle;can i get an suv?
+car_rental.larger_vehicle;something that fits more like a van?
+car_rental.larger_vehicle;what about a van or suv?
+car_rental.larger_vehicle;is there anything that fits more people?
+car_rental.larger_vehicle;is there anything bigger?
+car_rental.compare_cost_luxury;i don't know whic of the high end cars to choose
+car_rental.compare_cost_luxury;more details about expnsive cars
+car_rental.compare_cost_luxury;tell me about the  two  lxuury cars
+car_rental.compare_cost_luxury;which of the  first  class options is better
+car_rental.compare_cost_luxury;price difference between  two first -class cars
+car_rental.compare_cost_luxury;which one of the expensive is cheaper
+car_rental.compare_cost_luxury;what's the diference between expensive options
+car_rental.compare_cost_luxury;is there a difference in price between  two  luxury options
+car_rental.compare_cost_luxury;which is least expensive?
+car_rental.compare_cost_luxury;which is cheaper?
+car_rental.compare_cost_luxury;is the luxury option crazy expensive?
+car_rental.compare_cost_luxury;how much. more for luxury?
+car_rental.compare_cost_luxury;how much more expensive is the chevy?
+car_rental.compare_cost_luxury;how much more is the dodge?
+car_rental.compare_cost_luxury;how much more for the tahoe?
+car_rental.compare_cost_luxury;how much more for the charger?
+car_rental.compare_cost_luxury;if the dodge charger isnt super expensive i might rent that, whats the difference?
+car_rental.compare_cost_luxury;if the tahoe isnt a ton more i might go with the luxury option, how much are we talking?
+car_rental.compare_cost_luxury;how much more is the chevy tahoe?
+car_rental.compare_cost_luxury;how much more is the dodge charger?
+car_rental.compare_cost_luxury;will the dodge charger cost way more?
+car_rental.compare_cost_luxury;is the luxury option way more money?
+car_rental.compare_cost_luxury;is the luxury option super expensive?
+car_rental.compare_cost_luxury;how much more?
+car_rental.compare_cost_luxury;how much more is the luxury option ?
+car_rental.compare_cost_luxury;is there anything with leather seats 
+car_rental.compare_cost_luxury;is there anything nicer?
+car_rental.economy_option;oo those sound expensive. is there anything more cost effective?
+car_rental.economy_option;i like it but it's over the top in terms of pricing for me
+car_rental.economy_option;that's too high end for me
+car_rental.economy_option;it's way out of my budget for the trip
+car_rental.economy_option;this price is way too high
+car_rental.economy_option;i'm not ready to pay that much
+car_rental.economy_option;something smaller?
+car_rental.economy_option;are there other options, maybe something cheaper?
+car_rental.economy_option;anything more affordable?
+car_rental.economy_option;anything less?
+car_rental.economy_option;cheaper?
+car_rental.economy_option;is there something more economical?
+car_rental.economy_option;is there an economy option?
+car_rental.economy_option;i dont need anything fancy, what are my options?
+car_rental.economy_option;anything more cost effective ?
+car_rental.economy_option;is there anything with better milage?
+car_rental.economy_option;i dont want to spend that much, whats less?
+car_rental.economy_option;is there something basic?
+car_rental.economy_option;Is there a discounted option?
+car_rental.economy_option;is there anything for less?
+car_rental.economy_option;Is there something cheapeer?
+car_rental.reservation_create;test
+car_rental.reservation_create;what about cars, can i resrve something now?
+car_rental.reservation_create;do you have any  trucks  a can reserve
+car_rental.reservation_create;help me find a  cheap  ride for my trip
+car_rental.reservation_create;i need to retn an  suv
+car_rental.reservation_create;i need to reserve a van for later  today
+car_rental.reservation_create;rent a van
+car_rental.reservation_create;im driving cross country and need to rent a van
+car_rental.reservation_create;i need help booking an  SUV
+car_rental.reservation_create;i need to rent an  SUV  in  San Diego
+car_rental.reservation_create;i want to rent a  truck
+car_rental.reservation_create;i need to rent a  truck  for  sunday , can you help me?
+car_rental.reservation_create;can i get a car for next week?
+car_rental.reservation_create;can i get a car for the weekend
+car_rental.reservation_create;Hi, im traveling to  LA  for the weekend and i need to rent a car while i'm down there
+car_rental.reservation_create;Hi im trying to rent a car for  tomorrow
+car_rental.reservation_create;rent car
+car_rental.reservation_create;i need help with a car rental please
+car_rental.reservation_create;hi, can you help me reserve a car?
+car_rental.reservation_create;reserve a car
+car_rental.reservation_create;i need to reserve a car on  friday
+car_rental.reservation_create;car rental
+car_rental.reservation_create;i need to rent a car  next thursday
+car_rental.reservation_create;can i book a car rental
+car_rental.reservation_create;rent a car please
+car_rental.reservation_create;Hi i'd like to rent a car
+car_rental.compare_cost_economy;not sure which of the economy i prefer
+car_rental.compare_cost_economy;is versa the best of the  two
+car_rental.compare_cost_economy;is nissan better than the other one
+car_rental.compare_cost_economy;i don't care about the price, i just want to rent a cheaper  one
+car_rental.compare_cost_economy;I want to rent the more expensive of the economy which one is that
+car_rental.compare_cost_economy;is there anything else that can help me decide which of the economy to choose
+car_rental.compare_cost_economy;give more details about these chaeper options
+car_rental.compare_cost_economy;which one of theese economy  carss  is cheaper
+car_rental.compare_cost_economy;which is cheapest?
+car_rental.compare_cost_economy;which is least expensive?
+car_rental.compare_cost_economy;which is cheaper?
+car_rental.compare_cost_economy;is the nissan a lot cheaper?
+car_rental.compare_cost_economy;is the mitsubishi way cheaper?
+car_rental.compare_cost_economy;how much less is the mitsubishi mirage?
+car_rental.compare_cost_economy;is there anything that costs less?
+car_rental.compare_cost_economy;is there anything cheaper?
+car_rental.compare_cost_economy;is there a cheaper option?
+car_rental.compare_cost_economy;how much cheaper?
+car_rental.compare_cost_economy;how much less?
+car_rental.compare_cost_economy;is the cheaper option available
+car_rental.compare_cost_economy;is economy way cheaper?
+car_rental.compare_cost_economy;is the ecomomy car drastically less?
+car_rental.compare_cost_economy;how much would i save with the economy rental?
+car_rental.compare_cost_economy;how much cheaper is ecomomy?
+car_rental.compare_cost_economy;how much less is the economy option?
+car_rental.compare_cost_economy;what can i get fot less?
+car_rental.compare_cost_economy;whats the cheaper option?
+car_rental.compare_cost_economy;thats too much, ius there anything that costs less?
+car_rental.compare_cost_economy;how much less is economy?
+car_rental.compare_cost_economy;would an economy option be cheaper?
+car_rental.return_different_location;i guess i want it diffrent yeah
+car_rental.return_different_location;yeah not the same
+car_rental.return_different_location;it will be diferent
+car_rental.return_different_location;i will be going someplace else and staying ther
+car_rental.return_different_location;yes i will drop it off in  Kanab   UT
+car_rental.return_different_location;no return to the same place for me
+car_rental.return_different_location;it will be a one-way trip
+car_rental.return_different_location;what if i want a different return location?
+car_rental.return_different_location;do i have to return it there?
+car_rental.return_different_location;can i return in  Philadelphia ?
+car_rental.return_different_location;do i need to drop it back off there or can i take it somewhere else?
+car_rental.return_different_location;what if i need to drop it off somewhere else?
+car_rental.return_different_location;can i drop it off in colorado?
+car_rental.return_different_location;Yeah can i drop it off in  LA ?
+car_rental.return_different_location;I need to bring it back to a  Fort Worth  location is that possible?
+car_rental.return_different_location;I need to drop it off in  Portland  can i do that?
+car_rental.return_different_location;yeah different place,  Oakland
+car_rental.return_different_location;I cant drive it all the way back so ill drop it off at a location in Colorado if thats ok?
+car_rental.return_different_location;can i drop it off in  Santa Cruz ?
+car_rental.return_different_location;Ill be driving from San Francisco to  Philadelphia  so ill drop it off there if possible
+car_rental.return_different_location;Yeah,  New York
+car_rental.return_different_location;Yeah, can i return it in  Denver ?
+car_rental.return_different_location;I want to drop it off in  Las Vegas , can i do that?
+car_rental.luxury_option;show me more expensive options
+car_rental.luxury_option;no these cars are terrible show me more expensive stuff
+car_rental.luxury_option;i want something with more funcionality
+car_rental.luxury_option;i want a cooler car
+car_rental.luxury_option;let me look at the expensive cars
+car_rental.luxury_option;is there a car with a stronger engine
+car_rental.luxury_option;what are the luxury options?
+car_rental.luxury_option;anything black with chrome?
+car_rental.luxury_option;any luxury options?
+car_rental.luxury_option;anything more comfortable?
+car_rental.luxury_option;anything nicer?
+car_rental.luxury_option;anything with heated leather seats?
+car_rental.luxury_option;is there something a little more high end?
+car_rental.luxury_option;luxury?
+car_rental.luxury_option;can i get something nicer like a suburban or a tahoe?
+car_rental.luxury_option;can i get a luxury car?
+car_rental.luxury_option;is there something more luxurious?
+car_rental.luxury_option;is there anything with leather seats, something a little fancier?
+car_rental.luxury_option;is there a nicer option?
+car_rental.luxury_option;i wouldnt mind paying a little more for a nicer car
+car_rental.luxury_option;is there a luxury option?
+car_rental.luxury_option;anything fancier?
+car_rental.luxury_option;is there anything nicer?

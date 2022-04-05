@@ -1,0 +1,378 @@
+intent;utterance
+payment_arrangement.payment_extension;can I pay my bills later?
+payment_arrangement.payment_extension;can I extend my payment day?
+payment_arrangement.payment_extension;can i extend my payment?
+payment_arrangement.payment_extension;can i extend my payment
+payment_arrangement.payment_extension;i wont get paid on time.
+payment_arrangement.payment_extension;payment extension
+payment_arrangement.payment_extension;extension
+payment_arrangement.payment_extension;can I have my payment date extended?
+payment_arrangement.payment_extension;please push my payment back
+payment_arrangement.payment_extension;change scheduled payment date
+payment_arrangement.payment_extension;how do i change date of payment
+payment_arrangement.payment_extension;can i please move my payment date just for this month?
+payment_arrangement.payment_extension;i need to reschedule my payment
+payment_arrangement.payment_extension;reschedule payment
+payment_arrangement.payment_extension;i wanted to push back my wireless bill payment
+payment_arrangement.payment_extension;i need to change my payment date
+payment_arrangement.payment_extension;move payment date
+payment_arrangement.payment_extension;i want to change my payment date
+payment_arrangement.payment_extension;is there a way to get my date pushed back on my payment?
+payment_arrangement.payment_extension;i need to change my pay date
+payment_arrangement.payment_extension;I want to see if i can get an extension for payment?
+payment_arrangement.payment_extension;i would like to extend my next payment at the end of the month
+payment_arrangement.payment_extension;late payment
+payment_arrangement.payment_extension;push back payment
+payment_arrangement.payment_extension;change payment date for this month
+payment_arrangement.payment_extension;adjust payment due date
+payment_arrangement.payment_extension;need to move payment date
+payment_arrangement.payment_extension;Can't pay on time
+payment_arrangement.payment_extension;I need to pay later
+payment_arrangement.payment_extension;update my payment date for this month
+payment_arrangement.payment_extension;change due date
+payment_arrangement.payment_extension;move pay date
+payment_arrangement.payment_extension;extend due date
+payment_arrangement.payment_extension;extend payment
+payment_arrangement.payment_extension;I need to extend my due date
+payment_arrangement.set_arrangement;arrangement
+payment_arrangement.set_arrangement;split the bill
+payment_arrangement.set_arrangement;set up payments
+payment_arrangement.set_arrangement;split bill
+payment_arrangement.set_arrangement;split
+payment_arrangement.set_arrangement;can i split my bill?
+payment_arrangement.set_arrangement;restore account
+payment_arrangement.set_arrangement;service interruption
+payment_arrangement.set_arrangement;my service has been interrupted
+payment_arrangement.set_arrangement;my account got suspended
+payment_arrangement.set_arrangement;suspended account
+payment_arrangement.set_arrangement;account suspended
+payment_arrangement.set_arrangement;i need to restore my account
+payment_arrangement.set_arrangement;my account was suspended and i need to make the payment to restore it
+payment_arrangement.set_arrangement;set up payment arrangement
+payment_arrangement.set_arrangement;payment arrangement please
+payment_arrangement.set_arrangement;set payment arrangement
+payment_arrangement.set_arrangement;payment arrangement
+payment_arrangement.set_arrangement;im trying to do a payment arrangement
+payment_arrangement.set_arrangement;im trying to schedule a payment to avoid services being interrupted
+payment_arrangement.set_arrangement;I wanted to know if i could set up a payment arrangement for my account.
+payment_arrangement.set_arrangement;please set a payment arrangement
+payment_arrangement.set_arrangement;am i able to make a payment arrangement for  september 5
+payment_arrangement.set_arrangement;hi are you able to help me with payment arrangements
+payment_arrangement.set_arrangement;i need to make a payment arrangement please!
+payment_arrangement.set_arrangement;i was trying to schedule a payment online but it won't let me
+payment_arrangement.set_arrangement;i need to setup a two installment payment arrangement
+payment_arrangement.set_arrangement;I just paid $350 online. Is there anyway I can make payment arrangement on the remaining balance?
+payment_arrangement.set_arrangement;i would like to make a payment arrangement for next Wednesday
+payment_arrangement.set_arrangement;i need to make payment arrangement
+payment_arrangement.set_arrangement;i can't access my bill online, can i set up a payment arrangement here?
+payment_arrangement.set_arrangement;i wanted to push back my phone bill payment
+payment_arrangement.set_arrangement;i would like to set up payment installments.
+payment_arrangement.set_arrangement;i need help setting up a payment arrangement for my bill.
+payment_arrangement.set_arrangement;i need to make a payment arrangement.
+payment_arrangement.set_arrangement;yes i was trying to set up payment arrangement on my bill
+payment_arrangement.set_arrangement;i need to set arrangement for the remainder of my balance.
+payment_arrangement.set_arrangement;hey i was wanting to make payment arrangements for my wireless service
+payment_arrangement.set_arrangement;"yes i want to see if i could get an extension because we are going through a family emergency
+ i could make a payment of $350 on monday and the rest thrusday"
+payment_arrangement.set_arrangement;need to make payment arrangement
+payment_arrangement.set_arrangement;i will need to make a payment arrangement
+payment_arrangement.set_arrangement;I want to setup a payment plan
+payment_arrangement.set_arrangement;reschedule my payment day for friday
+payment_arrangement.set_arrangement;Payment arrangement setup
+payment_arrangement.set_arrangement;i need to make payments arrangements
+payment_arrangement.set_arrangement;I need to set up a payment arrangement for this month's payment.
+payment_arrangement.set_arrangement;hello i was seeing if there was an payment arrangement as promised to pay on my account
+payment_arrangement.set_arrangement;i need to schedule my past due to be paid on july 16th if i can please
+payment_arrangement.set_arrangement;i need to setup a payment arrangement
+payment_arrangement.set_arrangement;"good morning. i had a payment arrangement that i could not keep yesterday and no one would help me at att. i made a 100.00 payment this morning can i make a payment arrangement for the rest?
+ GERMANY_IDENTITY_CARD_NUMBER"
+payment_arrangement.set_arrangement;i need to speak to someone about a payment arrangement
+payment_arrangement.set_arrangement;hi my payment is due today and i only have lost ike $20 that i can put on it
+payment_arrangement.set_arrangement;my bill is due today. can i make the payment on thursday 8/8 when i get paid?
+payment_arrangement.set_arrangement;"hello how are you i would actually like to know if theres any way that i can push my next bill for a further date
+ i need some time to catch up on the money for the payment ."
+payment_arrangement.set_arrangement;i need to set up a payment arrangement for my current bill
+payment_arrangement.set_arrangement;i want to schedule a payment for the full bill amount
+payment_arrangement.first;first one
+payment_arrangement.first;1
+payment_arrangement.first;i want to break up the payments
+payment_arrangement.first;can i do split pay?
+payment_arrangement.first;installments
+payment_arrangement.first;split pay
+payment_arrangement.first;arrangement
+payment_arrangement.first;two
+payment_arrangement.first;payment arrangement please
+payment_arrangement.first;the payment arrangement
+payment_arrangement.first;two  payments
+payment_arrangement.first;payment arrangement
+payment_arrangement.first;split
+payment_arrangement.first;split the bill
+payment_arrangement.first;two  installments
+payment_arrangement.first;can I do split pay?
+payment_arrangement.first;I want to break up the payments
+payment_arrangement.first;1   please
+payment_arrangement.first;number  1
+payment_arrangement.first;number  one
+payment_arrangement.first;one  please
+payment_arrangement.first;one
+payment_arrangement.first;first  one  please
+payment_arrangement.first;the  first one
+payment_arrangement.first;first
+payment_arrangement.first;the  first
+payment_arrangement.first;first  option
+payment_arrangement.first;first one
+payment_arrangement.first;option number  one
+payment_arrangement.first;the  first  option
+payment_arrangement.first;option  one
+payment_arrangement.first;option  1
+payment_arrangement.first;1
+payment_arrangement.first;first   please
+payment_arrangement.covid;Covid 19
+payment_arrangement.covid;Covid19
+payment_arrangement.covid;Covid-19
+payment_arrangement.covid;Can't pay because of Covid-19
+payment_arrangement.covid;i cant pay this month due to covid
+payment_arrangement.covid;The corona virus is making it hard to pay this month
+payment_arrangement.covid;payment problems because of corona virus
+payment_arrangement.covid;payment issues due to covid
+payment_arrangement.covid;virus
+payment_arrangement.covid;Can you help me set up a payment arrangement because of covid?
+payment_arrangement.covid;Can you help me make a payment arrangement because of Corona Virus
+payment_arrangement.covid;Wont be able to make my payment due to the corona virus
+payment_arrangement.covid;Having trouble paying because of Covid
+payment_arrangement.covid;Having trouble paying because of Corona
+payment_arrangement.covid;Lost job due to corona virus
+payment_arrangement.covid;Lost my job because of Covid-19
+payment_arrangement.covid;Lost my job due to Corona
+payment_arrangement.covid;I can't pay because of corona
+payment_arrangement.covid;corona
+payment_arrangement.covid;corona virus
+payment_arrangement.covid;covid-19
+payment_arrangement.covid;covid19
+payment_arrangement.covid;covid
+payment_arrangement.amount_due;just want to confirm what i owe
+payment_arrangement.amount_due;what is the total?
+payment_arrangement.amount_due;confirm the total
+payment_arrangement.amount_due;confirm the amount
+payment_arrangement.amount_due;what is the amount due?
+payment_arrangement.amount_due;how much is the total
+payment_arrangement.amount_due;how much is due in total?
+payment_arrangement.amount_due;what is due?
+payment_arrangement.amount_due;what is the total amount due?
+payment_arrangement.amount_due;how much is the total bill?
+payment_arrangement.amount_due;ok so what is my total payment?
+payment_arrangement.amount_due;how much is the amount?
+payment_arrangement.amount_due;"ok
+ so what is my due payment amount that i need to pay?"
+payment_arrangement.amount_due;how much do i have to pay?
+payment_arrangement.amount_due;ok great! what is my payment due right now?
+payment_arrangement.amount_due;so what is the payment that i need to make?
+payment_arrangement.amount_due;What is the total due in two weeks?
+payment_arrangement.amount_due;is that what has to be paid by the 20th?
+payment_arrangement.amount_due;so what is the exact payment i need to make on Monday?
+payment_arrangement.amount_due;what is the minimum amount i can get by with?
+payment_arrangement.amount_due;For how much?
+payment_arrangement.no_service_interruption;so my service won't be interrupted?
+payment_arrangement.no_service_interruption;awesome so my phone wont be turned off?
+payment_arrangement.no_service_interruption;okay thanks and my phones wont be shut up?
+payment_arrangement.no_service_interruption;and the phone will not be disconnected correct?
+payment_arrangement.no_service_interruption;ok thanks tyler b. my service will not be interrupted?
+payment_arrangement.no_service_interruption;"i can pay it on monday when i get paid
+ i just want to make sure my service wont get cut off"
+payment_arrangement.no_service_interruption;so am i gonna lose phone service?
+payment_arrangement.no_service_interruption;will my phone be turned off if i do that?
+payment_arrangement.no_service_interruption;and my services will not be disconnected am i correct ?
+payment_arrangement.no_service_interruption;ok thank you. and this will ensure no service interruption correct?
+payment_arrangement.no_service_interruption;nothing will happen to my service correct?
+payment_arrangement.no_service_interruption;is this going to keep my phone from being disconnected?
+payment_arrangement.no_service_interruption;is my phone still going to be on until i go pay it when we arrangement the payments on.
+payment_arrangement.no_service_interruption;"ok. ill text back after the 31st.
+ so any service interruption is cancelled now?"
+payment_arrangement.no_service_interruption;"ok
+ will i still have my service on with the payment arrangement"
+payment_arrangement.no_service_interruption;my phone wont get disconnected will it
+payment_arrangement.no_service_interruption;so my phone won't be cut off
+payment_arrangement.no_service_interruption;"and service will be fine until then right?
+ ok"
+payment_arrangement.no_service_interruption;will my phone get cut off
+payment_arrangement.no_service_interruption;my service will not be disconnected or have any disruptions?
+payment_arrangement.no_service_interruption;ok so my phone wont be cut off today?
+payment_arrangement.no_service_interruption;ok. so my services will not be disconnected?
+payment_arrangement.no_service_interruption;"ok si the service will not disconnect?
+ text will be good"
+payment_arrangement.no_service_interruption;ok so my service won't be affected and it will not try to debit from my account again?
+payment_arrangement.no_service_interruption;so my phone will not be disconnected?
+payment_arrangement.no_service_interruption;so since that is in place no interruption in service right?
+payment_arrangement.no_service_interruption;please make sure they dont suspend my service. we have a family emergency and we need our phones working.
+payment_arrangement.no_service_interruption;so no service interruption???
+payment_arrangement.no_service_interruption;my service won't cut?
+payment_arrangement.no_service_interruption;okay so that can be paid monday and my service wont get interrupted even though i have an arrangement for tomorrow
+payment_arrangement.no_service_interruption;so what youre telling me is even though the furthest date to push back the payment of xxx is on august the 22nd i will still have service until the 29th of august and i will be able to make the payment on the 29th ?
+payment_arrangement.no_service_interruption;so there wont be any disconnect on the services or anything?
+payment_arrangement.no_service_interruption;alright. i will make that payment on 9/6. my service will not be interrupted will it?
+payment_arrangement.no_service_interruption;so my service will not be interrupted?
+payment_arrangement.no_service_interruption;is there a way i could do it tomorrow and not have my phone disconnected
+payment_arrangement.no_service_interruption;no so my service is not going to be disconnected?
+payment_arrangement.no_service_interruption;and my services won't be interrupted?
+payment_arrangement.no_service_interruption;my service wont be disconnected?
+payment_arrangement.no_service_interruption;so my phone wont get shut off now right
+payment_arrangement.no_service_interruption;will i be able to change it tomorrow without my phone being disconnected? soo
+payment_arrangement.no_service_interruption;sounds good so my service should be fine until that processes?
+payment_arrangement.no_service_interruption;"ok perfect.
+ but will that interrupt any of my phone services"
+payment_arrangement.no_service_interruption;this isnt going to interrupt my service at all? because i really cant have my phone off right now. im in the middle of moving out of state and i need my phone on.
+payment_arrangement.no_service_interruption;will my service still be active and thank you so much
+payment_arrangement.no_service_interruption;that works. would there be any interruptions on my service
+payment_arrangement.no_service_interruption;will that stop my services from turing off
+payment_arrangement.no_service_interruption;will that prevent interruption of service?
+payment_arrangement.no_service_interruption;"ok.
+ is that guaranteed that my line wont be disconnected because i will be out of the country and i need the phone to be active."
+payment_arrangement.no_service_interruption;"will my services be interrupted ?
+ my services has never been disconnected
+ since i have had yall"
+payment_arrangement.no_service_interruption;and the services wont be interrupted?
+payment_arrangement.no_service_interruption;okay and what will happen to my service while you all complete this?
+payment_arrangement.no_service_interruption;will this avoid service interruption
+payment_arrangement.no_service_interruption;so the system will not show the 16th? but it will not interrupt my service ?
+payment_arrangement.no_service_interruption;so once we do this payment arrangement this will guarantee my service will not be canceled correct?
+payment_arrangement.no_service_interruption;ok awesome. and service wont be interrupted unless i miss the payment correct?
+payment_arrangement.no_service_interruption;and my service will not be suspended?
+payment_arrangement.no_service_interruption;that would be perfect and this will avoid service interruption?
+payment_arrangement.no_service_interruption;i want to be able to pay my arrangement of 90 on friday and want to ensure service is not shut off
+payment_arrangement.no_service_interruption;okay. my service will not get turned off will it?
+payment_arrangement.no_service_interruption;ok but my service will be good and not interrupted?
+payment_arrangement.late_payment_fee;what is the late fee?
+payment_arrangement.late_payment_fee;late fee?
+payment_arrangement.late_payment_fee;is there a late fee?
+payment_arrangement.late_payment_fee;will there be a fee associated?
+payment_arrangement.late_payment_fee;will there be a fee for setting up the arrangement
+payment_arrangement.late_payment_fee;how much the late fee
+payment_arrangement.late_payment_fee;i accidentally paid .24 less than my bill. will i be charged a late fee?
+payment_arrangement.late_payment_fee;how much is a late fee
+payment_arrangement.late_payment_fee;"hello i was paying my bill and noticed a late payment charge i paid my last bill on july 5th
+ is there no US_FEMALE_NAME period for the bill ?"
+payment_arrangement.late_payment_fee;what is the late fee charge or is there a US_FEMALE_NAME period each month
+payment_arrangement.late_payment_fee;how much is the late fee
+payment_arrangement.late_payment_fee;just wondering why the late fee for june is $35.34 and the late fee for july is $89.45?
+payment_arrangement.late_payment_fee;okay thank you! so then because i paid my bill today i was not charged a late fee as of yet?
+payment_arrangement.late_payment_fee;"did i get charged an extra $50 for missed scheduled payment ?
+ my bill is always $140"
+payment_arrangement.late_payment_fee;"no problem
+ did i get charged for a late fee on my next month bill ?"
+payment_arrangement.late_payment_fee;i was going to ask if i pay half of my bill now and the other after the due date will i still be charged a late fee?
+payment_arrangement.late_payment_fee;so ill be charged an additional 5$ for a late fee?
+payment_arrangement.send_confirmation;will you send me a confirmation?
+payment_arrangement.send_confirmation;will you send me an email?
+payment_arrangement.send_confirmation;Will I receive confirmation of this arrangement?
+payment_arrangement.send_confirmation;thats all . will i receive confirmation of this arrangement
+payment_arrangement.send_confirmation;ok will i be receiving a confirmation text or email?
+payment_arrangement.send_confirmation;and i should receive a text regarding that soon?
+payment_arrangement.send_confirmation;"is there a way for me to send the text confirmation that i received stating my payment arrangement was set for 8/23
+ im very setup that i was lied to"
+payment_arrangement.send_confirmation;ok great ! can i get confirmation email/text ?
+payment_arrangement.send_confirmation;"will i also get an email
+ so i will get a call verifying a payment has been arranged"
+payment_arrangement.send_confirmation;i usually would get a text or email confirmation how can i be sure..
+payment_arrangement.send_confirmation;can you send me a confirmation text of the payment arrangement date
+payment_arrangement.send_confirmation;can you send me a text confirmation email
+payment_arrangement.send_confirmation;"ok. can you send confirmation text to both cell phones?
+ xxxx and xxxx?"
+payment_arrangement.send_confirmation;can you also send me email of my payment arrangement please
+payment_arrangement.send_confirmation;"aug 27 please. will i be able to get a conformation of this arrangement?
+ confirmation
+ rather"
+payment_arrangement.send_confirmation;no thats it do i need a confirmation #
+payment_arrangement.send_confirmation;will i get a text
+payment_arrangement.send_confirmation;is there any way i can get a confirmation about that change?
+payment_arrangement.send_confirmation;"so i can pay the $315 thursday
+ can u please send text to me
+ confirmation"
+payment_arrangement.send_confirmation;okay thanks. can i get a confirmation to a make sure that it will not be due until 9/2
+payment_arrangement.send_confirmation;"can you sent me an emailed with the arragment
+ or text"
+payment_arrangement.send_confirmation;can you send the confirmation to email please
+payment_arrangement.send_confirmation;"can i get a confirmation text
+ are you sure
+ because i dont want no interruptions"
+payment_arrangement.send_confirmation;"will i get an email?
+ or a text message"
+payment_arrangement.send_confirmation;thank you! and can you text or email confirmation?
+payment_arrangement.send_confirmation;"not yet
+ with text or email?"
+payment_arrangement.send_confirmation;thank you US_MALE_NAME can you send me a confirmation number
+payment_arrangement.send_confirmation;can you please email me the confirmation?
+payment_arrangement.send_confirmation;will i receive a confirmation?
+payment_arrangement.send_confirmation;ok thank you. can you send a text or email reminder as well?
+payment_arrangement.send_confirmation;will i get a confirmation email to make sure this gets done so i dont lose service?
+payment_arrangement.send_confirmation;"okay
+ please send confirmation of this so i can document."
+payment_arrangement.send_confirmation;thank you can i get a confirmation number
+payment_arrangement.send_confirmation;"will i receive a confirmation text on this
+ thank you!!! just received"
+payment_arrangement.send_confirmation;thank you you will email this information to me right?
+payment_arrangement.send_confirmation;when will i get the notification for the payment arrangement?
+payment_arrangement.send_confirmation;can i get an email or some confirmation of this agreement
+payment_arrangement.send_confirmation;"yes
+ will it show or will i recieve a text for arrangement made"
+payment_arrangement.send_confirmation;"will i receive a text confirming this change?
+ the last time i changed an arrangement i was told it was changed and its wasn't and my account was suspended."
+payment_arrangement.send_confirmation;ok thank you can you send confirmation to my number PHONE_NUMBER
+payment_arrangement.send_confirmation;can you send me an email explaining the arrangements?
+payment_arrangement.send_confirmation;can i get a confirmation email sent to my xxxx line
+payment_arrangement.send_confirmation;"i have to get some things for the new baby.
+ can i get a confirmation to my email too please?"
+payment_arrangement.send_confirmation;i believe i need a reference or confirmation since i was told i would need one. why can't i get a confirmation text or email before we close chat?
+payment_arrangement.send_confirmation;"will i receive a text message with this arrangement/
+ ?"
+payment_arrangement.send_confirmation;that will be all for today will i receive and email or text about this
+payment_arrangement.send_confirmation;can i get a text confirmation please ?
+payment_arrangement.send_confirmation;thank you. am i getting a written confirmation?
+payment_arrangement.send_confirmation;i usually recevie text confirmation. is that possible
+payment_arrangement.send_confirmation;as i also work in a call center. can a text message be sent instead to confirm?
+payment_arrangement.send_confirmation;will i receive a confirmation. i haven't received on e yet
+payment_arrangement.send_confirmation;please send me a text to confirm all ok please
+payment_arrangement.send_confirmation;thank u leo it wont let me email a copy of this transcript can u email me one to EMAIL_ADDRESS and to EMAIL_ADDRESS to both emails please
+payment_arrangement.send_confirmation;thx will i receive an email
+payment_arrangement.send_confirmation;send me an email of the changes plz
+payment_arrangement.send_confirmation;"can you send me email?
+ with that info?"
+payment_arrangement.send_confirmation;and please send confirmation email for me too sharene!
+payment_arrangement.send_confirmation;"ok thank you very much
+ will i get an email stating that?"
+payment_arrangement.send_confirmation;send the confirmation to my cell
+payment_arrangement.send_confirmation;can i please get email conformation
+payment_arrangement.send_confirmation;"will i get a text?
+ about the payment?
+ so i can put it on my planner"
+payment_arrangement.send_confirmation;can you email or text me at PHONE_NUMBER...with those details?
+payment_arrangement.send_confirmation;"where can i forward the text for proof ?
+ i got a text here showing the pymt date is 14th
+ from wed july 31"
+payment_arrangement.send_confirmation;could you please email me a transcript of this chat? i asked earlier and did not receive one.
+payment_arrangement.second;last option
+payment_arrangement.second;last
+payment_arrangement.second;extend the due date
+payment_arrangement.second;extend due date
+payment_arrangement.second;payment extension
+payment_arrangement.second;late payment please
+payment_arrangement.second;late payment
+payment_arrangement.second;option  2
+payment_arrangement.second;an extension  please
+payment_arrangement.second;due date
+payment_arrangement.second;due date extension
+payment_arrangement.second;extend
+payment_arrangement.second;extension
+payment_arrangement.second;2  please
+payment_arrangement.second;number  two
+payment_arrangement.second;number  2
+payment_arrangement.second;2
+payment_arrangement.second;the  second one
+payment_arrangement.second;the last option
+payment_arrangement.second;second  please
+payment_arrangement.second;second  one  please
+payment_arrangement.second;second  option
+payment_arrangement.second;option  two
+payment_arrangement.second;two
+payment_arrangement.second;2nd
+payment_arrangement.second;the second one
+payment_arrangement.second;second

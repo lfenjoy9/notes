@@ -1,0 +1,1346 @@
+intent;utterance
+healthcare.initialize_benefits;How much do I have to pay before I have coverage
+healthcare.initialize_benefits;assist me with understanding my benefits in this plan
+healthcare.initialize_benefits;What benefits are covered under my plan?
+healthcare.initialize_benefits;How much do I have to spend before I have coverage
+healthcare.initialize_benefits;How close am I to meeting my deductible
+healthcare.initialize_benefits;what are the benefits of my plan?
+healthcare.initialize_benefits;Please help me understand the benefits of my healthcare plan
+healthcare.initialize_benefits;I am sligntly confused about my healthcare benefits
+healthcare.initialize_benefits;I am confused about my health benefits
+healthcare.initialize_benefits;Am I covered for this doctor's visit
+healthcare.initialize_benefits;Can you also help me understand my benefits
+healthcare.initialize_benefits;Can you tell me about my benefits?
+healthcare.initialize_benefits;Can you help me with my benefits
+healthcare.initialize_benefits;health benefits info
+healthcare.initialize_benefits;hey bot can you help me know about my health benefits
+healthcare.initialize_benefits;give me information about my health benefits
+healthcare.initialize_benefits;can you help me know about health benefits
+healthcare.initialize_benefits;let me know about my health benefits
+healthcare.initialize_benefits;brief me about my health benefits
+healthcare.initialize_benefits;information about my health benefits
+healthcare.initialize_benefits;tell me more about my health benefits
+healthcare.initialize_benefits;what are my health benefits
+healthcare.initialize_benefits;Hi, what are my benefits
+healthcare.initialize_benefits;what are my benefits
+healthcare.initialize_benefits;my benefits
+healthcare.symptoms;I am not feeling well
+healthcare.symptoms;I don't feel too well
+healthcare.symptoms;I'm having a nervous  breakdown
+healthcare.symptoms;I have a  toothache
+healthcare.symptoms;I'm feeling  nervous
+healthcare.symptoms;I have high fever, what should I do?
+healthcare.symptoms;I feel weird
+healthcare.symptoms;I'm feeling  nauseaus
+healthcare.symptoms;I have trouble  sleeping
+healthcare.symptoms;I'm having trouble  breathing
+healthcare.symptoms;I think I am falling ill
+healthcare.symptoms;I'm  exhausted
+healthcare.symptoms;I feel sick
+healthcare.symptoms;my back hurts, what should I do
+healthcare.symptoms;I have sprained my ankle
+healthcare.symptoms;my eyes are  watery
+healthcare.symptoms;I have body pain, any  suggestions
+healthcare.symptoms;I think, I have a stomach upset
+healthcare.symptoms;I am feeling pukish, what should I do?
+healthcare.symptoms;My stomach hurts, what do I do?
+healthcare.symptoms;I lost the sense of smell, Is it a symptom for COVID?
+healthcare.symptoms;I have cold and cough, what are the chances of  me  getting COVID?
+healthcare.symptoms;I'm feeling weak, Do I have COVID?
+healthcare.symptoms;I'm feeling weak, am I falling sick?
+healthcare.symptoms;I feel tired
+healthcare.symptoms;I think, I am sick
+healthcare.symptoms;I think I am falling sick
+healthcare.symptoms;I am not feeling okay
+healthcare.symptoms;I am feeling ditzy
+healthcare.symptoms;I'm having a  headache
+healthcare.symptoms;i want to know if I have COVID?
+healthcare.symptoms;What are the symptoms of COVID-19?
+healthcare.symptoms;I have got cold, do I have COVID-19?
+healthcare.symptoms;I think I have fever
+healthcare.symptoms;I am  unwell
+healthcare.faq_out_of_pocket_maximums;can i find information on out of pocket maximum
+healthcare.faq_out_of_pocket_maximums;what is the meaning of the term out of the pocket maximum
+healthcare.faq_out_of_pocket_maximums;Can you please define out of the pocket maximum
+healthcare.faq_out_of_pocket_maximums;Define out of the pocket maximum
+healthcare.faq_out_of_pocket_maximums;Explain the term out of the pocket maximum
+healthcare.faq_out_of_pocket_maximums;Please explain what out of the pocket maximum means
+healthcare.faq_out_of_pocket_maximums;Can you explain what out of the pocket maximum is
+healthcare.faq_out_of_pocket_maximums;what do you mean by out of the pocket maximum
+healthcare.faq_out_of_pocket_maximums;what is out of the pocket maximum
+healthcare.faq_out_of_pocket_maximums;out of pocket maximum definition
+healthcare.faq_out_of_pocket_maximums;define out of pocket maximum
+healthcare.faq_out_of_pocket_maximums;define out of pocket maximums
+healthcare.faq_out_of_pocket_maximums;define out of pocket max
+healthcare.faq_out_of_pocket_maximums;I don't know what's out of pocket maximum
+healthcare.faq_out_of_pocket_maximums;tell  me  the  maximum  amount i need to pay for  covered services
+healthcare.faq_out_of_pocket_maximums;what is the  maximum  amount you will pay for  covered services  in a given year.
+healthcare.faq_out_of_pocket_maximums;explain  me  about  out of pocket max
+healthcare.faq_out_of_pocket_maximums;explain  me  about  out of pocket maximum
+healthcare.faq_out_of_pocket_maximums;hey bot can you help  me  know about  out of pocket max
+healthcare.faq_out_of_pocket_maximums;hey bot can you help  me  know about  out of pocket maximum
+healthcare.faq_out_of_pocket_maximums;give  me  information about  out of pocket max
+healthcare.faq_out_of_pocket_maximums;give  me  information about  out of pocket maximum
+healthcare.faq_out_of_pocket_maximums;can you help  me  know about  out of pocket max
+healthcare.faq_out_of_pocket_maximums;can you help  me  know about  out of pocket maximum
+healthcare.faq_out_of_pocket_maximums;let  me  know about  out of pocket maximum
+healthcare.faq_out_of_pocket_maximums;let  me  know about  out of pocket max
+healthcare.faq_out_of_pocket_maximums;brief  me  about  out of pocket max
+healthcare.faq_out_of_pocket_maximums;brief  me  about  out of pocket maximum
+healthcare.faq_out_of_pocket_maximums;information about  out of pocket max
+healthcare.faq_out_of_pocket_maximums;information about  out of pocket maximum
+healthcare.faq_out_of_pocket_maximums;tell  me  something about  out of pocket   maximums
+healthcare.faq_out_of_pocket_maximums;tell  me  something about  out of pocket max
+healthcare.faq_out_of_pocket_maximums;tell  me  something about  out of pocket maximum
+healthcare.faq_out_of_pocket_maximums;what's  pocket maximum
+healthcare.faq_out_of_pocket_maximums;what's  out of pocket max
+healthcare.faq_out_of_pocket_maximums;what's  out of pocket maximum
+healthcare.faq_out_of_pocket_maximums;what is  out of pocket maximums
+healthcare.faq_out_of_pocket_maximums;what is  out of pocket maximum
+healthcare.faq_out_of_pocket_maximums;what is  out of pocket max
+healthcare.schedule_appointment;Can I arrange  tonight  a morning appointment for  tomorrow ?
+healthcare.schedule_appointment;Can I arrange a  morning  appointment  today ?
+healthcare.schedule_appointment;Can I schedule my  morning  appointment  today ?
+healthcare.schedule_appointment;May I arrange a  morning  appointment  today ?
+healthcare.schedule_appointment;May I book a  morning  appointment  today ?
+healthcare.schedule_appointment;On  Tuesday , will they have availability?
+healthcare.schedule_appointment;Do they have  Tuesday  availability?
+healthcare.schedule_appointment;On  Tuesday , do they have availability?
+healthcare.schedule_appointment;Have they got the availability on  Tuesday ?
+healthcare.schedule_appointment;Is it available on  Tuesday ?
+healthcare.schedule_appointment;Are they available on  Tuesday ?
+healthcare.schedule_appointment;Is there availability on  Tuesday ?
+healthcare.schedule_appointment;can i schedule an apointment  today  at  night ?
+healthcare.schedule_appointment;can i schedule an apointment  today  at  evening ?
+healthcare.schedule_appointment;can i schedule an apointment  today  at  afternoon ?
+healthcare.schedule_appointment;can i schedule an apointment  today  at  morning ?
+healthcare.schedule_appointment;do they have availability  day after tomorrow ?
+healthcare.schedule_appointment;do they have availability  tomorrow ?
+healthcare.schedule_appointment;do they have availability  today ?
+healthcare.schedule_appointment;Would they be free  day after tomorrow ?
+healthcare.schedule_appointment;Would they be free  today ?
+healthcare.schedule_appointment;Would they be free  tomorrow ?
+healthcare.schedule_appointment;check availability on  tuesday
+healthcare.schedule_appointment;Do they have availability on  Tuesday ?
+healthcare.schedule_appointment;How do I schedule an appointment?
+healthcare.schedule_appointment;How do I schedule an appointment? Do they have availability on  Tuesday ?
+healthcare.initialize_doctor;I want to schedule a doctor's visit
+healthcare.initialize_doctor;I want to visit my doctor
+healthcare.initialize_doctor;I wish schedule an appointment with doctor
+healthcare.initialize_doctor;I have a headache, locate a nearby doctor in my area
+healthcare.initialize_doctor;Find a doctor near  me
+healthcare.initialize_doctor;I  feel nauseous,  I  need to see a doctor  urgently
+healthcare.initialize_doctor;I  want to see a doctor  immediately
+healthcare.initialize_doctor;Find a practitioner near  me
+healthcare.initialize_doctor;i am  having Allergy, find  me  a doctor now
+healthcare.initialize_doctor;Help  me  to identify a  doctor
+healthcare.initialize_doctor;Its urgent find a  doctor
+healthcare.initialize_doctor;Find a doctor  immediately
+healthcare.initialize_doctor;I  need a doctor  urgently
+healthcare.initialize_doctor;Help  me  to get a doctor  urgently
+healthcare.initialize_doctor;Where could  I  find a health care professional?
+healthcare.initialize_doctor;Where can  I  locate a doctor?
+healthcare.initialize_doctor;where can  i  find a  doctor
+healthcare.initialize_doctor;Hey find a  doctor
+healthcare.initialize_doctor;please find a doc
+healthcare.initialize_doctor;I  would like to know about a  doctor
+healthcare.initialize_doctor;is there a doctor near  me
+healthcare.initialize_doctor;can you connect  me  to a doctor
+healthcare.initialize_doctor;connect  me  to a  doctor
+healthcare.initialize_doctor;i  want to see a doc
+healthcare.initialize_doctor;i  want to see a  doctor
+healthcare.initialize_doctor;find  doc
+healthcare.initialize_doctor;Find a  doctor
+healthcare.agent_transfer;i am not at all satisfied the way you responded
+healthcare.agent_transfer;not a clear answer
+healthcare.agent_transfer;response is not clear
+healthcare.agent_transfer;This is a vague answer
+healthcare.agent_transfer;invalid response
+healthcare.agent_transfer;this response is vague
+healthcare.agent_transfer;i hope you dont mind but your answers are not appropriate
+healthcare.agent_transfer;your answers are not correct
+healthcare.agent_transfer;you are giving me wrong answer
+healthcare.agent_transfer;Your response doesn't satisfy me.
+healthcare.agent_transfer;Your reply does not satisfy me.
+healthcare.agent_transfer;I am not happy with your reply.
+healthcare.agent_transfer;I'm not happy with your answer.
+healthcare.agent_transfer;I am not pleased with your response.
+healthcare.agent_transfer;I am not pleased with your answer.
+healthcare.agent_transfer;I am not pleased with your reply.
+healthcare.agent_transfer;i am not satisfied by your answer
+healthcare.agent_transfer;I dont remember
+healthcare.agent_transfer;I dont know the date of birth
+healthcare.agent_transfer;I dont remember the date of birth
+healthcare.agent_transfer;I dont remember my DOB
+healthcare.agent_transfer;Yes Please transfer my call to virtual agent
+healthcare.agent_transfer;No idea
+healthcare.agent_transfer;agent
+healthcare.agent_transfer;why can't you understand me
+healthcare.agent_transfer;I'd like to speak to an agent
+healthcare.agent_transfer;that's not what I  wanted
+healthcare.agent_transfer;no that's not what I  wanted
+healthcare.agent_transfer;can i please speak to a manager
+healthcare.agent_transfer;can i speak with a person?
+healthcare.agent_transfer;can i talk to a real  person
+healthcare.agent_transfer;can you escalate this to a human
+healthcare.agent_transfer;human  please
+healthcare.agent_transfer;i need to speak to a real  person
+healthcare.agent_transfer;i need to talk to someone
+healthcare.agent_transfer;i only want to speak to a human
+healthcare.agent_transfer;live agent
+healthcare.agent_transfer;live human now  please
+healthcare.agent_transfer;live rep  please
+healthcare.agent_transfer;manager
+healthcare.agent_transfer;no robots real human
+healthcare.agent_transfer;operator
+healthcare.agent_transfer;please transfer  me
+healthcare.agent_transfer;real person  please
+healthcare.agent_transfer;redirect  me  to a representative
+healthcare.agent_transfer;redirect  me  to customer  service   please
+healthcare.agent_transfer;representative
+healthcare.agent_transfer;talk to human
+healthcare.agent_transfer;this is frustrating
+healthcare.agent_transfer;can i talk to someone
+healthcare.agent_transfer;this isn't working
+healthcare.agent_transfer;transfer  me  to a real  person
+healthcare.agent_transfer;transition  me  to a customer  helper
+healthcare.agent_transfer;zero
+healthcare.agent_transfer;connect me to a live agent
+healthcare.agent_transfer;I want to talk to a live agent
+healthcare.find_doctor;I want to see a doctor for  dental
+healthcare.find_doctor;see a in-network provider
+healthcare.find_doctor;assist me to find a in-network provider
+healthcare.find_doctor;Locate a in-network provider
+healthcare.find_doctor;I think, it's time to schedule a follow up visit
+healthcare.find_doctor;To be safe, I think I should schedule an appointment
+healthcare.find_doctor;I guess, I should get check up done
+healthcare.find_doctor;I think, it's best that I visit a doctor
+healthcare.find_doctor;schedule an pp with a  physician
+healthcare.find_doctor;I have to see a  pcp
+healthcare.find_doctor;I need to schedule an appointment for  pcp
+healthcare.find_doctor;I need to schedule a  pcp  appointment
+healthcare.find_doctor;i need a  pcp
+healthcare.find_doctor;physician
+healthcare.find_doctor;I think, I am not feeling well, can you help me find a doctor for  primary care ?
+healthcare.find_doctor;Help me locate a  physician
+healthcare.find_doctor;Can you help me locate a near by  cardiologist
+healthcare.find_doctor;Can you help me find a near by  physician
+healthcare.find_doctor;Help me schedule an appointment with a  physician
+healthcare.find_doctor;Can you help me find a  physician
+healthcare.find_doctor;I want to meet a  physician
+healthcare.find_doctor;I want to book an appointment with a  physician
+healthcare.find_doctor;I want to schedule an appointment with a  physician
+healthcare.find_doctor;want to meet a  psychiatrist
+healthcare.find_doctor;help me find a  infertility  doctor
+healthcare.find_doctor;I would like to find a doctor for  chiropractor
+healthcare.find_doctor;I want to see someone for  primary care
+healthcare.find_doctor;look for a  cardiologist
+healthcare.find_doctor;find me a  cardiologist
+healthcare.find_doctor;where can i find a  cardiologist
+healthcare.find_doctor;where can i find a  Cardiologist
+healthcare.find_doctor;i am looking for a  Cardiologist
+healthcare.find_doctor;Cardiologist  i need
+healthcare.find_doctor;look for a  Cardiologist
+healthcare.find_doctor;check for  Cardiologist
+healthcare.find_doctor;where can I meet a  Cardiologist
+healthcare.find_doctor;need to see  Cardiologist
+healthcare.find_doctor;is there any   physician
+healthcare.find_doctor;I need to find an  dermatologist
+healthcare.find_doctor;where can I find a  Dermatologist
+healthcare.find_doctor;is there anyone  cardiologist
+healthcare.find_doctor;where can i find an  Cardiologist
+healthcare.find_doctor;i need to find an  Cardiologist
+healthcare.find_doctor;Where can i locate a  physician  in my area
+healthcare.find_doctor;Where would I find an  urologist ?
+healthcare.find_doctor;Where could I find a  therapist ?
+healthcare.find_doctor;Where would I find a  gynaecologist ?
+healthcare.find_doctor;How could I select a  dermatologist ?
+healthcare.find_doctor;Where should I find a  dermatologist ?
+healthcare.find_doctor;Where else can I identify a  dentist ?
+healthcare.find_doctor;Where can I spot a  psychiatrist ?
+healthcare.find_doctor;Where can I discover a  physician ?
+healthcare.faq_coordination;what exactly is coordination of benefits?
+healthcare.faq_coordination;help me define the term coordination of benefits
+healthcare.faq_coordination;What does  one  mean by  coordination of benefits
+healthcare.faq_coordination;can you define corodination of benefits for me
+healthcare.faq_coordination;help me understand the defination of corodination of benefits
+healthcare.faq_coordination;what is the meaning of the term coordination of benefits
+healthcare.faq_coordination;can i find information on coordination of benefits
+healthcare.faq_coordination;i want to know about coordination of benefits
+healthcare.faq_coordination;coordination of benefits details
+healthcare.faq_coordination;what data is available on coordination of benefits
+healthcare.faq_coordination;details on coordination of benefits
+healthcare.faq_coordination;coordination of benefits information
+healthcare.faq_coordination;hey bot can you help me know about coordination of benefits
+healthcare.faq_coordination;give me information about Coordination of benefits
+healthcare.faq_coordination;can you help me know about Coordination of benefits
+healthcare.faq_coordination;I don't know what's coordination of benefits
+healthcare.faq_coordination;explain  me  about  coordination of benefits
+healthcare.faq_coordination;coordination of benefits info
+healthcare.faq_coordination;give  me  information about  Coordination of benefits
+healthcare.faq_coordination;let  me  know about  Coordination of benefits
+healthcare.faq_coordination;brief  me  about  Coordination of benefits
+healthcare.faq_coordination;information about  Coordination of benefits
+healthcare.faq_coordination;tell  me  something about  Coordination of benefits
+healthcare.faq_coordination;what's  Coordination of benefits
+healthcare.faq_coordination;what is  Coordination of benefits
+healthcare.network_doctor;I  have a doubt, can an out-of-network  physician  be covered in-network?
+healthcare.network_doctor;how can  i  know if out-of-network  physician  be covered in-network?
+healthcare.network_doctor;can you confirm if  an out-of-network  physician  be covered in-network?
+healthcare.network_doctor;can you check if  an out-of-network  physician  be covered in-network?
+healthcare.network_doctor;I am  curious, can an out-of-network  physician  be covered in-network?
+healthcare.network_doctor;tell  me  if  out-of-network doctor can be covered in-network?
+healthcare.network_doctor;Can in-network coverage be offered to an out-of-network  general practitioner ?
+healthcare.network_doctor;Is it possible that an out-of-network  physician  be covered in-network?
+healthcare.network_doctor;Will an out-of-network doctor treatment cost be covered like the in network one?
+healthcare.network_doctor;Can an out-of-network doctor be compensated by in-network coverage?
+healthcare.network_doctor;Will the cost of an out of network provider be covered similar to the in-network doctor?
+healthcare.network_doctor;Can in-network coverage be extended to an out-of-network doctor?
+healthcare.network_doctor;Can the  out in network doc be covered similar to in-network  physician ?
+healthcare.network_doctor;Will an out-of-network doctor be covered like the in network?
+healthcare.network_doctor;Can an out-of-network practitioner be covered in-network?
+healthcare.network_doctor;Would a  physician  from outside the network be taken up by the network?
+healthcare.network_doctor;Does a  physician  outside the out-of-network be taken up by the network?
+healthcare.network_doctor;Would a practitioner outside of the network be filled by the network?
+healthcare.network_doctor;Will a  physicians  outside of the network be taken up by the network?
+healthcare.network_doctor;Could a  physician  outside of the network be covered by the network?
+healthcare.network_doctor;please tell  me  if out-of-network  specialist  can be covered in- network
+healthcare.network_doctor;check if an out-of-network doctor can be covered by in- network
+healthcare.network_doctor;Can a doctor outside of the network be covered by the in-network?
+healthcare.network_doctor;Can an out-of-network  physician  be covered in-network?
+healthcare.network_doctor;Can an out-of-network doctor be covered in-network?
+healthcare.faq_fsa;Help me understand the defination of FSA
+healthcare.faq_fsa;can you define fsa for me
+healthcare.faq_fsa;i am interested in knowing what the term flexible spending account means
+healthcare.faq_fsa;i would like to know more about fsa
+healthcare.faq_fsa;inform me about what is fsa
+healthcare.faq_fsa;can you define fexible spending account
+healthcare.faq_fsa;what do you mean by the term flexible spending amount
+healthcare.faq_fsa;I have trouble understanding what a flexible spending account is, can you help
+healthcare.faq_fsa;can i find information on flexible spending  account
+healthcare.faq_fsa;who can open flexible spending  account
+healthcare.faq_fsa;what should i know about flexible spending  account
+healthcare.faq_fsa;what's a fsa
+healthcare.faq_fsa;give  me  information about fsa
+healthcare.faq_fsa;tell  me  about fsa
+healthcare.faq_fsa;what is fsa
+healthcare.faq_fsa;explain  me  about flexible spending  account
+healthcare.faq_fsa;flexible spending account info
+healthcare.faq_fsa;hey bot can you help  me  know about flexible spending  account
+healthcare.faq_fsa;give  me  information about  flexible spending  account
+healthcare.faq_fsa;can you help  me  know about flexible spending  account
+healthcare.faq_fsa;let  me  know about flexible spending account
+healthcare.faq_fsa;brief  me  about flexible spending  account
+healthcare.faq_fsa;information about flexible spending  account
+healthcare.faq_fsa;tell  me  something about flexible spending account
+healthcare.faq_fsa;what is flexible spending  account
+healthcare.faq_hdhp;can i find information on High Deductible Health Plan
+healthcare.faq_hdhp;I don't know what's hdhp
+healthcare.faq_hdhp;whats a high  deductble health plan
+healthcare.faq_hdhp;what's  hdhp
+healthcare.faq_hdhp;does  hdhp  has a higher annual  deductible  than traditional health plans.
+healthcare.faq_hdhp;does high  deductble health plan  has a higher annual  deductible  than traditional health plans.
+healthcare.faq_hdhp;which plan has  high deductible
+healthcare.faq_hdhp;tell  me  about  HDHP
+healthcare.faq_hdhp;explain  me  about  Hdhp
+healthcare.faq_hdhp;explain  me  about  High Deductible Health Plan
+healthcare.faq_hdhp;Hdhp  info
+healthcare.faq_hdhp;High Deductible Health Plan  info
+healthcare.faq_hdhp;hey bot can you help me know about Hdhp
+healthcare.faq_hdhp;hey bot can you help me know about High Deductible Health Plan
+healthcare.faq_hdhp;give  me  information about  Hdhp
+healthcare.faq_hdhp;give  me  information about  High Deductible Health Plan
+healthcare.faq_hdhp;can you help  me  know about  Hdhp
+healthcare.faq_hdhp;can you help  me  know about  High Deductible Health Plan
+healthcare.faq_hdhp;brief  me  about  High Deductible Health Plan
+healthcare.faq_hdhp;let  me  know about Hdhp
+healthcare.faq_hdhp;let  me  know about  High Deductible Health Plan
+healthcare.faq_hdhp;brief  me  about  Hdhp
+healthcare.faq_hdhp;information about  Hdhp
+healthcare.faq_hdhp;tell  me  something about  hdhp
+healthcare.faq_hdhp;tell  me  something about  High Deductible Health Plan
+healthcare.faq_hdhp;what is  hdhp
+healthcare.faq_hdhp;what is  High Deductible Health Plan
+healthcare.faq_coinsurance;can i find information on co insurance
+healthcare.faq_coinsurance;what is the meaning of the term co-insurance
+healthcare.faq_coinsurance;Can you please define co-insurance
+healthcare.faq_coinsurance;Define co-insurance
+healthcare.faq_coinsurance;Explain the term co-insurance
+healthcare.faq_coinsurance;Please explain what co-insurance means
+healthcare.faq_coinsurance;Can you explain what co-insurance is
+healthcare.faq_coinsurance;what do you mean by co-insurance
+healthcare.faq_coinsurance;I don't know what's coinsurance
+healthcare.faq_coinsurance;explain  me  about  coinsurance
+healthcare.faq_coinsurance;explain  me  about  co insurance
+healthcare.faq_coinsurance;how is the percentage of healthcare costs responsible for paying upfront  deductible .
+healthcare.faq_coinsurance;how i can check the percentage of healthcare costs
+healthcare.faq_coinsurance;hey bot can you help  me  know about  coinsurance
+healthcare.faq_coinsurance;hey bot can you help  me  know about   co insurance
+healthcare.faq_coinsurance;give  me  information about  co insurance
+healthcare.faq_coinsurance;give  me  information about  co-insurance
+healthcare.faq_coinsurance;give  me  information about  coinsurance
+healthcare.faq_coinsurance;can you help  me  know about  coinsurance
+healthcare.faq_coinsurance;can you help  me  know about  co-insurance
+healthcare.faq_coinsurance;can you help  me  know about  co insurance
+healthcare.faq_coinsurance;let  me  know about  coinsurance
+healthcare.faq_coinsurance;brief  me  about  co insurance
+healthcare.faq_coinsurance;information about  co insurance
+healthcare.faq_coinsurance;what's  Co insurance
+healthcare.faq_coinsurance;what is  co-insurance
+healthcare.faq_coinsurance;what's a  coinsurance
+healthcare.faq_coinsurance;what is  co insurance
+healthcare.out_of_scope_questions;I want to understand my  life insurance
+healthcare.out_of_scope_questions;I need to  refill a prescription
+healthcare.out_of_scope_questions;should I renew by  healthcare plan
+healthcare.out_of_scope_questions;help me find a near by  pharmacy
+healthcare.out_of_scope_questions;Can you confirm if  fertility  insurance is part of my benefits coverage
+healthcare.out_of_scope_questions;How can I pay for my  insulin ?
+healthcare.out_of_scope_questions;How can I pay for my  chemo ?
+healthcare.out_of_scope_questions;I want to confirm if  eye  insurance is a part of my benefits coverage
+healthcare.out_of_scope_questions;chemo  is included in benefits coverage?
+healthcare.out_of_scope_questions;Can you confirm if  tablet  is part of my benefits plan
+healthcare.out_of_scope_questions;I want to confirm if  eye  insurance is a part of my benefits plan
+healthcare.out_of_scope_questions;chemo  is covered in my benefits plan, right?
+healthcare.out_of_scope_questions;Can you confirm if  chemo  is part of my plan
+healthcare.out_of_scope_questions;I want to confirm if  teeth  insurance is a part of my plan
+healthcare.out_of_scope_questions;chemo  is covered in my plan, right?
+healthcare.out_of_scope_questions;Is  insulin  part of my plan
+healthcare.out_of_scope_questions;I want to know if  chemo  is included in my plan
+healthcare.out_of_scope_questions;Is  cardiac  surgery covered under my benefits coverage
+healthcare.out_of_scope_questions;Is  chemo  part of my benefits coverage
+healthcare.out_of_scope_questions;Is  vision  insurance included in my benefits plan
+healthcare.out_of_scope_questions;Can you tell me if  chemo  is covered under my benefits plan
+healthcare.out_of_scope_questions;Does my benefits plan cover  chemo
+healthcare.out_of_scope_questions;Am I covered for  medication  under my benefits
+healthcare.out_of_scope_questions;Is  teeth  insurance included in my benefits plan
+healthcare.out_of_scope_questions;Is  chemo  included in my benefits plan?
+healthcare.out_of_scope_questions;Is  chemo  included in my plan
+healthcare.out_of_scope_questions;Can you tell me if  eye  insurance is covered under my plan
+healthcare.out_of_scope_questions;Does my plan cover  dental
+healthcare.out_of_scope_questions;Does my insurance cover  insulin
+healthcare.out_of_scope_questions;Am I covered for  chemo
+healthcare.out_of_scope_questions;Is  annual physical  included in the plan?
+healthcare.out_of_scope_questions;can i ask you questions regarding   eye  insurance
+healthcare.out_of_scope_questions;tell me if  insurance cover  dental
+healthcare.out_of_scope_questions;does  insurance cover  fertility
+healthcare.out_of_scope_questions;eye  insurance
+healthcare.out_of_scope_questions;teeth  insurance
+healthcare.out_of_scope_questions;fertility  insurance
+healthcare.out_of_scope_questions;vision  insurance
+healthcare.out_of_scope_questions;dental  insurance
+healthcare.out_of_scope_questions;give me more information about  vision  insurance
+healthcare.out_of_scope_questions;what information do you have on  dental  insurance
+healthcare.out_of_scope_questions;tell me more about  fertility  insurance
+healthcare.out_of_scope_questions;how can i check   vision  insurance
+healthcare.out_of_scope_questions;Is there an insurance coverage for my  cardiac  surgery?
+healthcare.out_of_scope_questions;does my health benefits cover  vision  insurance
+healthcare.out_of_scope_questions;help me know about my  fertility  insurance
+healthcare.out_of_scope_questions;do you cover  fertility  insurance
+healthcare.out_of_scope_questions;i want to know about my  vision  insurance
+healthcare.out_of_scope_questions;do you provide answers regarding  dental
+healthcare.out_of_scope_questions;Can I ask you questions about my  dental ,  vision , or  fertility  insurance too?
+healthcare.free_at_specific_time;I  would prefer wednes  at 6  for the doctor's  visist
+healthcare.free_at_specific_time;I would like to visit the doc at  3pm tomorrow
+healthcare.free_at_specific_time;schedule an app for  tonight at 8
+healthcare.free_at_specific_time;book an app for  tomorrow  evening
+healthcare.free_at_specific_time;schedule for  4pm today
+healthcare.free_at_specific_time;First of next month at  5pm
+healthcare.free_at_specific_time;I  guess,  next week   at 2pm
+healthcare.free_at_specific_time;Today  anytime works
+healthcare.free_at_specific_time;Given a choice  day after tomorrow , anytime in the eve
+healthcare.free_at_specific_time;my preference is  wed at 4pm
+healthcare.free_at_specific_time;I would like if it's  tomorrow   morning
+healthcare.free_at_specific_time;I  would prefer if its  tomorrow around 9 am
+healthcare.free_at_specific_time;Ummm, preferabbly  today  around  5pm
+healthcare.free_at_specific_time;will  wed at 1pm  work?
+healthcare.free_at_specific_time;8 am, next tues
+healthcare.free_at_specific_time;at  noon  this  monday
+healthcare.free_at_specific_time;at  7pm  this  friday
+healthcare.free_at_specific_time;2/11/20 at 4 pm
+healthcare.free_at_specific_time;23rd dec at 2 pm
+healthcare.free_at_specific_time;It would be great if we can schedule it  at 2 pm   thrusday
+healthcare.free_at_specific_time;Ideally  tomorrow  between  1pm - 3pm
+healthcare.free_at_specific_time;I  belive  tomorrow, 6 pm  is fine
+healthcare.free_at_specific_time;I  think,  8pm this friday  works
+healthcare.free_at_specific_time;available on  26th November at 2pm
+healthcare.free_at_specific_time;available  today between 2pm and 3pm
+healthcare.free_at_specific_time;I am free  tomorrow
+healthcare.free_at_specific_time;i  will be available  today after 4pm
+healthcare.free_at_specific_time;I  will be available  today at 2pm
+healthcare.free_at_specific_time;tomorrow 2 to 3
+healthcare.free_at_specific_time;I  will be available around  6pm today
+healthcare.free_at_specific_time;tomorrow between 12pm and 1pm
+healthcare.free_at_specific_time;tomorrow at 12pm
+healthcare.free_at_specific_time;i am ready in the  end of the day
+healthcare.free_at_specific_time;I'm prepared for  today  eod.
+healthcare.free_at_specific_time;I'm prepared for eod  today .
+healthcare.free_at_specific_time;I'm set for  coming monday .
+healthcare.free_at_specific_time;I'm set for later  today .
+healthcare.free_at_specific_time;I'm prepared for  coming monday .
+healthcare.free_at_specific_time;I'm prepared for  next week .
+healthcare.free_at_specific_time;I'm prepared for  tomorrow morning .
+healthcare.free_at_specific_time;I'm ready for  2 and 3 tomorrow  in the  evening
+healthcare.free_at_specific_time;I'm ready for  2  and  3 tomorrow .
+healthcare.free_at_specific_time;Tomorrow  I am ready  about 2 and 3
+healthcare.free_at_specific_time;Tomorrow  I'm free  between 2 and 3  in the morning.
+healthcare.free_at_specific_time;Tomorrow  I am ready around  2  and  3 .
+healthcare.free_at_specific_time;Between 2 and 3 , I'm free  tomorrow
+healthcare.free_at_specific_time;Tomorrow ,  between 2 and 3 , I'm free.
+healthcare.free_at_specific_time;Tomorrow ,  between 2 and 3 , I am free.
+healthcare.free_at_specific_time;I am free  tomorrow between 2 and 3
+healthcare.free_at_specific_time;I am free  today from 5 pm
+healthcare.out_of_scope_benefits;Please inform  me  the cost for  co-payment
+healthcare.out_of_scope_benefits;Help  me  with the cost for  co-payment
+healthcare.out_of_scope_benefits;can you inform  me  the cost for  co-payment
+healthcare.out_of_scope_benefits;For  co-payment , please help  me  with the cost
+healthcare.out_of_scope_benefits;what is the cost for  co-payment   Treatment
+healthcare.out_of_scope_benefits;For  co-payment , tell  me  the cost
+healthcare.out_of_scope_benefits;For  co-payment , how much do I pay?
+healthcare.out_of_scope_benefits;For  co-payment , what is the cost
+healthcare.out_of_scope_benefits;co-payment  will cost  me  how much?
+healthcare.out_of_scope_benefits;How much will  co-payment  cost  me
+healthcare.out_of_scope_benefits;What is the cost for  co-payment
+healthcare.out_of_scope_benefits;Can you help  me  with the cost for  co-payment
+healthcare.out_of_scope_benefits;Do I need to pay for  co-payment
+healthcare.out_of_scope_benefits;Do I have to pay for  co-payment
+healthcare.out_of_scope_benefits;Cost for  co-payment
+healthcare.out_of_scope_benefits;How much does  co-payment  cost
+healthcare.out_of_scope_benefits;Please tell the cost for  co-payment
+healthcare.out_of_scope_benefits;How much do I need to spend for  co-payment
+healthcare.out_of_scope_benefits;and how much do I pay for  co-payment ?
+healthcare.out_of_scope_benefits;co-payment  costs ?
+healthcare.out_of_scope_benefits;Tell  me  the cost for  co-payment
+healthcare.out_of_scope_benefits;Can you tell  me  the cost for  co-payment
+healthcare.out_of_scope_benefits;How much do I need to pay for  co-payment
+healthcare.out_of_scope_benefits;How much do I have to pay for  co-payment
+healthcare.out_of_scope_benefits;Please inform  me  the cost for  co-pay
+healthcare.out_of_scope_benefits;Help  me  with the cost for  co-pay
+healthcare.out_of_scope_benefits;can you inform  me  the cost for  co-pay
+healthcare.out_of_scope_benefits;For  co-pay , please help  me  with the cost
+healthcare.out_of_scope_benefits;what is the cost for  co-pay   Treatment
+healthcare.out_of_scope_benefits;For  co-pay , tell  me  the cost
+healthcare.out_of_scope_benefits;For  co-pay , how much do I pay?
+healthcare.out_of_scope_benefits;For  co-pay , what is the cost
+healthcare.out_of_scope_benefits;co-pay  will cost  me  how much?
+healthcare.out_of_scope_benefits;How much will  co-pay  cost  me
+healthcare.out_of_scope_benefits;What is the cost for  co-pay
+healthcare.out_of_scope_benefits;Can you help  me  with the cost for  co-pay
+healthcare.out_of_scope_benefits;Do I need to pay for  co-pay
+healthcare.out_of_scope_benefits;Do I have to pay for  co-pay
+healthcare.out_of_scope_benefits;Cost for  co-pay
+healthcare.out_of_scope_benefits;How much does  co-pay  cost
+healthcare.out_of_scope_benefits;Please tell the cost for  co-pay
+healthcare.out_of_scope_benefits;How much do I need to spend for  co-pay
+healthcare.out_of_scope_benefits;and how much do I pay for  co-pay ?
+healthcare.out_of_scope_benefits;co-pay  costs ?
+healthcare.out_of_scope_benefits;Tell  me  the cost for  co-pay
+healthcare.out_of_scope_benefits;Can you tell  me  the cost for  co-pay
+healthcare.out_of_scope_benefits;How much do I need to pay for  co-pay
+healthcare.out_of_scope_benefits;How much do I have to pay for  co-pay
+healthcare.out_of_scope_benefits;tell  me  about my  copay
+healthcare.out_of_scope_benefits;what is my  copay
+healthcare.out_of_scope_benefits;my  copay
+healthcare.out_of_scope_benefits;How much do I need to spend for  hsa
+healthcare.faq_network;tell the difference in between network and out of network?
+healthcare.faq_network;how to identify between in network and out of network?
+healthcare.faq_network;how to understand the difference between network and out of network
+healthcare.faq_network;Could you tell me where to recognize the difference between in network and out of network
+healthcare.faq_network;distinguish between in network and out of network
+healthcare.faq_network;Can you tell me how to make a distinction between network and out of network
+healthcare.faq_network;find me how is in network different from out of network
+healthcare.faq_network;is there any difference between in network and out of network
+healthcare.faq_network;can you tell me how can i differentiate between in network and out of network
+healthcare.faq_network;in network and out of network differences
+healthcare.faq_network;how in network and out of network varies
+healthcare.faq_network;what are the key difference between in network and out of network
+healthcare.faq_network;contrast in network and out of network
+healthcare.faq_network;comparison between in network and out of network
+healthcare.faq_network;help me to know the variation betweeen in network and out of network
+healthcare.faq_network;real distinction between in network and out of network
+healthcare.faq_network;variation amidst in netwok and out of network
+healthcare.faq_network;how is in network distinct from out of network
+healthcare.faq_network;in network and out of network variant points
+healthcare.faq_network;let me know the difference between in network and out of network
+healthcare.faq_network;difference on in network and out of network
+healthcare.faq_network;in network and out of network difference
+healthcare.faq_network;tell me how in network and out of network differes
+healthcare.faq_network;how in network and out of network different from each other
+healthcare.faq_network;what is difference between in network and out of network
+healthcare.free_now;now
+healthcare.free_now;why not right now
+healthcare.free_now;right now
+healthcare.free_now;sounds awesome to start right now
+healthcare.free_now;great time to start now
+healthcare.free_now;sounds like i can start at this time
+healthcare.free_now;why dont i start now
+healthcare.free_now;i am readily available now
+healthcare.free_now;perfecto  timing
+healthcare.free_now;perfect time
+healthcare.free_now;this is the best time
+healthcare.free_now;anytime works for  me
+healthcare.free_now;this time works for  me
+healthcare.free_now;i am ready now
+healthcare.free_now;Sounds now cool
+healthcare.free_now;Sounds now Right
+healthcare.free_now;It appears to work for  me  really!
+healthcare.free_now;It plays for  me  either!
+healthcare.free_now;It works for  me  again!
+healthcare.free_now;It works for  me  already!
+healthcare.free_now;It works for  me  really!
+healthcare.free_now;It works for  me  though!
+healthcare.free_now;It works for  me  and now!
+healthcare.free_now;It works for  me  as well!
+healthcare.free_now;It works for  me  anyway!
+healthcare.free_now;It works for  me  now!
+healthcare.free_now;And I am now ready,
+healthcare.free_now;And I am ready,
+healthcare.free_now;I am still available,
+healthcare.free_now;Now I am available,
+healthcare.free_now;And now I am free,
+healthcare.free_now;And I am now free,
+healthcare.free_now;Well I am free.
+healthcare.free_now;I am now free.
+healthcare.free_now;Now I am free.
+healthcare.free_now;now works for me
+healthcare.free_now;I am free now
+healthcare.ask_open_timing;no thats fine when is it open
+healthcare.ask_open_timing;no when it will be open
+healthcare.ask_open_timing;no when is it open
+healthcare.ask_open_timing;let  me  know if the  hospital  is open  at 9pm  time
+healthcare.ask_open_timing;how to check if the clinic is available  at 9pm  time
+healthcare.ask_open_timing;check if the clinic is open at 9 o clock
+healthcare.ask_open_timing;9pm  time clinic open
+healthcare.ask_open_timing;does the clinic open in 9pm time
+healthcare.ask_open_timing;help  me  to know the opening time of the  clinic
+healthcare.ask_open_timing;if i go at this time will the hospitail open
+healthcare.ask_open_timing;at which time should i go to find the clinic open
+healthcare.ask_open_timing;at which time the clinic time
+healthcare.ask_open_timing;at which time does the  hospital  open
+healthcare.ask_open_timing;When does the  hospital  open
+healthcare.ask_open_timing;When is the next facility  accessible
+healthcare.ask_open_timing;When is the next  service  ready
+healthcare.ask_open_timing;When's the center  available
+healthcare.ask_open_timing;When's the clinic  available
+healthcare.ask_open_timing;When will the clinic be open?
+healthcare.ask_open_timing;When will the clinic be opened?
+healthcare.ask_open_timing;When does the clinic open?
+healthcare.ask_open_timing;When is the  hospital  open?
+healthcare.ask_open_timing;When is the clinic open?
+healthcare.ask_open_timing;When is this open?
+healthcare.ask_open_timing;When is it open?
+healthcare.ask_open_timing;No, this one's fine. When is it open?
+healthcare.annual_physical;it will be helpful if you can give  me  info on my  annual physical
+healthcare.annual_physical;can you help  me  on knowing about my  annual physical   information
+healthcare.annual_physical;my  annual physical
+healthcare.annual_physical;i  want you to give  me  more details on my  annual physical
+healthcare.annual_physical;fetch  me  info on my  annual physical
+healthcare.annual_physical;what do you know about my  annual physical
+healthcare.annual_physical;description on my  annual physical
+healthcare.annual_physical;information on my  annual physical
+healthcare.annual_physical;my  annual physical   information
+healthcare.annual_physical;my  annual physical   details
+healthcare.annual_physical;find out more information on my  annual physical
+healthcare.annual_physical;why dont you give  me  more information on my  annual physical
+healthcare.annual_physical;have you got any details on my  annual physical
+healthcare.annual_physical;brief  me  on  annual physical   information
+healthcare.annual_physical;i  need to know about my  annual physical   information
+healthcare.annual_physical;give  me  information on  annual physical
+healthcare.annual_physical;i  need to know about my  annual physical
+healthcare.annual_physical;what information can you give  me  on my  annual physical
+healthcare.annual_physical;tell  me  more about my  annual physical
+healthcare.annual_physical;check my  annual physical
+healthcare.annual_physical;what's my annual physical
+healthcare.annual_physical;tell  me  about my annual physical
+healthcare.annual_physical;annual physical
+healthcare.annual_physical;what about my annual physical?
+healthcare.annual_physical;Is my annual physical  covered  ?
+healthcare.annual_physical;That was really helpful. I think it's time I should get my annual physical. Is this  covered ?
+healthcare.faq_deductible;help me understand the term deductible
+healthcare.faq_deductible;I am not sure what do you mean by deductible
+healthcare.faq_deductible;can you define a deductible for me
+healthcare.faq_deductible;What do you mean by the term deductible
+healthcare.faq_deductible;can i find information on deductibe
+healthcare.faq_deductible;what is the meaning of the term deductible
+healthcare.faq_deductible;Can you please define deductible
+healthcare.faq_deductible;Explain the term deductible
+healthcare.faq_deductible;Please explain what deductible means
+healthcare.faq_deductible;Can you explain what deductible is
+healthcare.faq_deductible;what do you mean by deductible
+healthcare.faq_deductible;Define deductible
+healthcare.faq_deductible;I don't know what's deductible
+healthcare.faq_deductible;what's a  deductible
+healthcare.faq_deductible;tell  me  about the cost of money i need to pay before my health insurance starts to pay
+healthcare.faq_deductible;what is the amount of money i need to pay before my health insurance will start to pay
+healthcare.faq_deductible;explain  me  about  Deductible
+healthcare.faq_deductible;hey bot can you help  me  know what  Deductible  is
+healthcare.faq_deductible;give  me  information about  Deductible
+healthcare.faq_deductible;can you help  me  know about  Deductible
+healthcare.faq_deductible;let  me  know about  Deductible
+healthcare.faq_deductible;brief  me  about  Deductible
+healthcare.faq_deductible;information about  Deductible
+healthcare.faq_deductible;tell  me  something about  Deductible
+healthcare.faq_deductible;what is  Deductible
+healthcare.more_info;$1400  look low to  me
+healthcare.more_info;I  can see that  $2000  is far less. Do you also have more description?
+healthcare.more_info;$2000  is somehow less. Do you really have more info?
+healthcare.more_info;With  me ,  $2000  is a little less. Do you even have more specifics?
+healthcare.more_info;For  me ,  $2000  is much less. Do you have more precise details?
+healthcare.more_info;$2000  is somewhat less. Do you have more detailed info?
+healthcare.more_info;$2000  would appear to  me  to be less. Do you have any more details?
+healthcare.more_info;$2000  seems to  me  to be less. Do you have more information?
+healthcare.more_info;For  me ,  $2000  seems less. Will you have more details about  me ?
+healthcare.more_info;To  me ,  $2000  seems less. Do you have more details?
+healthcare.more_info;$2000  seems less to  me . Do you have more info
+healthcare.more_info;$1400  seems wrong, I've spent more
+healthcare.more_info;$1100  is wrong, there is a discrepancy
+healthcare.more_info;$1400  seems incorrect
+healthcare.more_info;Umm, this seems inappropriate. I've spent more
+healthcare.more_info;There maybe some disrcrepency, I've surely spent more
+healthcare.more_info;I guess, I've spent more, there may be some  discrepency
+healthcare.more_info;This does not look right to  me
+healthcare.more_info;There is some disparity in the value shown and what I've spent
+healthcare.more_info;This value does seems incorrect. I know I've spent more
+healthcare.more_info;I feel there is some discrepancy in the value  showed
+healthcare.more_info;$1400  out of network does not seem right, I think I've spent more
+healthcare.more_info;$1400  out of network looks low to me, I know I've spent more than that.
+healthcare.more_info;$1400  out of network looks low to me, I know I've spent more than that.   Do you have more info?
+healthcare.more_info;Can you tell me more?
+healthcare.more_info;Do you have more info?
+healthcare.initialize_claims;i want to know about my eob
+healthcare.initialize_claims;tell me more about my bill
+healthcare.initialize_claims;i want to know more about the bill I have got
+healthcare.initialize_claims;can I also ask about my bill
+healthcare.initialize_claims;can I also ask about the bill I got
+healthcare.initialize_claims;I would like to know about my previous claim
+healthcare.initialize_claims;Hi, I am curious about my claims
+healthcare.initialize_claims;Hi, can you help me understand my claims
+healthcare.initialize_claims;I want to know about my claims
+healthcare.initialize_claims;Hi, I want to see information about my claim
+healthcare.initialize_claims;Can you please tell me about my previous claim
+healthcare.initialize_claims;What is the latest update about my previous claim
+healthcare.initialize_claims;Help me with information about my previous claim
+healthcare.initialize_claims;What is the status of my previous claim
+healthcare.initialize_claims;I want to know about my previous claim
+healthcare.initialize_claims;What's my claims status
+healthcare.initialize_claims;I want to see information about my previous claims
+healthcare.initialize_claims;Please share information about my previous claim
+healthcare.initialize_claims;Can you share some information about my previous claims
+healthcare.initialize_claims;Update on my previous claim
+healthcare.initialize_claims;I want to see information about my previous claim
+healthcare.initialize_claims;Any update on my claims status
+healthcare.initialize_claims;Claim status update
+healthcare.initialize_claims;I want to file a claim
+healthcare.initialize_claims;Help me understand my claims
+healthcare.initialize_claims;Can you share some information about my claims
+healthcare.initialize_claims;Updated claim status
+healthcare.initialize_claims;what is the status of my claims
+healthcare.initialize_claims;Is my claim processed?
+healthcare.initialize_claims;Can you let me know if my claim is processed
+healthcare.initialize_claims;Can you help me with my claims status
+healthcare.initialize_claims;claims
+healthcare.initialize_claims;healthcare claims
+healthcare.initialize_claims;having trouble with a claim
+healthcare.initialize_claims;trouble with a claim
+healthcare.initialize_claims;what's the status of my claim
+healthcare.initialize_claims;what's wrong with this claim?
+healthcare.initialize_claims;i need help with a claim
+healthcare.initialize_claims;problem with a claim
+healthcare.initialize_claims;claim issue
+healthcare.initialize_claims;i have an issue
+healthcare.initialize_claims;issue
+healthcare.initialize_claims;claim question
+healthcare.initialize_claims;question about a claim
+healthcare.initialize_claims;question
+healthcare.initialize_claims;Hi, I need help with a claim
+healthcare.initialize_claims;help with claim
+healthcare.faq_formulary;Can you share some information on the term formulary
+healthcare.faq_formulary;what exactly do you mean by formulary
+healthcare.faq_formulary;ok now what info have you got about formulary
+healthcare.faq_formulary;is there any information available about formulary
+healthcare.faq_formulary;Help me understand the term formulary
+healthcare.faq_formulary;what information can you give me about the term formulary
+healthcare.faq_formulary;can you define formulary for me
+healthcare.faq_formulary;can i find information on formulary
+healthcare.faq_formulary;I don't know what's formulary
+healthcare.faq_formulary;what's a  formulary
+healthcare.faq_formulary;formulary   information
+healthcare.faq_formulary;can you tell  me  more info about  formulary
+healthcare.faq_formulary;help  me  know about  formulary
+healthcare.faq_formulary;i want to look into  formulary   information
+healthcare.faq_formulary;what do you know about  formulary
+healthcare.faq_formulary;explain  me  about  formulary
+healthcare.faq_formulary;formulary  info
+healthcare.faq_formulary;hey bot can you help me know about formulary
+healthcare.faq_formulary;give  me  information about  formulary
+healthcare.faq_formulary;can you help  me  know about  formulary
+healthcare.faq_formulary;let  me  know about  formulary
+healthcare.faq_formulary;brief  me  about  formulary
+healthcare.faq_formulary;information about  formulary
+healthcare.faq_formulary;tell  me  something about  formulary
+healthcare.faq_formulary;what is  formulary
+healthcare.prior_authorization;Can you check if  I  need a prior authorization for that?
+healthcare.prior_authorization;Is prior authorization needed?
+healthcare.prior_authorization;I  don't think prior authorization is required, is it?
+healthcare.prior_authorization;prior authorization is required, am  I  right?
+healthcare.prior_authorization;So do  I  need a prior authorization for that?
+healthcare.prior_authorization;Prior authorization needs to be done or no?
+healthcare.prior_authorization;can you please let  me  know if  I  need a prior authorization for that?
+healthcare.prior_authorization;I am  confused, do  I  need a prior authorization for that?
+healthcare.prior_authorization;Can you confirm if  I  need a prior authorization for that?
+healthcare.prior_authorization;I am  not sure if  I  need a prior authorization for that?
+healthcare.prior_authorization;Can you help  me  understand if  I  need a prior authorization for that?
+healthcare.prior_authorization;Is it absolutely required to do prior authorization for that?
+healthcare.prior_authorization;please check if i need  approval
+healthcare.prior_authorization;Could I get approval in order to make it happen for it too?
+healthcare.prior_authorization;Would I need confirmation in order to proceed for that?
+healthcare.prior_authorization;tell  me  if request are to  me  made before hand to access  authorization
+healthcare.prior_authorization;any request have to be made before in time
+healthcare.prior_authorization;Do I have to request in order to plan for that?
+healthcare.prior_authorization;Would I need explicit permission in ahead of time for that?
+healthcare.prior_authorization;And I need access permission in order to plan for that?
+healthcare.prior_authorization;Do I have to confirmation in good time for that?
+healthcare.prior_authorization;Should I get permissions in ahead of time for that?
+healthcare.prior_authorization;Do I need approval in ahead of time for that?
+healthcare.prior_authorization;Do I need authorization in advance for that?
+healthcare.prior_authorization;Do I need a prior authorization for that?
+healthcare.out_of_scope_claims;Can  I  see my past claims?
+healthcare.out_of_scope_claims;Can  I  see my other claims?
+healthcare.out_of_scope_claims;How much do  I  need to pay? How much do  I  need to pay  out-of-pocket ?
+healthcare.out_of_scope_claims;What does my explanation of benefit statement mean?
+healthcare.out_of_scope_claims;I  don't know what this claim means. Can you help?
+healthcare.out_of_scope_claims;I  don't think got the right  service
+healthcare.out_of_scope_claims;I  don't think  I  got the right bill
+healthcare.out_of_scope_claims;I  don't think that was  me
+healthcare.out_of_scope_claims;My EOB is wrong
+healthcare.out_of_scope_claims;My EOB is not  correct
+healthcare.out_of_scope_claims;My EOB seems too high
+healthcare.out_of_scope_claims;My bill is wrong
+healthcare.out_of_scope_claims;My bill is not  correct
+healthcare.out_of_scope_claims;My bill seems too high
+healthcare.out_of_scope_claims;My claim is wrong
+healthcare.out_of_scope_claims;My claim is not  correct
+healthcare.out_of_scope_claims;My claim seems too high
+healthcare.out_of_scope_claims;I am  not too sure about this amount. It seems way too high.  I  don't think that was  me
+healthcare.out_of_scope_claims;I am  not too affirmative about this amount. It seems to be on the higher side
+healthcare.out_of_scope_claims;Is this the right amount? It seems way too high
+healthcare.out_of_scope_claims;The amount seems wrong.  I  don't think that was  me
+healthcare.out_of_scope_claims;The amount seems wrong
+healthcare.out_of_scope_claims;Umm, this amount seems to be slightly on a higher side.  I am  not sure if that was  me
+healthcare.out_of_scope_claims;Ummm, this amount does not seem right. Is this  me ?  I am  not too sure
+healthcare.out_of_scope_claims;According to  me , this amount is higher.  I  don't think this is for  me
+healthcare.out_of_scope_claims;I  have certain doubts about this amount.  I  don't think that was  me
+healthcare.out_of_scope_claims;I  have certain doubts about this amount.
+healthcare.out_of_scope_claims;I am  not sure about this amount.  I  don't think that was  me
+healthcare.out_of_scope_claims;The amount seems incorrect.  I  guess that wasn't  me
+healthcare.out_of_scope_claims;I  guess the amount is a bit higher.  I  don't think that was  me
+healthcare.out_of_scope_claims;The amount seems slightly high.
+healthcare.out_of_scope_claims;The amount does not seem right,  I  don't think that was  me
+healthcare.out_of_scope_claims;Need to know about my other claims
+healthcare.out_of_scope_claims;What about my other  claims
+healthcare.out_of_scope_claims;Help  me  with understand the status of my other  claims
+healthcare.out_of_scope_claims;Any updates on my other claims status?
+healthcare.out_of_scope_claims;And what about my other claims?
+healthcare.out_of_scope_claims;I am  curious, about my other  claims
+healthcare.out_of_scope_claims;I  would like to know the status of my other  claims
+healthcare.out_of_scope_claims;Tell  me  about my other  claims
+healthcare.out_of_scope_claims;Can you also help  me  with the status of my other  claims
+healthcare.out_of_scope_claims;Help  me  understand my other  claims
+healthcare.out_of_scope_claims;I  want to know about my other claims
+healthcare.out_of_scope_claims;Umm ,  I  would like to see my other  claims
+healthcare.out_of_scope_claims;Help  me  understand the status of my other  claims
+healthcare.out_of_scope_claims;What is the status of my other  claims
+healthcare.out_of_scope_claims;Help  me  with some information about my other  claims
+healthcare.out_of_scope_claims;I  would like to know about my other  claims
+healthcare.out_of_scope_claims;Can you tell  me  about my other  claims
+healthcare.out_of_scope_claims;Can you help  me  with some information about my other  claims
+healthcare.out_of_scope_claims;I  would like to see my other  claims
+healthcare.out_of_scope_claims;I have more claims
+healthcare.out_of_scope_claims;but there is more than one claim
+healthcare.out_of_scope_claims;we have quite a few claims
+healthcare.out_of_scope_claims;I have two claims to ask about
+healthcare.out_of_scope_claims;there is more than one
+healthcare.out_of_scope_claims;I have more than one
+healthcare.out_of_scope_claims;I have more than one claim
+healthcare.out_of_scope_claims;Can I ask about two claims
+healthcare.out_of_scope_claims;Can I ask about other claims
+healthcare.out_of_scope_claims;What if i have more claims?
+healthcare.out_of_scope_claims;Why just one claim?
+healthcare.out_of_scope_claims;How many claims can I ask about?
+healthcare.out_of_scope_claims;I have multiple claims
+healthcare.out_of_scope_claims;There is more than one claim
+healthcare.faq_copay;can i find information on copayment
+healthcare.faq_copay;can i find information on copay
+healthcare.faq_copay;what is the meaning of the term co-pay
+healthcare.faq_copay;Can you please define co-pay
+healthcare.faq_copay;Define co-pay
+healthcare.faq_copay;Explain the term co-pay
+healthcare.faq_copay;Please explain what co-pay means
+healthcare.faq_copay;Can you explain what co-pay is
+healthcare.faq_copay;what do you mean by co-pay
+healthcare.faq_copay;I don't know what's copay
+healthcare.faq_copay;explain  me  about  Co pay
+healthcare.faq_copay;explain  me  about  Co-pay
+healthcare.faq_copay;explain  me  about  Copay
+healthcare.faq_copay;Co pay  info
+healthcare.faq_copay;Copay  info
+healthcare.faq_copay;Co-pay  info
+healthcare.faq_copay;hey bot can you help  me  know about my  Co pay
+healthcare.faq_copay;hey bot can you help  me  know about my  Copay
+healthcare.faq_copay;hey bot can you help  me  know about  Co-pay
+healthcare.faq_copay;give  me  information about  Co pay
+healthcare.faq_copay;give  me  information about  Copay
+healthcare.faq_copay;give  me  information about  Co-pay
+healthcare.faq_copay;can you help  me  know about  Copay
+healthcare.faq_copay;can you help  me  know about  Co pay
+healthcare.faq_copay;can you help  me  know about  Co-pay
+healthcare.faq_copay;let  me  know about  Co pay
+healthcare.faq_copay;let  me  know about  Copay
+healthcare.faq_copay;let  me  know about  Co-pay
+healthcare.faq_copay;brief  me  about  Copay
+healthcare.faq_copay;brief  me  about  Co pay
+healthcare.faq_copay;brief  me  about  Co-pay
+healthcare.faq_copay;information about  Co pay
+healthcare.faq_copay;information about  Copay
+healthcare.faq_copay;information about  Co-pay
+healthcare.faq_copay;tell  me  something about  co-pay
+healthcare.faq_copay;tell  me  something about  copay
+healthcare.faq_copay;tell  me  something about  co pay
+healthcare.faq_copay;what is  Co pay
+healthcare.faq_copay;what is  Copay
+healthcare.faq_copay;what is  Co-pay
+healthcare.faq_hsa;can i find information on health savings account
+healthcare.faq_hsa;I don't know what's HSA
+healthcare.faq_hsa;what's  HSA
+healthcare.faq_hsa;what's Health Savings  Acccount
+healthcare.faq_hsa;Am i eligible to open  hsa
+healthcare.faq_hsa;Am i eligible to open  health savings account
+healthcare.faq_hsa;who can open  hsa
+healthcare.faq_hsa;who can open  health savings account
+healthcare.faq_hsa;what should i know about  hsa
+healthcare.faq_hsa;what should i know about  health savings account
+healthcare.faq_hsa;tell  me  about  hsa
+healthcare.faq_hsa;explain  me  about  hsa
+healthcare.faq_hsa;explain  me  about  health savings account
+healthcare.faq_hsa;hsa  info
+healthcare.faq_hsa;health savings account  info
+healthcare.faq_hsa;hey bot can you help me know about hsa
+healthcare.faq_hsa;hey bot can you help me know about health savings account
+healthcare.faq_hsa;give  me  information about  hsa
+healthcare.faq_hsa;give  me  information about  health savings account
+healthcare.faq_hsa;can you help  me  know about  hsa
+healthcare.faq_hsa;can you help  me  know about  health savings account
+healthcare.faq_hsa;let  me  know about  hsa
+healthcare.faq_hsa;let  me  know about  health savings account
+healthcare.faq_hsa;brief  me  about  hsa
+healthcare.faq_hsa;brief  me  about  health savings account
+healthcare.faq_hsa;information about  hsa
+healthcare.faq_hsa;information about  health savings account
+healthcare.faq_hsa;tell  me  something about  hsa
+healthcare.faq_hsa;tell  me  something about  health savings account
+healthcare.faq_hsa;what is  hsa
+healthcare.faq_hsa;what is Health Savings  Acccount
+healthcare.faq_covered_service;alright, and what exactly do you mean by a covered service
+healthcare.faq_covered_service;I am not sure what is a covered service, can you help with that
+healthcare.faq_covered_service;could you help me to know about covered service
+healthcare.faq_covered_service;Help me understand the term covered service
+healthcare.faq_covered_service;how can i find information on what a covered service is
+healthcare.faq_covered_service;can i find information on covered service
+healthcare.faq_covered_service;what is the meaning of the term covered service
+healthcare.faq_covered_service;Can you please define covered service
+healthcare.faq_covered_service;Define covered service
+healthcare.faq_covered_service;Explain the term covered service
+healthcare.faq_covered_service;Please explain what covered service means
+healthcare.faq_covered_service;Can you explain what covered service is
+healthcare.faq_covered_service;what do you mean by covered service
+healthcare.faq_covered_service;I don't know what's covered service
+healthcare.faq_covered_service;I don't know what's covered services
+healthcare.faq_covered_service;what's a  covered service
+healthcare.faq_covered_service;explain  me  about  covered service
+healthcare.faq_covered_service;hey bot can you help  me  know about  covered service
+healthcare.faq_covered_service;give  me  information about  covered service
+healthcare.faq_covered_service;can you help  me  know about  covered service
+healthcare.faq_covered_service;let  me  know about   covered service
+healthcare.faq_covered_service;brief  me  about  covered service
+healthcare.faq_covered_service;information about  covered service
+healthcare.faq_covered_service;tell  me  something about  covered service
+healthcare.faq_covered_service;what is  covered services
+healthcare.faq_premium;what's a premium health plan?
+healthcare.faq_premium;I am not sure what the term premium means, can you help with that
+healthcare.faq_premium;what exactly do you mean by a premium?
+healthcare.faq_premium;alright now can you tell me what do you mean by a premium health plan
+healthcare.faq_premium;help me understand the term premium health plan
+healthcare.faq_premium;define the term premium for me
+healthcare.faq_premium;what do you mean by premium health insurance plan?
+healthcare.faq_premium;what do you mean by the term premium?
+healthcare.faq_premium;can i find information on premium
+healthcare.faq_premium;what amount is paid for health insurance plan
+healthcare.faq_premium;I don't know what's premium
+healthcare.faq_premium;is  premium  plan  deducted  from my  paycheck
+healthcare.faq_premium;does  premium  plan can be  shared
+healthcare.faq_premium;tell  me  if the  premium  plan be paid by my  employer
+healthcare.faq_premium;can  premium  plan be paid by  me
+healthcare.faq_premium;explain  me  about  premium Health Plan
+healthcare.faq_premium;premium Health Plan  info
+healthcare.faq_premium;hey bot can you help me know about premium Health Plan
+healthcare.faq_premium;give  me  information about  premium Health Plan
+healthcare.faq_premium;can you help  me  know about  premium Health Plan
+healthcare.faq_premium;let  me  know about  premium Health Plan
+healthcare.faq_premium;brief  me  about  premium  Plan
+healthcare.faq_premium;information about  premium  plan
+healthcare.faq_premium;tell  me  something about  premium Health Plan
+healthcare.faq_premium;what is   premium Health Plan
+healthcare.list_benefits_services;cost of  coinsurance
+healthcare.list_benefits_services;I need to know my  deductible
+healthcare.list_benefits_services;How close am I to meeting my  deductible ?
+healthcare.list_benefits_services;Have I met my  deductible  for  this year ?
+healthcare.list_benefits_services;what is cost of  employee only deductible
+healthcare.list_benefits_services;Take me through  all of these
+healthcare.list_benefits_services;Tell me through  everyone of those
+healthcare.list_benefits_services;hope  you dont mind telling me  all of them
+healthcare.list_benefits_services;speak to me about  all of them
+healthcare.list_benefits_services;yes i would like to know  all
+healthcare.list_benefits_services;why dont you tell me  each one
+healthcare.list_benefits_services;inform me  each one of them
+healthcare.list_benefits_services;inform  all of them
+healthcare.list_benefits_services;inform  all
+healthcare.list_benefits_services;inform me on  all   4
+healthcare.list_benefits_services;Inform me about  everyone of them
+healthcare.list_benefits_services;Tell me about  each of them
+healthcare.list_benefits_services;Say  all of them  to me
+healthcare.list_benefits_services;Tell me  all of them , please.
+healthcare.list_benefits_services;I want to know  all   4
+healthcare.list_benefits_services;Tell me about  all of them
+healthcare.list_benefits_services;tell  all of them
+healthcare.list_benefits_services;Tell  all
+healthcare.list_benefits_services;all   4  please
+healthcare.list_benefits_services;please tell  all   4
+healthcare.list_benefits_services;benefits of  all  the  four
+healthcare.list_benefits_services;what are  all  of the advantage
+healthcare.list_benefits_services;all   4  features
+healthcare.list_benefits_services;all   4
+healthcare.list_benefits_services;all   four
+healthcare.list_benefits_services;i want to know  all  the advantages
+healthcare.list_benefits_services;tell me  all  the benefits
+healthcare.list_benefits_services;all  the benefits
+healthcare.list_benefits_services;can you tell me the  four benefits
+healthcare.list_benefits_services;i want to know  all the four benefits
+healthcare.list_benefits_services;my  deductible
+healthcare.list_benefits_services;family deductible  will cost me how much?
+healthcare.list_benefits_services;What is the cost for  family deductible
+healthcare.list_benefits_services;Can you help me with the cost for  family deductible
+healthcare.list_benefits_services;How much does  family deductible  cost
+healthcare.list_benefits_services;Please tell the cost for  family deductible
+healthcare.list_benefits_services;How much do I need to spend for  family deductible
+healthcare.list_benefits_services;How much do I need to pay for  family deductible
+healthcare.list_benefits_services;my  family deductible  details
+healthcare.list_benefits_services;I want to know about my  family deductible
+healthcare.list_benefits_services;what data is available on my  family deductible
+healthcare.list_benefits_services;details on my individual  deductible  information
+healthcare.list_benefits_services;my  family deductible  information
+healthcare.list_benefits_services;explain me about my  family Deductible
+healthcare.list_benefits_services;my  family Deductible  info
+healthcare.list_benefits_services;hey bot can you help me know about my  family Deductible
+healthcare.list_benefits_services;give me information about my  family Deductible
+healthcare.list_benefits_services;can you help me know about my  family Deductible
+healthcare.list_benefits_services;let me know about my  family Deductible
+healthcare.list_benefits_services;brief me about my  family Deductible
+healthcare.list_benefits_services;information about my  family Deductible
+healthcare.list_benefits_services;tell me something about my  family Deductible
+healthcare.list_benefits_services;what is my  family Deductible
+healthcare.list_benefits_services;Please inform me the cost for single person  deductible
+healthcare.list_benefits_services;Help me with the cost for single person  deductible
+healthcare.list_benefits_services;can you inform me the cost for single person  deductible
+healthcare.list_benefits_services;For single person  deductible , please help me with the cost
+healthcare.list_benefits_services;what is the cost for single person  deductible  Treatment
+healthcare.list_benefits_services;For single person  deductible , tell me the cost
+healthcare.list_benefits_services;For single person  deductible , how much do I pay?
+healthcare.list_benefits_services;For single person  deductible , what is the cost
+healthcare.list_benefits_services;single person  deductible  will cost me how much?
+healthcare.list_benefits_services;How much will single person  deductible  cost me
+healthcare.list_benefits_services;What is the cost for single person  deductible
+healthcare.list_benefits_services;Can you help me with the cost for single person  deductible
+healthcare.list_benefits_services;Cost for single person  deductible
+healthcare.list_benefits_services;How much does single person  deductible  cost
+healthcare.list_benefits_services;Please tell the cost for single person  deductible
+healthcare.list_benefits_services;How much do I need to spend for single person  deductible
+healthcare.list_benefits_services;and how much do I pay for single person  deductible ?
+healthcare.list_benefits_services;single person  deductible  costs ?
+healthcare.list_benefits_services;Tell me the cost for single person  deductible
+healthcare.list_benefits_services;How much will single person  deductible  cost
+healthcare.list_benefits_services;Please inform me the cost for Individual  deductible
+healthcare.list_benefits_services;Help me with the cost for Individual  deductible
+healthcare.list_benefits_services;can you inform me the cost for Individual  deductible
+healthcare.list_benefits_services;For Individual  deductible , please help me with the cost
+healthcare.list_benefits_services;For Individual  deductible , tell me the cost
+healthcare.list_benefits_services;For Individual  deductible , how much do I pay?
+healthcare.list_benefits_services;Individual  deductible  will cost me how much?
+healthcare.list_benefits_services;Can you help me with the cost for Individual  deductible
+healthcare.list_benefits_services;Cost for Individual  deductible
+healthcare.list_benefits_services;How much does Individual  deductible  cost
+healthcare.list_benefits_services;Please tell the cost for Individual  deductible
+healthcare.list_benefits_services;and how much do I pay for Individual  deductible ?
+healthcare.list_benefits_services;can I find information on my individual  deductible
+healthcare.list_benefits_services;my individual  deductible  details
+healthcare.list_benefits_services;my individual  deductible  information
+healthcare.list_benefits_services;explain me about my individual  Deductible
+healthcare.list_benefits_services;my individual  Deductible  info
+healthcare.list_benefits_services;hey bot can you help me know about my individual  Deductible
+healthcare.list_benefits_services;give me information about my individual  Deductible
+healthcare.list_benefits_services;can you help me know about my individual  Deductible
+healthcare.list_benefits_services;let me know about my individual  Deductible
+healthcare.list_benefits_services;brief me about my individual  Deductible
+healthcare.list_benefits_services;information about my individual  Deductible
+healthcare.list_benefits_services;tell me something about my individual  Deductible
+healthcare.list_benefits_services;what is my individual  Deductible
+healthcare.list_benefits_services;Cost for  out of pocket max of my wife
+healthcare.list_benefits_services;Please tell the cost for  out of pocket max of my spouse
+healthcare.list_benefits_services;For  out of pocket max , tell me the cost
+healthcare.list_benefits_services;and how much do I pay for  family deductible ?
+healthcare.list_benefits_services;family deductible  costs ?
+healthcare.list_benefits_services;Tell me the cost for  family deductible
+healthcare.list_benefits_services;Can you tell me the cost for  family deductible
+healthcare.list_benefits_services;How much do I have to pay for  family deductible
+healthcare.list_benefits_services;How much will  family deductible  cost me
+healthcare.list_benefits_services;what is the cost for Individual  deductible  Treatment
+healthcare.list_benefits_services;Do I have to pay for Individual  deductible
+healthcare.list_benefits_services;How much do I need to spend for Individual  deductible
+healthcare.list_benefits_services;For Individual  deductible , what is the cost
+healthcare.list_benefits_services;Can you tell me the cost for single person  deductible
+healthcare.list_benefits_services;How much do I need to pay for single person  deductible
+healthcare.list_benefits_services;How much do I have to pay for single person  deductible
+healthcare.list_benefits_services;Individual  deductible  costs ?
+healthcare.list_benefits_services;Tell me the cost for Individual  deductible
+healthcare.list_benefits_services;Can you tell me the cost for Individual  deductible
+healthcare.list_benefits_services;How much do I need to pay for Individual  deductible
+healthcare.list_benefits_services;How much do I have to pay for Individual  deductible
+healthcare.list_benefits_services;How much will Individual  deductible  cost me
+healthcare.list_benefits_services;can i find information on my  covered service
+healthcare.list_benefits_services;tell me about my  out of pocket max
+healthcare.list_benefits_services;tell me about my  covered services
+healthcare.list_benefits_services;tell me about my  deductible
+healthcare.list_benefits_services;pocket max
+healthcare.list_benefits_services;can you help me know about my  co-insurance
+healthcare.list_benefits_services;can you help me know about my  coinsurance
+healthcare.list_benefits_services;coinsurance  and  deductible
+healthcare.list_benefits_services;explain me about my  co-insurance
+healthcare.list_benefits_services;explain me about my  coinsurance
+healthcare.list_benefits_services;details on my  co-insurance  information
+healthcare.list_benefits_services;details on my  coinsurance  information
+healthcare.list_benefits_services;what data is available on my  co-insurance
+healthcare.list_benefits_services;what data is available on my  coinsurance
+healthcare.list_benefits_services;what is my  coinsurance
+healthcare.list_benefits_services;what is my  co-insurance
+healthcare.list_benefits_services;what is my  co insurance
+healthcare.list_benefits_services;tell me something about my  co-insurance
+healthcare.list_benefits_services;tell me something about my  coinsurance
+healthcare.list_benefits_services;tell me something about my  co insurance
+healthcare.list_benefits_services;brief me about my  co-insurance
+healthcare.list_benefits_services;brief me about my  coinsurance
+healthcare.list_benefits_services;let me know about my  co-insurance
+healthcare.list_benefits_services;let me know about my  coinsurance
+healthcare.list_benefits_services;let me know about my  co insurance
+healthcare.list_benefits_services;can you help me know about my  co insurance
+healthcare.list_benefits_services;give me information about my  co-insurance
+healthcare.list_benefits_services;give me information about my  coinsurance
+healthcare.list_benefits_services;hey bot can you help me know about my  Deductibles
+healthcare.list_benefits_services;coinsurances
+healthcare.list_benefits_services;co-insurance
+healthcare.list_benefits_services;co insurance
+healthcare.list_benefits_services;coinsurance
+healthcare.list_benefits_services;out of pocket maximum
+healthcare.list_benefits_services;out of pocket maximums
+healthcare.list_benefits_services;out of pocket max
+healthcare.list_benefits_services;deductibles
+healthcare.list_benefits_services;deductible
+healthcare.list_benefits_services;covered services
+healthcare.list_benefits_services;covered service
+healthcare.list_benefits_services;what's my  out of pocket maximum
+healthcare.list_benefits_services;what's my  out of pocket max
+healthcare.list_benefits_services;what's my  out of pocket maximums
+healthcare.list_benefits_services;what is my  out of pocket max
+healthcare.list_benefits_services;what is my  out of pocket maximums
+healthcare.list_benefits_services;what is my  out of pocket maximum
+healthcare.list_benefits_services;tell me something about my  out of pocket max
+healthcare.list_benefits_services;tell me something about my  out of pocket maximums
+healthcare.list_benefits_services;information about my  out of pocket maximums
+healthcare.list_benefits_services;brief me about my  out of pocket max
+healthcare.list_benefits_services;let me know about my  out of pocket max
+healthcare.list_benefits_services;let me know about my  out of pocket maximums
+healthcare.list_benefits_services;explain me about my  out of pocket maximum
+healthcare.list_benefits_services;my  out of pocket maximum  information
+healthcare.list_benefits_services;details on my  out of pocket maximum
+healthcare.list_benefits_services;what data is available on my  out of pocket maximum
+healthcare.list_benefits_services;my  out of pocket maximum  details
+healthcare.list_benefits_services;i want to know about my  out of pocket maximum
+healthcare.list_benefits_services;what is my  covered service
+healthcare.list_benefits_services;tell me something about my  covered service
+healthcare.list_benefits_services;information about my  covered service
+healthcare.list_benefits_services;brief me about my  covered service
+healthcare.list_benefits_services;let me know about my  covered service
+healthcare.list_benefits_services;give me information about my  covered service
+healthcare.list_benefits_services;hey bot can you help me know about my  covered service
+healthcare.list_benefits_services;my  covered service  information
+healthcare.list_benefits_services;hey bot can you help me know about my  out of pocket maximums
+healthcare.list_benefits_services;hey bot can you help me know about my  out of packet maximum
+healthcare.list_benefits_services;hey bot can you help me know about my  out of pocket max
+healthcare.list_benefits_services;brief me about my  co insurance
+healthcare.list_benefits_services;give me information about my  co insurance
+healthcare.list_benefits_services;show  coinsurance
+healthcare.list_benefits_services;show  deductible
+healthcare.list_benefits_services;what data is available on my  covered service
+healthcare.list_benefits_services;please help me out with my  covered services
+healthcare.list_benefits_services;i want to know about my  covered service
+healthcare.list_benefits_services;my  covered service  details
+healthcare.list_benefits_services;details on my  covered service
+healthcare.list_benefits_services;explain me about my  covered service
+healthcare.list_benefits_services;my  covered service  info
+healthcare.list_benefits_services;my  deductible  information
+healthcare.list_benefits_services;I want to know about my individual  deductible
+healthcare.list_benefits_services;what data is available on my individual  deductible
+healthcare.list_benefits_services;hey bot can you help me know about my  co insurance
+healthcare.list_benefits_services;my  co insurance  info
+healthcare.list_benefits_services;i want to know about my  coinsurance
+healthcare.list_benefits_services;explain me about my  co insurance
+healthcare.list_benefits_services;my  co insurance  information
+healthcare.list_benefits_services;details on my  co insurance  information
+healthcare.list_benefits_services;what data is available on my  co insurance
+healthcare.list_benefits_services;my  out of pocket maximum  info
+healthcare.list_benefits_services;hey bot can you help me know about my  out of pocket maximum
+healthcare.list_benefits_services;give me information about my  out of pocket maximum
+healthcare.list_benefits_services;can you help me know about my  out of pocket maximum
+healthcare.list_benefits_services;let me know about my  out of pocket maximum
+healthcare.list_benefits_services;brief me about my  out of pocket maximum
+healthcare.list_benefits_services;information about my  out of pocket maximum
+healthcare.list_benefits_services;tell me something about my  out of pocket maximum
+healthcare.list_benefits_services;my  deductible  details
+healthcare.list_benefits_services;i want to know about my  deductible
+healthcare.list_benefits_services;what data is available on my  deductible
+healthcare.list_benefits_services;details on my  deductible  information
+healthcare.list_benefits_services;explain me about my  Deductible
+healthcare.list_benefits_services;my  Deductible  info
+healthcare.list_benefits_services;hey bot can you help me know about my  Deductible
+healthcare.list_benefits_services;give me information about my  Deductible
+healthcare.list_benefits_services;can you help me know about my  Deductible
+healthcare.list_benefits_services;let me know about my  Deductible
+healthcare.list_benefits_services;brief me about my  Deductible
+healthcare.list_benefits_services;information about my  Deductible
+healthcare.list_benefits_services;tell me something about my  Deductible
+healthcare.list_benefits_services;what is my  Deductible
+healthcare.list_benefits_services;yes i want to know about my  deductibles
+healthcare.list_benefits_services;Hi, what are my  out of packet maximum  benefits
+healthcare.list_benefits_services;my  coinsurance  and my   covered services
+healthcare.list_benefits_services;my  out of pocket maximums  and my   covered services
+healthcare.list_benefits_services;I don't know what's my  coinsurance  and my   covered services
+healthcare.list_benefits_services;I don't know what's my  out of pocket maximum
+healthcare.list_benefits_services;I don't know what's my  deductible
+healthcare.list_benefits_services;I don't know what's my  covered services
+healthcare.list_benefits_services;I don't know what's my  coinsurance
+healthcare.list_benefits_services;Please help me find out my  deductible ,  covered service
+healthcare.list_benefits_services;Tell me about my  deductible  and my  covered service
+healthcare.list_benefits_services;can i get my  deductible  and  out of packet max  details?
+healthcare.list_benefits_services;what are my  co-insurance  benefits
+healthcare.list_benefits_services;what are my  deductible  benefits
+healthcare.list_benefits_services;I want to know about my  deductible  and my   out of pocket maximums  benefits
+healthcare.list_benefits_services;can I get my  deductible  and my   out of pocket max  details
+healthcare.list_benefits_services;Okay i want to know about my  covered services
+healthcare.list_benefits_services;Yes I want to know about my  deductible  Benefit
+healthcare.list_benefits_services;Yes I want to know about my  co-insurance  Benefit
+healthcare.list_benefits_services;what is my  deductible , my  covered services  and my  out of pocket max
+healthcare.list_benefits_services;my  co-insurance ,  deductible  and  covered services
+healthcare.list_benefits_services;what is my  deductible
+healthcare.list_benefits_services;what is my  deductible  amount
+healthcare.list_benefits_services;co-insurance ,  deductible
+healthcare.costs_of_coverage_category;can you inform me the pay for  walk-in
+healthcare.costs_of_coverage_category;can you inform me the amount for  walk-in
+healthcare.costs_of_coverage_category;can you help me the cost for  walk-in
+healthcare.costs_of_coverage_category;can you inform me the charges for  walk-in
+healthcare.costs_of_coverage_category;xray  pay?
+healthcare.costs_of_coverage_category;what is the pay for  xray
+healthcare.costs_of_coverage_category;am I covered for  alternative medicine
+healthcare.costs_of_coverage_category;xray  amount?
+healthcare.costs_of_coverage_category;how much will they charge me for an  xray
+healthcare.costs_of_coverage_category;xray  charges
+healthcare.costs_of_coverage_category;what are the charges for  xray
+healthcare.costs_of_coverage_category;charges for  xray
+healthcare.costs_of_coverage_category;what is the fees for  xray
+healthcare.costs_of_coverage_category;xray  price
+healthcare.costs_of_coverage_category;what's the price of  xray
+healthcare.costs_of_coverage_category;how much will  xray  cost me
+healthcare.costs_of_coverage_category;what is the amount of  xray
+healthcare.costs_of_coverage_category;amount of  xray
+healthcare.costs_of_coverage_category;CT scan  fees
+healthcare.costs_of_coverage_category;xray  scan fees
+healthcare.costs_of_coverage_category;what is the cost of  xray
+healthcare.costs_of_coverage_category;whats the cost of  formulary
+healthcare.costs_of_coverage_category;cost of  xray
+healthcare.costs_of_coverage_category;I would like to know what is the cost of  Primary Care ?
+healthcare.costs_of_coverage_category;what is the cost of  mental health services  visit
+healthcare.costs_of_coverage_category;how much will  crutches  cost for me?
+healthcare.costs_of_coverage_category;Please inform  me  the cost for  walk-in
+healthcare.costs_of_coverage_category;Help  me  with the cost for  walk-in
+healthcare.costs_of_coverage_category;can you inform  me  the cost for  walk-in
+healthcare.costs_of_coverage_category;For  walk-in , please help  me  with the cost
+healthcare.costs_of_coverage_category;what is the cost for  walk-in   Treatment
+healthcare.costs_of_coverage_category;For  walk-in , tell  me  the cost
+healthcare.costs_of_coverage_category;For  walk-in , how much do I pay?
+healthcare.costs_of_coverage_category;For  walk-in , what is the cost
+healthcare.costs_of_coverage_category;walk-in  will cost  me  how much?
+healthcare.costs_of_coverage_category;What is the cost for  walk-in
+healthcare.costs_of_coverage_category;Can you help  me  with the cost for  walk-in
+healthcare.costs_of_coverage_category;Do I need to pay for  walk-in
+healthcare.costs_of_coverage_category;Do I have to pay for  walk-in
+healthcare.costs_of_coverage_category;Cost for  walk-in
+healthcare.costs_of_coverage_category;How much does  walk-in  cost
+healthcare.costs_of_coverage_category;Please tell the cost for  walk-in
+healthcare.costs_of_coverage_category;How much do I need to spend for  walk-in
+healthcare.costs_of_coverage_category;and how much do I pay for  walk-in ?
+healthcare.costs_of_coverage_category;walk-in  costs ?
+healthcare.costs_of_coverage_category;Tell  me  the cost for  walk-in
+healthcare.costs_of_coverage_category;How much do I need to pay for  walk-in
+healthcare.costs_of_coverage_category;Can you tell  me  the cost for  walk-in
+healthcare.costs_of_coverage_category;How much do I have to pay for  walk-in
+healthcare.costs_of_coverage_category;How much will  walk-in  cost  me
+healthcare.end_session;no that's enough
+healthcare.end_session;no that will be enough
+healthcare.end_session;no that's it
+healthcare.end_session;no that was it
+healthcare.end_session;nothing
+healthcare.end_session;nah that's alright
+healthcare.end_session;nope that's it
+healthcare.end_session;no I am fine
+healthcare.end_session;no thank you
+healthcare.end_session;no
+healthcare.end_session;all thank you
+healthcare.end_session;alright thank you
+healthcare.end_session;alright  thanks
+healthcare.end_session;appreciate 
+healthcare.end_session;cheers
+healthcare.end_session;good  thanks
+healthcare.end_session;I thank you
+healthcare.end_session;perfect that works
+healthcare.end_session;nice
+healthcare.end_session;perfect thank you
+healthcare.end_session;so nice of you
+healthcare.end_session;terrific
+healthcare.end_session;thank you
+healthcare.end_session;thank you again
+healthcare.end_session;thank you for 
+healthcare.end_session;thank you I appreciate it
+healthcare.end_session;thank you so much
+healthcare.end_session;thank you that will be all great
+healthcare.end_session;thanks a lot
+healthcare.end_session;thanks again
+healthcare.end_session;thanks buddy
+healthcare.end_session;thanks for 
+healthcare.end_session;thanks love
+healthcare.end_session;thanks so much
+healthcare.end_session;thanx
+healthcare.end_session;that's all
+healthcare.end_session;thnx
+healthcare.end_session;that sounds good
+healthcare.end_session;very good
+healthcare.end_session;sounds good
+healthcare.end_session;well thank you
+healthcare.end_session;well  thanks
+healthcare.end_session;thanks
+healthcare.end_session;okay thank you for 

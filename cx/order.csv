@@ -1,0 +1,1201 @@
+intent;utterance
+retail.edit_shipping_address_initiate;I placed an order for a Chromecast and need to change the address
+retail.edit_shipping_address_initiate;I bought a  Chromecast  but it's going to the wrong place
+retail.edit_shipping_address_initiate;I made a mistake in placing my order for a  Pixel 5
+retail.edit_shipping_address_initiate;I accidentally sent the  Nest thermostat  order to my office
+retail.edit_shipping_address_initiate;I accidentally sent my  Google home  order to the wrong apartment
+retail.edit_shipping_address_initiate;I purchased a  Pixel 5  but it's going to my office instead of my house
+retail.edit_shipping_address_initiate;I bought a  Stadia controller  but it's going to my old address
+retail.edit_shipping_address_initiate;My order is going to the wrong address and I need to change it
+retail.edit_shipping_address_initiate;I need to redirect an order to a new address
+retail.edit_shipping_address_initiate;Could I change the address for my  Google Home  order
+retail.edit_shipping_address_initiate;I need to make edits to the address I used in an order
+retail.edit_shipping_address_initiate;Can I edit the address on my order
+retail.edit_shipping_address_initiate;I need to fix the address on my order
+retail.edit_shipping_address_initiate;I made a mistake in the address for my  Pixel 5  order
+retail.edit_shipping_address_initiate;I ordered a  nest thermostat  but made a mistake in the shipping address
+retail.edit_shipping_address_initiate;I made a mistake with the shipping address for my  Google Home
+retail.edit_shipping_address_initiate;I messed up my  Stadia Controller  order and need to change the address
+retail.edit_shipping_address_initiate;I need to send my  Pixel 5  order somewhere else
+retail.edit_shipping_address_initiate;I used the wrong shipping address can I change it
+retail.edit_shipping_address_initiate;I made a mistake and put the wrong shipping address for my purchase
+retail.edit_shipping_address_initiate;I made a purchase but I messed up and put the wrong address
+retail.edit_shipping_address_initiate;Can you help me change the address for an order I made
+retail.edit_shipping_address_initiate;I made a mistake and put the wrong address in my order
+retail.edit_shipping_address_initiate;I bought something but I used the wrong address
+retail.edit_shipping_address_initiate;I purchased something but it's going to my old address
+retail.edit_shipping_address_initiate;I need to update the address for my most recent order
+retail.edit_shipping_address_initiate;I placed an order but put in the wrong address
+retail.edit_shipping_address_initiate;I need to change the address for the  phone  i bought
+retail.edit_shipping_address_initiate;the email i got had a different shipping address
+retail.edit_shipping_address_initiate;the confirmation email had the wrong shipping address
+retail.edit_shipping_address_initiate;the  nest  i bought is going to the wrong place
+retail.edit_shipping_address_initiate;I made a mistake in my street address can you help
+retail.edit_shipping_address_initiate;I used the wrong address for my order
+retail.edit_shipping_address_initiate;can i update the street name for man order i placed
+retail.edit_shipping_address_initiate;gave the wrong city name for my order
+retail.edit_shipping_address_initiate;inputted the wrong street name for my order
+retail.edit_shipping_address_initiate;ordered the  pixel  to the wrong address
+retail.edit_shipping_address_initiate;sent the  google home  to the wrong address
+retail.edit_shipping_address_initiate;accidentally gave the wrong address for the  stadia  controller
+retail.edit_shipping_address_initiate;my  nest thermostat  is going to the wrong location
+retail.edit_shipping_address_initiate;shipped my  pixel 5  to the wrong address, can i update it
+retail.edit_shipping_address_initiate;made a mistake with the shipping address, can i update it
+retail.edit_shipping_address_initiate;i just placed an order and would like to change the address
+retail.edit_shipping_address_initiate;can i update the address for an order
+retail.edit_shipping_address_initiate;i want to change the address i sent an item to
+retail.edit_shipping_address_initiate;is it possible to change the address for an order
+retail.edit_shipping_address_initiate;can you help me change the shipping address for an order
+retail.edit_shipping_address_initiate;I would like edit the shipping address of an item
+retail.edit_shipping_address_initiate;i would like to change the shipping address on an order
+retail.edit_shipping_address_initiate;I accidentally shipped something to the wrong place can i update the address
+retail.edit_shipping_address_initiate;Accidentally ordered something to the wrong address can I update it
+retail.return_order_initiate;the package arrived late i want to return it
+retail.return_order_initiate;i would like to request a refund for the  google home
+retail.return_order_initiate;can i get a refund for a device that arrived broken
+retail.return_order_initiate;can i return a device if i haven't opened it
+retail.return_order_initiate;i want to return a device i got  today  i haven't opened it
+retail.return_order_initiate;i just got this device in the mail  today  and want to return it
+retail.return_order_initiate;i would like to return an item that i ordered
+retail.return_order_initiate;i just came here to see if i can return a device
+retail.return_order_initiate;please can you just help me process a refund
+retail.return_order_initiate;i want to initiate a refund for the  google home
+retail.return_order_initiate;my  phone  is broken i need a refund
+retail.return_order_initiate;i just want my  nest thermostat  refunded
+retail.return_order_initiate;can you just help me get a refund please
+retail.return_order_initiate;i just want to return my  phone
+retail.return_order_initiate;trying to return something
+retail.return_order_initiate;need to return my  pixel 5  for a refund
+retail.return_order_initiate;can you help me with a return
+retail.return_order_initiate;i want to return a purchased item
+retail.return_order_initiate;i need some help with returning a product i purchased
+retail.return_order_initiate;i need assistance returning an item
+retail.return_order_initiate;initiate return
+retail.return_order_initiate;the order i placed arrived damaged i would like to return it
+retail.return_order_initiate;please help me start the process for a return
+retail.return_order_initiate;can you please help me return an order
+retail.return_order_initiate;the  google home  that i ordered isn't working
+retail.return_order_initiate;my  phone  arrived with the screen cracked
+retail.return_order_initiate;This item I purchased is broken can I return it
+retail.return_order_initiate;I need to return a defective product
+retail.return_order_initiate;I have some items to return
+retail.return_order_initiate;I want to return this  Google Home
+retail.return_order_initiate;I don't want my  Chromecast  anymore
+retail.return_order_initiate;My order was damaged and I want to return it
+retail.return_order_initiate;Please help me with a return
+retail.return_order_initiate;I don't want my  Stadia controller  anymore
+retail.return_order_initiate;Can I send my  Pixel 5  back
+retail.return_order_initiate;I purchased something and I want to send it back
+retail.return_order_initiate;I need some help returning an item I purchased
+retail.return_order_initiate;Return
+retail.return_order_initiate;Help me return something
+retail.return_order_initiate;I would like to return an item
+retail.return_order_initiate;Can I return an item
+retail.return_order_initiate;Need to return an order
+retail.return_order_initiate;I need to make a return
+retail.return_order_initiate;Can I return my  Pixel 5
+retail.return_order_initiate;I would like to return my  Nest thermostat
+retail.return_order_initiate;Return order
+retail.return_order_initiate;I want to return the  Stadia controller
+retail.return_order_initiate;I don't need the  Chromecast  anymore can I return it
+retail.return_order_initiate;I would like to return the  chromecast
+retail.return_order_initiate;I would like to return my  Pixel 5
+retail.no_pin;My pin code hasn't arrived yet
+retail.no_pin;I'm still waiting for the pin to arrive
+retail.no_pin;Could you resend my pin code
+retail.no_pin;I still need my pin code
+retail.no_pin;I still haven't gotten my pin number
+retail.no_pin;The pin was never sent
+retail.no_pin;I don't know why my pin was never sent
+retail.no_pin;I'm not sure where my pin code went
+retail.no_pin;I need you to resend the pin number
+retail.no_pin;Could you resend the pin
+retail.no_pin;Your system didn't sent me a pin
+retail.no_pin;I didn't get a pin number
+retail.no_pin;I didn't receive a pin
+retail.no_pin;I never set up my pin number
+retail.no_pin;I'm not sure what a pin number is
+retail.no_pin;Where is my pin
+retail.no_pin;I don't have a pin number
+retail.no_pin;I never got the pin number
+retail.no_pin;You never sent me a pin
+retail.no_pin;I don't have a pin
+retail.no_pin;I didn't see a pin
+retail.no_pin;I never got the pin
+retail.extract.order_number_collection;I found the  email  with the order number  3939
+retail.extract.order_number_collection;Here it's in my  email   3425
+retail.extract.order_number_collection;I got a  text message  with the number  39292
+retail.extract.order_number_collection;I have it in my  email  it's  2932
+retail.extract.order_number_collection;If I remember correctly it's  39239
+retail.extract.order_number_collection;Could you try  3929
+retail.extract.order_number_collection;There's a lot of numbers here try  24293
+retail.extract.order_number_collection;I found a number here it's  23923
+retail.extract.order_number_collection;Does this work as a number  39239
+retail.extract.order_number_collection;I found my number  30400
+retail.extract.order_number_collection;Here's the number  00242
+retail.extract.order_number_collection;I think  424240  is my number
+retail.extract.order_number_collection;The order number is  42424
+retail.extract.order_number_collection;I found the number  44402
+retail.extract.order_number_collection;I found my number it's  4402
+retail.extract.order_number_collection;2222  is my number
+retail.extract.order_number_collection;It looks like my order number is  2222
+retail.extract.order_number_collection;0002392  is my number
+retail.extract.order_number_collection;My number is  000349
+retail.extract.order_number_collection;This looks like the number  02302
+retail.extract.order_number_collection;Finally found the number it's  2392
+retail.extract.order_number_collection;I think I found it  30520
+retail.extract.order_number_collection;Does  3929  work
+retail.extract.order_number_collection;Does  33420  look like a valid order number
+retail.extract.order_number_collection;Is this the number  2303
+retail.extract.order_number_collection;I think it's  90233  but I'm not sure
+retail.extract.order_number_collection;It's  39454  thank you very much
+retail.extract.order_number_collection;3589  is my order number
+retail.extract.order_number_collection;I have found my order number it's  12356
+retail.extract.order_number_collection;Here it is I found it it's  3354776
+retail.extract.order_number_collection;My order number was  6879764
+retail.extract.order_number_collection;Reading it now  33879
+retail.extract.order_number_collection;There's the order number  11123
+retail.extract.order_number_collection;33468  that's my order number
+retail.extract.order_number_collection;9976  is my order number
+retail.extract.order_number_collection;I'm reading here that it's  3487
+retail.extract.order_number_collection;I think it's  223334
+retail.extract.order_number_collection;Found the number  44777
+retail.extract.order_number_collection;Here's the order number  33344
+retail.extract.order_number_collection;Here it is order number  11133
+retail.extract.order_number_collection;The order number is  112348
+retail.extract.order_number_collection;I have found my number at last it is  11122
+retail.extract.order_number_collection;1236
+retail.extract.order_number_collection;I found my number it's  2444
+retail.extract.order_number_collection;Finally got it the number is  38385
+retail.extract.order_number_collection;Here it is  34839
+retail.extract.order_number_collection;Got it  38345
+retail.extract.order_number_collection;Found it the number is  12354
+retail.extract.order_number_collection;The number is  09257
+retail.extract.order_number_collection;23789
+retail.extract.order_number_collection;Here is my order number  89456
+retail.extract.order_number_collection;My order number is  52867
+retail.replace_loyalty_card_initiate;all i want is a new card
+retail.replace_loyalty_card_initiate;can i just get a new card please
+retail.replace_loyalty_card_initiate;i just need a new loyalty card
+retail.replace_loyalty_card_initiate;I have no idea where my card is please help
+retail.replace_loyalty_card_initiate;I lost my old card
+retail.replace_loyalty_card_initiate;Please help me I need a new card
+retail.replace_loyalty_card_initiate;Send me a replacement card please
+retail.replace_loyalty_card_initiate;Give me a replacement card
+retail.replace_loyalty_card_initiate;Help me get a new card
+retail.replace_loyalty_card_initiate;I want a new card
+retail.replace_loyalty_card_initiate;Can I get a new card
+retail.replace_loyalty_card_initiate;Replace my loyalty card please
+retail.replace_loyalty_card_initiate;I have misplaced my loyalty card and need a replacement
+retail.replace_loyalty_card_initiate;I can't find my loyalty card can you send a new one
+retail.replace_loyalty_card_initiate;I need a replacement card issued
+retail.replace_loyalty_card_initiate;Can I get my card replaced
+retail.replace_loyalty_card_initiate;I lost my loyalty card
+retail.replace_loyalty_card_initiate;Get me a new card
+retail.replace_loyalty_card_initiate;On second thought I need a new card
+retail.replace_loyalty_card_initiate;Replacement card
+retail.replace_loyalty_card_initiate;Replace my card
+retail.replace_loyalty_card_initiate;Can I replace my card
+retail.replace_loyalty_card_initiate;I need help getting a replacement loyalty card
+retail.replace_loyalty_card_initiate;I've lost my loyalty card and need a new one
+retail.replace_loyalty_card_initiate;Can you send me a new loyalty card
+retail.replace_loyalty_card_initiate;I need a new card
+retail.replace_loyalty_card_initiate;I lost my card
+retail.update_account_address_initiate;Just want to update my main address on the account
+retail.update_account_address_initiate;I want to change the address on my account
+retail.update_account_address_initiate;Can you help me change my address on file
+retail.update_account_address_initiate;I've moved to a new home and need to add a new address
+retail.update_account_address_initiate;Can I change my shipping address
+retail.update_account_address_initiate;I need to edit my shipping address
+retail.update_account_address_initiate;I need to add a new address
+retail.update_account_address_initiate;I bought a house and want to update my address
+retail.update_account_address_initiate;I got a new apartment and need to change my address
+retail.update_account_address_initiate;Can I change my address I moved
+retail.update_account_address_initiate;I need to update the address that's on file
+retail.update_account_address_initiate;I changed addresses can I update it
+retail.update_account_address_initiate;Actually can I update my address
+retail.update_account_address_initiate;I need to change the address on file
+retail.update_account_address_initiate;Actually can I change my address
+retail.update_account_address_initiate;Can I update my address
+retail.update_account_address_initiate;I moved and need to update my address
+retail.update_account_address_initiate;I'm at a new apartment
+retail.update_account_address_initiate;I moved to a new house
+retail.update_account_address_initiate;I would like to update my address
+retail.update_account_address_initiate;Can I add a new address to my account
+retail.update_account_address_initiate;I moved to a new address
+retail.update_account_address_initiate;Changed address
+retail.update_account_address_initiate;I changed my address
+retail.update_account_address_initiate;I need to update my address
+retail.unsupported_item_request;i want tomatoes
+retail.unsupported_item_request;i want to buy a pizza
+retail.unsupported_item_request;i want socks
+retail.unsupported_item_request;can I add the moon to my cart
+retail.unsupported_item_request;i want to buy a fire truck
+retail.unsupported_item_request;can I add a car as well
+retail.unsupported_item_request;Get me some  chicken tacos
+retail.unsupported_item_request;I want to buy a  cheeseburger  with extra pickles
+retail.unsupported_item_request;Can I order a  pizza
+retail.unsupported_item_request;I'm looking to buy a  house
+retail.unsupported_item_request;I'd like to buy a  doll
+retail.unsupported_item_request;Can I buy some  hand lotion
+retail.unsupported_item_request;I need to purchase some  paper products  please
+retail.unsupported_item_request;I need a  box of tissues  and some  Tylenol
+retail.unsupported_item_request;I heard you carry  paints  is that true
+retail.unsupported_item_request;Do you carry  Roombas
+retail.unsupported_item_request;I need a new  vacuum cleaner
+retail.unsupported_item_request;Can I buy a  Labrador
+retail.unsupported_item_request;I'd like to buy a  cat
+retail.unsupported_item_request;I'll take the  potted plant  thanks
+retail.unsupported_item_request;I'd like to order some  pens
+retail.unsupported_item_request;Buy  shorts
+retail.unsupported_item_request;I'd like to buy some  pants
+retail.unsupported_item_request;Can I buy some  vegetables
+retail.unsupported_item_request;I would like to purchase a  toy
+retail.unsupported_item_request;Do you sell  video games
+retail.unsupported_item_request;Can I get an  iPhone
+retail.unsupported_item_request;I'd like to buy a  PlayStation
+retail.unsupported_item_request;Do you have  shirts  for sale
+retail.unsupported_item_request;I could go for some  tacos
+retail.unsupported_item_request;Do you sell  Doritos
+retail.unsupported_item_request;Can I buy a  vowel
+retail.unsupported_item_request;I'd like to buy a  hat
+retail.extract.credit_card_last_four;Try  0077
+retail.extract.credit_card_last_four;The last four digits are  0004
+retail.extract.credit_card_last_four;0034  was my number
+retail.extract.credit_card_last_four;0679  should work
+retail.extract.credit_card_last_four;Let's try  4934
+retail.extract.credit_card_last_four;I think I found it try  4549
+retail.extract.credit_card_last_four;I could have sworn it was  9494
+retail.extract.credit_card_last_four;2222
+retail.extract.credit_card_last_four;4444
+retail.extract.credit_card_last_four;Try  4936
+retail.extract.credit_card_last_four;I am fairly confident  2242  was the number
+retail.extract.credit_card_last_four;I remember it ended in  4435
+retail.extract.credit_card_last_four;I think I used the card ending in  9994
+retail.extract.credit_card_last_four;This should work try  4584
+retail.extract.credit_card_last_four;Found my card the number is  9565
+retail.extract.credit_card_last_four;I have it here somewhere  4960
+retail.extract.credit_card_last_four;Are you ready it's  3493
+retail.extract.credit_card_last_four;The card number was definitely  0433
+retail.extract.credit_card_last_four;If I recall correctly I used  5943  for my card
+retail.extract.credit_card_last_four;I'm ninety percent confident I used  5694
+retail.extract.credit_card_last_four;Pretty sure it was  6304
+retail.extract.credit_card_last_four;I thought it was  6054
+retail.extract.credit_card_last_four;Perhaps it was  6943
+retail.extract.credit_card_last_four;Maybe  3932
+retail.extract.credit_card_last_four;I think it was  9329  but I can't remember
+retail.extract.credit_card_last_four;I'm fairly confident it was  2234
+retail.extract.credit_card_last_four;I'm pretty sure  3292  was the number I used
+retail.extract.credit_card_last_four;Please check if  9394  was the number I used
+retail.extract.credit_card_last_four;Could you try  5695
+retail.extract.credit_card_last_four;I think I used  3923
+retail.extract.credit_card_last_four;I think the number was  8888
+retail.extract.credit_card_last_four;I'm not sure try  9234
+retail.extract.credit_card_last_four;I think  4234  is the right number
+retail.extract.credit_card_last_four;Does  4242  match
+retail.extract.credit_card_last_four;I'm pretty sure it was  9333
+retail.extract.credit_card_last_four;I think it's  2212
+retail.extract.credit_card_last_four;Hang on let me find my card  3923
+retail.extract.credit_card_last_four;Here's the number  2932
+retail.extract.credit_card_last_four;My last four digits are  3492
+retail.extract.credit_card_last_four;The number is  1234
+retail.extract.credit_card_last_four;2424
+retail.extract.credit_card_last_four;The last four digits are  4242
+retail.extract.credit_card_last_four;3034
+retail.extract.credit_card_last_four;got it they are  2355
+retail.extract.credit_card_last_four;found it its  5943
+retail.extract.credit_card_last_four;here you go its  3556
+retail.extract.credit_card_last_four;the numbers are  0344
+retail.extract.credit_card_last_four;its  5493
+retail.extract.credit_card_last_four;4758
+retail.extract.credit_card_last_four;The last  four  digits of my card are  1234
+retail.purchase_item_initiate;I want to buy something
+retail.purchase_item_initiate;I want a  Pixel 5
+retail.purchase_item_initiate;I want a  phone
+retail.purchase_item_initiate;Need to buy a  thermostat
+retail.purchase_item_initiate;Can I get a  phone
+retail.purchase_item_initiate;I'd like to buy a  phone
+retail.purchase_item_initiate;Want to see if I can buy an item
+retail.purchase_item_initiate;Looking to buy something
+retail.purchase_item_initiate;i would like to purchase a product
+retail.purchase_item_initiate;can i purchase an item
+retail.purchase_item_initiate;I'd like to purchase something
+retail.purchase_item_initiate;i'm looking to buy a  pixel 5  please
+retail.purchase_item_initiate;hi could i purchase  one   google home
+retail.purchase_item_initiate;hey give me a  nest thermostat
+retail.purchase_item_initiate;hi i'd like to buy a  pixel 5  please
+retail.purchase_item_initiate;greetings could I get a  pixel 5  thanks
+retail.purchase_item_initiate;i want a  nest thermostat  please
+retail.purchase_item_initiate;hey could you give me a  chrome cast
+retail.purchase_item_initiate;hi i'd like to buy a  google home  please
+retail.purchase_item_initiate;Hi could I purchase a  stadia controller
+retail.purchase_item_initiate;Please add a  google home  to my cart
+retail.purchase_item_initiate;Hey could you add a  thermostat  to my cart
+retail.purchase_item_initiate;Yo can I get a  chromecast
+retail.purchase_item_initiate;Hi can I buy a  Pixel 5
+retail.purchase_item_initiate;Can I buy a few things from you
+retail.purchase_item_initiate;I'd like to make some purchases
+retail.purchase_item_initiate;I bought the  chrome cast   last month  and would like to order another one
+retail.purchase_item_initiate;I saw the new  pixel  released  last month  can I get  one
+retail.purchase_item_initiate;I have been trying to buy a  Pixel 5  do you have one
+retail.purchase_item_initiate;Can you ship me some Google products
+retail.purchase_item_initiate;I really want to buy some Google products
+retail.purchase_item_initiate;I have been dying to get my hands on the  Pixel 5
+retail.purchase_item_initiate;I really want to purchase a  Pixel 5  please
+retail.purchase_item_initiate;Can I buy a  stadia controller
+retail.purchase_item_initiate;Do you still sell the  nest
+retail.purchase_item_initiate;I want the latest  nest
+retail.purchase_item_initiate;Give me a  Google Home
+retail.purchase_item_initiate;Can I order a new  phone  here
+retail.purchase_item_initiate;Can I make a purchase please
+retail.purchase_item_initiate;Do you have items for  sale
+retail.purchase_item_initiate;I want to buy the newest  phone
+retail.purchase_item_initiate;Could you ship me the latest  phone
+retail.purchase_item_initiate;I would like to purchase the latest  chrome cast
+retail.purchase_item_initiate;I want to order the latest  pixel
+retail.purchase_item_initiate;I'm looking for an Android  phone
+retail.purchase_item_initiate;I heard about the Google  pixel  can I buy  one
+retail.purchase_item_initiate;Could you ship me a  nest
+retail.purchase_item_initiate;I would like to buy a  phone   today
+retail.purchase_item_initiate;Can I purchase a  Nest
+retail.purchase_item_initiate;I would like to make a purchase
+retail.purchase_item_initiate;Can you hook me up with some Google products
+retail.purchase_item_initiate;I really want to buy a  Google home  please
+retail.purchase_item_initiate;Will you let me make a purchase
+retail.purchase_item_initiate;I can buy things here right
+retail.purchase_item_initiate;I would really like to buy a  Pixel 5
+retail.purchase_item_initiate;Can I buy a Chromecast
+retail.purchase_item_initiate;I'd like to buy something
+retail.purchase_item_initiate;i would like to purchase a  pixel 5
+retail.purchase_item_initiate;i would like to purchase a  google home
+retail.purchase_item_initiate;am i able to place an order here
+retail.purchase_item_initiate;i want to purchase something
+retail.purchase_item_initiate;can i place an order
+retail.purchase_item_initiate;i want to place an order
+retail.purchase_item_initiate;can i order a  pixel
+retail.purchase_item_initiate;looking to buy a  nest
+retail.purchase_item_initiate;i want to buy a google product
+retail.purchase_item_initiate;i want a  thermostat
+retail.purchase_item_initiate;can i buy a  phone
+retail.purchase_item_initiate;can you help me place an order for a  google home
+retail.purchase_item_initiate;purchase device
+retail.purchase_item_initiate;i want to buy something
+retail.purchase_item_initiate;can i buy a device here
+retail.purchase_item_initiate;i would like to order a  nest thermostat
+retail.purchase_item_initiate;Can i place an order for a stadia controller
+retail.purchase_item_initiate;I would like to buy a Pixel  5
+retail.return.store_credit;store credit
+retail.return.store_credit;store credit would actually be a lot better
+retail.return.store_credit;actually i prefer store credit
+retail.return.store_credit;credit is just fine
+retail.return.store_credit;store credit works just fine
+retail.return.store_credit;Store credit please and thank you
+retail.return.store_credit;I'll take the store credit thank you very much
+retail.return.store_credit;Credit is fine thanks
+retail.return.store_credit;I could use the credit
+retail.return.store_credit;Let's go with the credit
+retail.return.store_credit;The credit works
+retail.return.store_credit;Give me the store credit thanks
+retail.return.store_credit;I'm perfectly happy to take the store credit
+retail.return.store_credit;Let's do store credit
+retail.return.store_credit;I'll just take the store credit please
+retail.return.store_credit;store credit is better since I want to purchase a different item
+retail.return.store_credit;yeah store credit works I want to buy something else
+retail.return.store_credit;I still want to get something so store credit
+retail.return.store_credit;I want to buy something else so store credit works for me
+retail.return.store_credit;Yes I would like store credit
+retail.return.store_credit;store credit would be prefered
+retail.return.store_credit;Store credit is fine with me
+retail.return.store_credit;just give me store credit
+retail.return.store_credit;store credit works for me
+retail.return.store_credit;store credit is fine
+retail.return.store_credit;I can do store credit
+retail.extract.zip_code;I prefer to use zip instead
+retail.extract.zip_code;Zip code input please
+retail.extract.zip_code;Let's just go with the zip if that's okay
+retail.extract.zip_code;The zip is  52761
+retail.extract.zip_code;Zip is  46350
+retail.extract.zip_code;Zip  28079
+retail.extract.zip_code;My zip is  08861
+retail.extract.zip_code;Would my zip be better
+retail.extract.zip_code;I would like to use my zip
+retail.extract.zip_code;I changed my mind can I use my zip code
+retail.extract.zip_code;Can I skip this and just give you my zip code
+retail.extract.zip_code;I remember my zip code is that more useful
+retail.extract.zip_code;I would prefer to give you my zip code
+retail.extract.zip_code;My zip is  60007
+retail.extract.zip_code;Zip code  45342
+retail.extract.zip_code;Zip code is  17050
+retail.extract.zip_code;46614
+retail.extract.zip_code;48192
+retail.extract.zip_code;Please just take my zip code  32162
+retail.extract.zip_code;On second thought  60606  is my zip code
+retail.extract.zip_code;On second thought let's use my zip code it's  11722
+retail.extract.zip_code;I would like to use my zip code it's  94043
+retail.extract.zip_code;I'd rather just give you my zip code it's  19038
+retail.extract.zip_code;Would giving you my zip code save time
+retail.extract.zip_code;I remember my zip code let's just use that
+retail.extract.zip_code;I think it's  33904
+retail.extract.zip_code;48103  is my zip code
+retail.extract.zip_code;My zip code is  11722
+retail.extract.zip_code;Here's my zip code it's  60453
+retail.extract.zip_code;On second thought let me use my zip code
+retail.extract.zip_code;Could I just read out my zip code
+retail.extract.zip_code;I have my zip code can I use that
+retail.extract.zip_code;I'd rather just give you my zip code
+retail.extract.zip_code;If I give you my zip code will that work
+retail.extract.zip_code;Here's my zip  32765
+retail.extract.zip_code;Zip code  17042
+retail.extract.zip_code;Can I just use my zip code it's  32162
+retail.extract.zip_code;I'm just going to say my zip code it's  94806
+retail.extract.zip_code;I have my zip code it's  34231
+retail.extract.zip_code;I'm just going to give you my zip code  48101
+retail.extract.zip_code;I can just give you zip code
+retail.extract.zip_code;Can I just use my zip code
+retail.extract.zip_code;I'm just going to give you my zip code if that's okay
+retail.extract.zip_code;My zip code is  06033
+retail.extract.zip_code;Zip code is  06106
+retail.extract.zip_code;Search by zip code
+retail.extract.zip_code;Could I just use my zip code
+retail.extract.zip_code;Let me just give you my zip code it's  08021
+retail.extract.zip_code;My zip code is  60661
+retail.extract.zip_code;I have my zip code does that help
+retail.extract.zip_code;Can I just give you my zip code
+retail.nearest_store_initiate;Where can I find the nearest Google location
+retail.nearest_store_initiate;I'm looking for the nearest Google location
+retail.nearest_store_initiate;I'm trying to find a nearby Google store
+retail.nearest_store_initiate;Do you know where the nearest Google store is
+retail.nearest_store_initiate;Where's the nearest Google store
+retail.nearest_store_initiate;Is there a Google store nearby
+retail.nearest_store_initiate;I'm looking for a Google store
+retail.nearest_store_initiate;Looking for nearest Google location
+retail.nearest_store_initiate;Looking for the nearest store
+retail.nearest_store_initiate;Actually can I search for a store
+retail.nearest_store_initiate;Let me search for a store instead
+retail.nearest_store_initiate;On second thought can I find a store
+retail.nearest_store_initiate;I'm searching for a store
+retail.nearest_store_initiate;Nearest store please
+retail.nearest_store_initiate;Find my store
+retail.nearest_store_initiate;Find me a store
+retail.nearest_store_initiate;I'm looking for a store
+retail.nearest_store_initiate;I need some help getting some store information
+retail.nearest_store_initiate;I'm trying to find the nearest store
+retail.nearest_store_initiate;Could you find me the nearest store
+retail.nearest_store_initiate;I would like some store information
+retail.nearest_store_initiate;I need store information
+retail.nearest_store_initiate;Which stores are nearby
+retail.nearest_store_initiate;What's the closest store
+retail.nearest_store_initiate;I'm calling to ask about the nearest store
+retail.nearest_store_initiate;I want the closest store
+retail.nearest_store_initiate;I need to find a store
+retail.nearest_store_initiate;Can you find me a store
+retail.nearest_store_initiate;Which store is closest to me
+retail.nearest_store_initiate;I'm looking for the nearest store
+retail.nearest_store_initiate;Do you have a location near me
+retail.nearest_store_initiate;I want the nearest store address
+retail.nearest_store_initiate;Can you give me the address to the closest store
+retail.nearest_store_initiate;What is the closest store near me
+retail.account_loyalty_points_initiate;Are there any loyalty points left on my account
+retail.account_loyalty_points_initiate;Do i have any reward points left
+retail.account_loyalty_points_initiate;Could you just tell me my rewards points balance
+retail.account_loyalty_points_initiate;Just came to see my points balance
+retail.account_loyalty_points_initiate;Are you able to check the number of reward points i have
+retail.account_loyalty_points_initiate;I want to check my reward points
+retail.account_loyalty_points_initiate;I'm asking about the number of points I've earned
+retail.account_loyalty_points_initiate;I want to know the number of points I've accumulated
+retail.account_loyalty_points_initiate;How many loyalty points do I got
+retail.account_loyalty_points_initiate;Have I earned any points
+retail.account_loyalty_points_initiate;How many loyalty points did I earn
+retail.account_loyalty_points_initiate;How many rewards points did I have
+retail.account_loyalty_points_initiate;What is my points balance
+retail.account_loyalty_points_initiate;Points balance please
+retail.account_loyalty_points_initiate;On second thought I want to know my points balance
+retail.account_loyalty_points_initiate;Actually can you tell me how many points I have
+retail.account_loyalty_points_initiate;What is my rewards balance
+retail.account_loyalty_points_initiate;Can I get my points balance
+retail.account_loyalty_points_initiate;Can you look my up rewards points balance
+retail.account_loyalty_points_initiate;Look up loyalty points
+retail.account_loyalty_points_initiate;I want to know how many loyalty points I have
+retail.account_loyalty_points_initiate;How many loyalty points do I have
+retail.account_loyalty_points_initiate;What is my point balance
+retail.account_loyalty_points_initiate;Can you tell me how many reward points I have
+retail.account_loyalty_points_initiate;points balance
+retail.account_loyalty_points_initiate;reward points balance
+retail.address_changed;Actually that address is no good
+retail.address_changed;Actually no thats not the address i want to use
+retail.address_changed;Actually thats not where i need it to go
+retail.address_changed;No actually i'm at a different place
+retail.address_changed;I have a new address I can give you
+retail.address_changed;That address is old I need to use a new  one
+retail.address_changed;I moved  last week
+retail.address_changed;I need to put in a new address
+retail.address_changed;This is a brand new address
+retail.address_changed;This needs to go to my new address
+retail.address_changed;I bought a new condo
+retail.address_changed;This is a different house
+retail.address_changed;I bought a new home  last month
+retail.address_changed;I moved to a new house
+retail.address_changed;No I'm at a new address
+retail.address_changed;I have changed addresses
+retail.address_changed;I'm at a different address
+retail.address_changed;No this is a different address
+retail.address_changed;I need to add a new address
+retail.address_changed;I need to ship this to my new apartment
+retail.address_changed;No I moved to a new apartment
+retail.address_changed;I'm at a new house
+retail.address_changed;I moved
+retail.address_changed;No I got a new address
+retail.address_changed;No I changed locations
+retail.check_order_status_initiate;can you help me with my order
+retail.check_order_status_initiate;could I get some assistance with my order
+retail.check_order_status_initiate;I need some help with an order
+retail.check_order_status_initiate;I made a purchase and need some help
+retail.check_order_status_initiate;I bought something and need some assistance
+retail.check_order_status_initiate;could you help me with a purchase I made
+retail.check_order_status_initiate;I need some assistance with an order
+retail.check_order_status_initiate;I need some help figuring out a problem with my order
+retail.check_order_status_initiate;There was a problem with my order can you help
+retail.check_order_status_initiate;I have a problem with my order
+retail.check_order_status_initiate;There's a problem with my order
+retail.check_order_status_initiate;I have an issue with an order I placed
+retail.check_order_status_initiate;Could you help me with an issue with my purchase
+retail.check_order_status_initiate;I need help resolving an issue with my order
+retail.check_order_status_initiate;Calling to check order status
+retail.check_order_status_initiate;I am calling  today  to see if you can help me find my order status
+retail.check_order_status_initiate;I placed an order 2 days ago and want to know what its current status is
+retail.check_order_status_initiate;I am calling  today  to find out the status of an order i placed
+retail.check_order_status_initiate;I am calling to check on an order
+retail.check_order_status_initiate;I need to look up the order status with the order number
+retail.check_order_status_initiate;I have my order number but don't know how to get the status
+retail.check_order_status_initiate;Can you give me the status if I have an order number
+retail.check_order_status_initiate;Are you able to tell me the status of an order
+retail.check_order_status_initiate;I am trying to find out what happened to the  google home
+retail.check_order_status_initiate;Where can i find the status of my order
+retail.check_order_status_initiate;Can you lookup my order please
+retail.check_order_status_initiate;What happened to the  pixel 5  i bought
+retail.check_order_status_initiate;What is happening with the order i placed
+retail.check_order_status_initiate;Can you please help me find my order status
+retail.check_order_status_initiate;I need your help getting the status of my  stadia controller
+retail.check_order_status_initiate;I need some assistance finding the status of my order
+retail.check_order_status_initiate;Just need the order status of the  pixel
+retail.check_order_status_initiate;Just came here to get the status of my order
+retail.check_order_status_initiate;Can i get details on status of my  nest
+retail.check_order_status_initiate;Whats my order status
+retail.check_order_status_initiate;Need the status of  google home
+retail.check_order_status_initiate;Pixel 5  check status
+retail.check_order_status_initiate;Check order status
+retail.check_order_status_initiate;Help find order status
+retail.check_order_status_initiate;Check status
+retail.check_order_status_initiate;when can i expect my  google home  to get here
+retail.check_order_status_initiate;my  stadia controller  has not arrived yet
+retail.check_order_status_initiate;i bought a  nest thermostat  a few days ago and still haven't received it yet
+retail.check_order_status_initiate;where is my  google home
+retail.check_order_status_initiate;I tried to order something and nobody's told me it has shipped
+retail.check_order_status_initiate;Where did my package go
+retail.check_order_status_initiate;I made a purchase  a week ago  and I still haven't gotten a package
+retail.check_order_status_initiate;Where did my order go I bought it  last week
+retail.check_order_status_initiate;What's taking so long for my purchase to get here
+retail.check_order_status_initiate;I made a purchase and I still don't have the item
+retail.check_order_status_initiate;I bought something and still haven't seen it delivered
+retail.check_order_status_initiate;I made a purchase and wasn't sure where it is
+retail.check_order_status_initiate;I purchased something and haven't gotten a notification it was delivered
+retail.check_order_status_initiate;Hey I made a purchase and want to check on the status
+retail.check_order_status_initiate;Hello I placed an order and haven't received it yet
+retail.check_order_status_initiate;What's going on with my order
+retail.check_order_status_initiate;Where is my order
+retail.check_order_status_initiate;I want to know the status of my order
+retail.check_order_status_initiate;Could I check on my order
+retail.check_order_status_initiate;I'd like to check on my order
+retail.check_order_status_initiate;What is the status of my order?
+retail.check_order_status_initiate;Where is my  Pixel 5
+retail.check_order_status_initiate;Can i check the status of my  Pixel 5
+retail.check_order_status_initiate;I would like to check the status of an order
+retail.unsupported_single_item;tomatoes
+retail.unsupported_single_item;shoes for my friend
+retail.unsupported_single_item;sock for  Fred
+retail.unsupported_single_item;A chicken
+retail.unsupported_single_item;A fish
+retail.unsupported_single_item;A cactus
+retail.unsupported_single_item;A tree
+retail.unsupported_single_item;A microphone
+retail.unsupported_single_item;A  burger
+retail.unsupported_single_item;One  cup of coffee
+retail.unsupported_single_item;A snake please
+retail.unsupported_single_item;A pet
+retail.unsupported_single_item;A house
+retail.unsupported_single_item;A car
+retail.unsupported_single_item;Soap please
+retail.unsupported_single_item;iPad
+retail.unsupported_single_item;iPhone  11  pro
+retail.unsupported_single_item;a dog
+retail.unsupported_single_item;a cat
+retail.unsupported_single_item;A Ferrari
+retail.unsupported_single_item;iPhone please
+retail.unsupported_single_item;Playstation please
+retail.unsupported_single_item;Nintendo
+retail.unsupported_single_item;Hand lotion
+retail.unsupported_single_item;Alexa
+retail.no_account;I never thought i needed an account
+retail.no_account;I didn't know I needed an account
+retail.no_account;I don't think i ever made an account
+retail.no_account;I never created an account
+retail.no_account;I never registered for your service
+retail.no_account;There isn't any account for me
+retail.no_account;There is no account
+retail.no_account;I have yet to register
+retail.no_account;I never signed up
+retail.no_account;I didn't sign up for an account
+retail.no_account;I didn't register with your system
+retail.no_account;I never registered
+retail.no_account;I don't have a login
+retail.no_account;I didn't make a login
+retail.no_account;I don't believe in accounts
+retail.no_account;I forgot to make an account
+retail.no_account;I need help recovering my account
+retail.no_account;I don't know what my account is
+retail.no_account;I don't remember any of my account details
+retail.no_account;I need a new account
+retail.no_account;I need to make an account
+retail.no_account;Can I make an account
+retail.no_account;I don't want to make an account
+retail.no_account;I never made an account
+retail.no_account;I don't have an account
+retail.no_order_number;I forgot where I put my order number
+retail.no_order_number;I think i forgot my order number
+retail.no_order_number;I don't remember my order number
+retail.no_order_number;Where would an order number be
+retail.no_order_number;I don't think I have anything like an order number
+retail.no_order_number;I don't know what an order number is
+retail.no_order_number;What number
+retail.no_order_number;I have no number
+retail.no_order_number;You never sent me a number
+retail.no_order_number;I never got a number
+retail.no_order_number;I misplaced my order number
+retail.no_order_number;I have no idea where my order number is
+retail.no_order_number;I don't know where my number went
+retail.no_order_number;I don't have a number
+retail.no_order_number;I have lost my order number
+retail.no_order_number;Why can't I find my order number
+retail.no_order_number;Lost order number
+retail.no_order_number;I can't seem to find my order number
+retail.no_order_number;What if I lost my order number
+retail.no_order_number;Can you do something if I don't have an order number
+retail.no_order_number;What is an order number
+retail.no_order_number;Where would my order number be
+retail.no_order_number;I think i lost my order number
+retail.no_order_number;I cannot find my order number
+retail.no_order_number;I don't know my order number
+retail.extract.add_item_cart;Then  I'll go with  a pixel 5
+retail.extract.add_item_cart;Google home   then
+retail.extract.add_item_cart;Then  let's get  a thermostat
+retail.extract.add_item_cart;Then  give me  a chrome cast
+retail.extract.add_item_cart;Pixel 5   then  thanks
+retail.extract.add_item_cart;I'll take the  chrome cast  today as well
+retail.extract.add_item_cart;I would also very much like a  phone
+retail.extract.add_item_cart;I will also purchase a brand new  Google home
+retail.extract.add_item_cart;Why not buy a new  phone  too
+retail.extract.add_item_cart;Sure let's get a  chrome cast
+retail.extract.add_item_cart;And the  pixel
+retail.extract.add_item_cart;The  thermostat  too
+retail.extract.add_item_cart;Nest thermostat  thanks
+retail.extract.add_item_cart;Google home  please and thank you
+retail.extract.add_item_cart;Pixel 5  would be nice thanks
+retail.extract.add_item_cart;How about a  pixel 5
+retail.extract.add_item_cart;Could I get a second  chrome cast
+retail.extract.add_item_cart;I would like to order an additional  pixel
+retail.extract.add_item_cart;I'm looking for a  phone  as well
+retail.extract.add_item_cart;I could also use the  chrome cast  thanks
+retail.extract.add_item_cart;Could I get the newest  chrome cast  on top of that
+retail.extract.add_item_cart;Can I get a  pixel  as well
+retail.extract.add_item_cart;Could you add a  Google home  as well
+retail.extract.add_item_cart;I would also like to order a  Stadia controller  please
+retail.extract.add_item_cart;I'd like to purchase a  nest
+retail.extract.add_item_cart;I'll also grab a  chrome cast  because why not
+retail.extract.add_item_cart;Actually let's add a  pixel  too
+retail.extract.add_item_cart;You know what add a  pixel
+retail.extract.add_item_cart;I think I'll take the  thermostat  too
+retail.extract.add_item_cart;Also the  nest thermostat
+retail.extract.add_item_cart;And a  chrome cast
+retail.extract.add_item_cart;Get me the  Google home  thanks
+retail.extract.add_item_cart;I also want to order a new  phone
+retail.extract.add_item_cart;Can you ship me a  pixel  too
+retail.extract.add_item_cart;I'll also take a  Google home   today
+retail.extract.add_item_cart;I want  one  more  chrome cast
+retail.extract.add_item_cart;Give me another  stadia controller
+retail.extract.add_item_cart;I also need a  chrome cast
+retail.extract.add_item_cart;Could I also get a  chrome cast  thanks
+retail.extract.add_item_cart;I also want a  phone
+retail.extract.add_item_cart;Please add a  pixel  to my cart
+retail.extract.add_item_cart;And also the  Google home
+retail.extract.add_item_cart;Can I get a  stadia controller  please
+retail.extract.add_item_cart;I want a  nest
+retail.extract.add_item_cart;Please add a  Pixel 5
+retail.extract.add_item_cart;Google home
+retail.extract.add_item_cart;Pixel 5
+retail.extract.add_item_cart;a  thermostat  would be nice
+retail.extract.add_item_cart;a  google home
+retail.extract.add_item_cart;yes a  pixel
+retail.extract.add_item_cart;add a  google home  to the cart as well
+retail.extract.add_item_cart;i also need a  nest thermostat  please
+retail.extract.add_item_cart;could i also get a  stadia controller
+retail.extract.add_item_cart;yes i would also like to buy a  pixel 5
+retail.extract.add_item_cart;yes can i also add a  google home  to my cart
+retail.cant_find_number;Lost the number
+retail.cant_find_number;I lost it
+retail.cant_find_number;I still don't see the order number anywhere
+retail.cant_find_number;Order number is missing
+retail.cant_find_number;Confirmation  email  is missing the order number
+retail.cant_find_number;Order number is missing from the  email
+retail.cant_find_number;I can't locate the order number on the  email
+retail.cant_find_number;I don't recall ever getting an  email  with an order number
+retail.cant_find_number;You definitely never sent me anything with an order number on it
+retail.cant_find_number;I don't think you ever sent me an email
+retail.cant_find_number;Are you sure I was supposed to get an  email
+retail.cant_find_number;I don't see a number anywhere
+retail.cant_find_number;I'm still not seeing an order number
+retail.cant_find_number;I'm not sure there's an order number here
+retail.cant_find_number;I don't see an order number on this  email
+retail.cant_find_number;I don't know about any  emails
+retail.cant_find_number;I never got an  email
+retail.cant_find_number;This  email  isn't very nice
+retail.cant_find_number;I dont have an email from Google
+retail.cant_find_number;I am locked out of my email
+retail.cant_find_number;I dont see it anywhere
+retail.cant_find_number;I dont have access to my email
+retail.cant_find_number;The order number is missing from the email
+retail.cant_find_number;Where is the order number
+retail.cant_find_number;This email is too hard to read
+retail.cant_find_number;I dont see it
+retail.cant_find_number;I still cant find it
+retail.reset_account_password_initiate;it says sign in failed
+retail.reset_account_password_initiate;site says there have been too many sign it attempts
+retail.reset_account_password_initiate;the site locked me out
+retail.reset_account_password_initiate;i need a new password for my account
+retail.reset_account_password_initiate;why won't my password work
+retail.reset_account_password_initiate;what's my account password
+retail.reset_account_password_initiate;is there a way to set a new password for the account
+retail.reset_account_password_initiate;can't remember the password i used when creating the account
+retail.reset_account_password_initiate;forgot the password i set for the account
+retail.reset_account_password_initiate;none of my passwords are working on my account
+retail.reset_account_password_initiate;why can't i log in to my account
+retail.reset_account_password_initiate;the site wont accept my password
+retail.reset_account_password_initiate;my password is not working
+retail.reset_account_password_initiate;i don't remember my password
+retail.reset_account_password_initiate;my password needs to be reset
+retail.reset_account_password_initiate;i cant sign in to my account
+retail.reset_account_password_initiate;i just want a password reset started
+retail.reset_account_password_initiate;Actually I need to reset my password
+retail.reset_account_password_initiate;On second thought can I reset my password
+retail.reset_account_password_initiate;Password help
+retail.reset_account_password_initiate;I'm locked out
+retail.reset_account_password_initiate;Password reset
+retail.reset_account_password_initiate;I forgot my password
+retail.reset_account_password_initiate;I am locked out of my account
+retail.reset_account_password_initiate;Can I reset my password
+retail.reset_account_password_initiate;lost password
+retail.found_order_number;Sorry that took so long I found it
+retail.found_order_number;Sorry I finally found it
+retail.found_order_number;Sorry found it
+retail.found_order_number;There I see it
+retail.found_order_number;I see it now
+retail.found_order_number;Found it
+retail.found_order_number;The number is right here
+retail.found_order_number;Sorry it took a minute I got it
+retail.found_order_number;It took a minute but the number is here
+retail.found_order_number;It took a minute but I found it
+retail.found_order_number;Here's my number I found it
+retail.found_order_number;That's where the number was okay
+retail.found_order_number;There it is
+retail.found_order_number;I finally found it
+retail.found_order_number;Okay here it is
+retail.found_order_number;Don't worry I found it
+retail.found_order_number;Alright I found it
+retail.found_order_number;Okay so that's where the number was
+retail.found_order_number;Yep here's the number
+retail.found_order_number;Okay found the number
+retail.found_order_number;Thanks I found it
+retail.found_order_number;I have it now
+retail.found_order_number;That was easy
+retail.found_order_number;Finally i got it
+retail.found_order_number;here it is
+retail.found_order_number;Got it
+retail.found_order_number;Yes i found it
+retail.items_for_sale;What can I buy
+retail.items_for_sale;What should I order
+retail.items_for_sale;What do you think I should purchase
+retail.items_for_sale;What do you recommend
+retail.items_for_sale;Tell me what to buy
+retail.items_for_sale;What do you have in stock  this week
+retail.items_for_sale;What's on sale  today
+retail.items_for_sale;How am I supposed to know what's for sale
+retail.items_for_sale;How should I know what to buy
+retail.items_for_sale;I'm not sure what's for sale
+retail.items_for_sale;What's in stock
+retail.items_for_sale;What are things you sell
+retail.items_for_sale;What should I purchase
+retail.items_for_sale;What should I buy
+retail.items_for_sale;I have no idea what to buy
+retail.items_for_sale;What's for sale
+retail.items_for_sale;I don't know what's in your catalog
+retail.items_for_sale;I don't know what's for sale
+retail.items_for_sale;I need the store catalog
+retail.items_for_sale;What can I order
+retail.items_for_sale;I don't know what you sell
+retail.items_for_sale;What's in your catalog
+retail.items_for_sale;What do you sell
+retail.return.original_payment;can i have it credited back to my card
+retail.return.original_payment;i just want it back in my credit card
+retail.return.original_payment;i definitely do not want store credit
+retail.return.original_payment;refund to my credit card please
+retail.return.original_payment;Send it back to the source please
+retail.return.original_payment;Just give me a full refund
+retail.return.original_payment;Just give me the cash
+retail.return.original_payment;I don't want store credit thanks
+retail.return.original_payment;let's go with my card instead
+retail.return.original_payment;original payment no store credit
+retail.return.original_payment;No store credit for me
+retail.return.original_payment;I do no want store credit
+retail.return.original_payment;back to my bank please
+retail.return.original_payment;can i have it sent back to the original payment source
+retail.return.original_payment;can i have it sent back to my credit card
+retail.return.original_payment;original payment
+retail.return.original_payment;debit card
+retail.return.original_payment;can i have it back to my debit card
+retail.return.original_payment;the credit card
+retail.return.original_payment;my bank account please
+retail.return.original_payment;back to my credit card please
+retail.return.original_payment;original payment please
+retail.return.original_payment;back to my original payment
+retail.return.original_payment;credit card
+retail.return.original_payment;I would like it back to my credit card
+retail.extract.city_and_admin_area;Not sure what my zip code is but the city is  Naperville
+retail.extract.city_and_admin_area;Not sure what my zip is but I'm in  Chicago
+retail.extract.city_and_admin_area;I forget what my zip was but I live in  Montgomery Village
+retail.extract.city_and_admin_area;I'm in the great state of  Washington
+retail.extract.city_and_admin_area;I don't recall my zip code but I'm in  Rhode Island
+retail.extract.city_and_admin_area;I live in  South Dakota
+retail.extract.city_and_admin_area;I don't remember my zip but I'm in  Virginia
+retail.extract.city_and_admin_area;I have forgotten my zip code but I'm in  Westfield
+retail.extract.city_and_admin_area;I ive in  Chaska   Minnesota  does that work
+retail.extract.city_and_admin_area;I'm a resident of  Conyers   Georgia
+retail.extract.city_and_admin_area;I can't remember my zip but I live in  Muskegon  in  Missouri
+retail.extract.city_and_admin_area;Instead of zip can I use my city and state
+retail.extract.city_and_admin_area;If I tell you my city and state will that work
+retail.extract.city_and_admin_area;I don't remember my zip but I'm in  Trenton
+retail.extract.city_and_admin_area;I live in  Holly Springs  in the great state of  North Carolina
+retail.extract.city_and_admin_area;The city is  Wellington  and the state is  Florida
+retail.extract.city_and_admin_area;Morrisville   Pennsylvania
+retail.extract.city_and_admin_area;I am living in  Powell  in the state of  Tennesee
+retail.extract.city_and_admin_area;I don't know my zip but I'm in  Fremont   Ohio
+retail.extract.city_and_admin_area;I have my city and state it's  Wayne   New Jersey
+retail.extract.city_and_admin_area;I'd prefer city and state over zip code
+retail.extract.city_and_admin_area;I'd rather not give you my zip how about the city instead
+retail.extract.city_and_admin_area;Is city and state okay instead of zip
+retail.extract.city_and_admin_area;How about I just give you my state
+retail.extract.city_and_admin_area;I am in  Middletown
+retail.extract.city_and_admin_area;My city is  Glastonbury
+retail.extract.city_and_admin_area;Let's use city instead
+retail.extract.city_and_admin_area;I know what my city is does that work
+retail.extract.city_and_admin_area;I'd prefer to just give you my city
+retail.extract.city_and_admin_area;Is it okay if I just use my city and state
+retail.extract.city_and_admin_area;I live in  Florida
+retail.extract.city_and_admin_area;I'm in  Allen Park
+retail.extract.city_and_admin_area;The city and state would be easier for me
+retail.extract.city_and_admin_area;I'm in  Hartford   Conneticut
+retail.extract.city_and_admin_area;I live in  Chicago
+retail.extract.city_and_admin_area;My state is  Kentucky
+retail.extract.city_and_admin_area;I'm in  California
+retail.extract.city_and_admin_area;I'm in  Indiana
+retail.extract.city_and_admin_area;I'm in  Columbus
+retail.extract.city_and_admin_area;I'm in  New York  city
+retail.extract.city_and_admin_area;I would rather just give you my city and state
+retail.extract.city_and_admin_area;Could I just use the state
+retail.extract.city_and_admin_area;Can I just give you my state
+retail.extract.city_and_admin_area;I only know the city
+retail.extract.city_and_admin_area;Would it help if I told you the city and state
+retail.extract.city_and_admin_area;Could I just use my city and state
+retail.extract.city_and_admin_area;I'm in  Sacramento   California
+retail.extract.city_and_admin_area;I'm in  New Jersey
+retail.extract.city_and_admin_area;I can tell you I'm in  San Francisco
+retail.extract.city_and_admin_area;I'm in  Chicago   Illinois  does that help
+retail.extract.city_and_admin_area;Can I just give you my city and state
+retail.unknown_zip;I am new here don't know zip code
+retail.unknown_zip;I don't know the exact zip code
+retail.unknown_zip;Don't know this areas zip code yet
+retail.unknown_zip;I just moved don't know this areas zip code
+retail.unknown_zip;Not sure i know my exact zip code
+retail.unknown_zip;What was my zip again
+retail.unknown_zip;I don't really remember to be honest
+retail.unknown_zip;Now that I think about it what is my zip
+retail.unknown_zip;I can't recollect my zip  at the moment
+retail.unknown_zip;I don't know the code off the top of my head
+retail.unknown_zip;I don't remember it
+retail.unknown_zip;I have completely forgotten my zip code
+retail.unknown_zip;I would have to look it
+retail.unknown_zip;Actually I don't remember my zip
+retail.unknown_zip;I'm unsure what my zip is actually
+retail.unknown_zip;I have forgotten my zip code
+retail.unknown_zip;Sorry don't know my zip
+retail.unknown_zip;I don't know my zip I'm sorry
+retail.unknown_zip;Never found out what my zip was
+retail.unknown_zip;What's a zip
+retail.unknown_zip;I don't have a zip code
+retail.unknown_zip;What's a zip code
+retail.unknown_zip;No idea what my zip code is
+retail.unknown_zip;Not sure what my zip code is
+retail.unknown_zip;I don't know my zip code
+retail.manage_account_initiate;can i please get some help with my account
+retail.manage_account_initiate;I am unable to figure out an issue with my account
+retail.manage_account_initiate;Yeah I have some account issues
+retail.manage_account_initiate;I'm calling about my account  today
+retail.manage_account_initiate;I really need some account help  today
+retail.manage_account_initiate;Please help me with my account
+retail.manage_account_initiate;I could use some account help thanks
+retail.manage_account_initiate;Help me out with an account issue please
+retail.manage_account_initiate;I need help figuring out an account issue
+retail.manage_account_initiate;I'm having issues with my account
+retail.manage_account_initiate;I'm looking for some help with my account
+retail.manage_account_initiate;Could you help out with my account
+retail.manage_account_initiate;Account help please
+retail.manage_account_initiate;Help me with my account
+retail.manage_account_initiate;My account needs some updating
+retail.manage_account_initiate;I need to manage my account
+retail.manage_account_initiate;Could you help me with an account problem
+retail.manage_account_initiate;I need to make some changes to my account
+retail.manage_account_initiate;Account issues
+retail.manage_account_initiate;I have some account issues
+retail.manage_account_initiate;I need to update my account
+retail.manage_account_initiate;can I manage my account
+retail.manage_account_initiate;manage my account
+retail.manage_account_initiate;I would like to update my phone number
+retail.manage_account_initiate;I have a new telephone number
+retail.get_different_store;Are there any other options nearby
+retail.get_different_store;There must be other  ones  nearby
+retail.get_different_store;Are there any other  ones  nearby
+retail.get_different_store;Is there another  one
+retail.get_different_store;Not that  one
+retail.get_different_store;Not that store
+retail.get_different_store;That store isn't close is there another  one
+retail.get_different_store;I'm trying to find a completely different store
+retail.get_different_store;I'm looking for a different store than the  one  you mentioned
+retail.get_different_store;Do you not have any other nearby stores
+retail.get_different_store;Are there any other nearby stores
+retail.get_different_store;What about the other locations
+retail.get_different_store;There aren't any closer stores
+retail.get_different_store;Don't you have any stores that are closer
+retail.get_different_store;I'm trying to find a different store
+retail.get_different_store;What about other locations
+retail.get_different_store;Are there any other stores I can go to
+retail.get_different_store;Is there another store
+retail.get_different_store;I'm looking for a different store
+retail.get_different_store;Find me another store
+retail.get_different_store;I'm looking for another location
+retail.get_different_store;Is there another location
+retail.get_different_store;Do you know about any other stores
+retail.get_different_store;I'm looking for another store
+retail.get_different_store;Are there any other stores
+retail.edit_order_shipping_speed_initiate;Looks like my order won't get here in time
+retail.edit_order_shipping_speed_initiate;My  google home  will not get here in time
+retail.edit_order_shipping_speed_initiate;expedite  pixel
+retail.edit_order_shipping_speed_initiate;Need to expedite  google home
+retail.edit_order_shipping_speed_initiate;Expedite order
+retail.edit_order_shipping_speed_initiate;Help expedite order
+retail.edit_order_shipping_speed_initiate;Help expedite shipment
+retail.edit_order_shipping_speed_initiate;Help increase shipping speed
+retail.edit_order_shipping_speed_initiate;Can you help me with getting the  google home  sooner
+retail.edit_order_shipping_speed_initiate;I need some help getting the  Pixel 5  delivered faster
+retail.edit_order_shipping_speed_initiate;I need your assistance increasing shipping speed
+retail.edit_order_shipping_speed_initiate;Can you help me expedite shipping
+retail.edit_order_shipping_speed_initiate;Can you ship the  google home  faster than  5  business days
+retail.edit_order_shipping_speed_initiate;3 to 5 days is a lot to wait on my  pixel 5  I need it sooner
+retail.edit_order_shipping_speed_initiate;Can I get the  thermostat  sooner than 3 to 5 days
+retail.edit_order_shipping_speed_initiate;Just noticed the deliver date is too late
+retail.edit_order_shipping_speed_initiate;The  pixel  needs to get here quicker
+retail.edit_order_shipping_speed_initiate;Is there a way to get the  stadia controller  here any faster
+retail.edit_order_shipping_speed_initiate;Increase speed of shipping
+retail.edit_order_shipping_speed_initiate;Trying to increase shipping speed
+retail.edit_order_shipping_speed_initiate;Please expedite shipping
+retail.edit_order_shipping_speed_initiate;It would be nice to get the  nest thermostat  earlier
+retail.edit_order_shipping_speed_initiate;How do i make the  google home  ship faster
+retail.edit_order_shipping_speed_initiate;Make shipping faster
+retail.edit_order_shipping_speed_initiate;Change shipping method
+retail.edit_order_shipping_speed_initiate;Edit shipping speed
+retail.edit_order_shipping_speed_initiate;Faster shipping please
+retail.edit_order_shipping_speed_initiate;Expedite shipping
+retail.edit_order_shipping_speed_initiate;trying to expedite the  pixel 5
+retail.edit_order_shipping_speed_initiate;the estimated arrival of my package is too late
+retail.edit_order_shipping_speed_initiate;my order is taking too long to arrive
+retail.edit_order_shipping_speed_initiate;can the  thermostat  be shipped by the end of the week
+retail.edit_order_shipping_speed_initiate;is it possible to get the  google home  delivered  before next week
+retail.edit_order_shipping_speed_initiate;i need the  phone  to arrive before  the 25th
+retail.edit_order_shipping_speed_initiate;the  nest thermostat  wont arrive in time for our anniversary
+retail.edit_order_shipping_speed_initiate;can i speed up delivery of the  google home  i ordered
+retail.edit_order_shipping_speed_initiate;i want to expedite my previous purchase
+retail.edit_order_shipping_speed_initiate;is it possible to expedite my order
+retail.edit_order_shipping_speed_initiate;i need my  phone  delivered within  the next couple of days
+retail.edit_order_shipping_speed_initiate;can i get my ordered delivered sooner
+retail.edit_order_shipping_speed_initiate;looks like my order won't arrive on time
+retail.edit_order_shipping_speed_initiate;i need my  phone  earlier
+retail.edit_order_shipping_speed_initiate;Change shipping speed
+retail.edit_order_shipping_speed_initiate;I need to increase the shipping speed for my  phone
+retail.edit_order_shipping_speed_initiate;I need my  nest thermostat  to arrive by Christmas
+retail.edit_order_shipping_speed_initiate;i need my order to arrive by  next week
+retail.edit_order_shipping_speed_initiate;My order wont make it on time for my sons birthday
+retail.edit_order_shipping_speed_initiate;looks like my order wont be delivered on time
+retail.edit_order_shipping_speed_initiate;i want the  stadia  delivered faster
+retail.edit_order_shipping_speed_initiate;is it possible to change the shipping speed of the  pixel 5
+retail.edit_order_shipping_speed_initiate;Can i change the shipping speed for an order
+retail.edit_order_shipping_speed_initiate;I would like to get my  pixel 5  sooner please
+retail.edit_order_shipping_speed_initiate;I would like to change the shipping speed for my order
+retail.wrong_order;I don't recall purchasing that item
+retail.wrong_order;I don't think I bought a  chromecast  but I could be wrong
+retail.wrong_order;I can say with great confidence that I would not buy a  pixel
+retail.wrong_order;No I didn't buy a  Chromecast  I bought a  Stadia controller
+retail.wrong_order;I'm fairly certain I ordered a  pixel
+retail.wrong_order;The item on that order is the wrong item
+retail.wrong_order;That order is incorrect
+retail.wrong_order;I would never buy a  nest  that's wrong
+retail.wrong_order;That is most definitely not the right item
+retail.wrong_order;Your system must be having a problem I bought a  pixel
+retail.wrong_order;Your system is wrong that's supposed to be something else
+retail.wrong_order;That's wrong I would never buy a  Stadia controller
+retail.wrong_order;Do you really think I bought a  pixel
+retail.wrong_order;I made absolutely sure the order was for a  nest  not that other item
+retail.wrong_order;My purchase was for a  Chromecast  not a  pixel
+retail.wrong_order;I bought a  pixel  not a  google home
+retail.wrong_order;No that's the wrong item I didn't purchase that
+retail.wrong_order;I didn't buy a  Stadia controller
+retail.wrong_order;I didn't buy a  chrome cast  I bought a  pixel
+retail.wrong_order;I bought a  pixel  instead of that item
+retail.wrong_order;That's not what I bought I bought a  nest
+retail.wrong_order;I definitely bought a different item
+retail.wrong_order;I'm very confident that I ordered something different
+retail.wrong_order;I'm pretty sure that's not what I ordered but I could be wrong
+retail.wrong_order;I could have sworn I purchased a  Stadia controller
+retail.wrong_order;No no no that's wrong I bought a  Google home
+retail.wrong_order;Somethings wrong i bought a  stadia
+retail.wrong_order;That doesn't seem right
+retail.wrong_order;No that's something else I bought a  nest
+retail.wrong_order;no thats the wrong product
+retail.wrong_order;That's not the right item
+retail.wrong_order;That's the completely wrong item
+retail.wrong_order;I never bought that item
+retail.wrong_order;I'm fairly confident I didn't buy that
+retail.wrong_order;The  email  says it was a  chrome cast
+retail.wrong_order;I'm pretty sure I ordered something different
+retail.wrong_order;No that's definitely the wrong order
+retail.wrong_order;That doesn't sound right
+retail.wrong_order;That seems wrong I purchased a  Stadia controller  not a  Pixel 5
+retail.wrong_order;That can't be right I bought a  Nest thermostat
+retail.wrong_order;I don't think that's the right order
+retail.wrong_order;That's definitely wrong
+retail.wrong_order;That's wrong
+retail.wrong_order;I didn't buy that
+retail.wrong_order;No that's not the right order
+retail.wrong_order;That is definitely not the right order
+retail.wrong_order;That's the wrong order
+retail.wrong_order;That's not right my order is for a  Stadia controller
+retail.wrong_order;No I ordered a  Google Home
+retail.wrong_order;I order a  Nest thermostat  not a  Pixel 5
+retail.wrong_order;No that's not right
+retail.cancel_order_initiate;Order cancellation
+retail.cancel_order_initiate;need to cancel  pixel 5
+retail.cancel_order_initiate;Cancel  google home
+retail.cancel_order_initiate;Cancel order
+retail.cancel_order_initiate;Just want to cancel the last order
+retail.cancel_order_initiate;I want to get something different cancel my order
+retail.cancel_order_initiate;I made a mistake with an order I want to cancel
+retail.cancel_order_initiate;My wife does not want the  pixel  anymore
+retail.cancel_order_initiate;Accidentally bought the wrong  thermostat
+retail.cancel_order_initiate;I just realized I ordered the wrong item
+retail.cancel_order_initiate;Realized i ordered  2   phones  accidently
+retail.cancel_order_initiate;Trying to see if there is a way to cancel an order after its placed
+retail.cancel_order_initiate;Can you check if I can cancel an order
+retail.cancel_order_initiate;Is there a way to cancel my order now
+retail.cancel_order_initiate;Ended up realizing i don't need the  nest  I want to cancel it
+retail.cancel_order_initiate;I change my mind about buying the  phone  I want to cancel it
+retail.cancel_order_initiate;I got an email for an order i didn't place
+retail.cancel_order_initiate;My kid ordered something without permission I want to cancel it
+retail.cancel_order_initiate;Just trying to get an order cancelled
+retail.cancel_order_initiate;Can you start an order cancellation
+retail.cancel_order_initiate;Initiate order cancellation
+retail.cancel_order_initiate;I need some assistance cancelling the  pixel 5  i ordered
+retail.cancel_order_initiate;I need assistance cancelling an order
+retail.cancel_order_initiate;Hey I bought something and don't want it anymore
+retail.cancel_order_initiate;Hey I made a mistake buying something and want to cancel it
+retail.cancel_order_initiate;Yes could you cancel my purchase
+retail.cancel_order_initiate;Hello can you cancel my order
+retail.cancel_order_initiate;Hi I accidentally placed an order for something I don't need
+retail.cancel_order_initiate;Please cancel my purchase I don't want it anymore
+retail.cancel_order_initiate;Cancel my purchase please
+retail.cancel_order_initiate;I purchased an item and need to cancel the purchase
+retail.cancel_order_initiate;I bought something and don't want you to send it
+retail.cancel_order_initiate;Please cancel my order I don't want it anymore
+retail.cancel_order_initiate;Help me cancel an order
+retail.cancel_order_initiate;I bought a thing and want to cancel
+retail.cancel_order_initiate;I accidentally bought something and need to cancel it
+retail.cancel_order_initiate;I need to delete my order
+retail.cancel_order_initiate;Can you clear out my order
+retail.cancel_order_initiate;I made a mistake ordering and want to cancel
+retail.cancel_order_initiate;I accidentally ordered something and need to fix it
+retail.cancel_order_initiate;Can you help me cancel an order
+retail.cancel_order_initiate;I accidentally placed an order and need to cancel it
+retail.cancel_order_initiate;Actually can you cancel my order
+retail.cancel_order_initiate;Please cancel my order
+retail.cancel_order_initiate;On second thought can I cancel my order
+retail.cancel_order_initiate;I would like to cancel the order i placed yesterday
+retail.cancel_order_initiate;I don't need a  Chromecast  anymore
+retail.cancel_order_initiate;Is it possible to cancel the  Stadia Controller  I ordered
+retail.cancel_order_initiate;Could you cancel the  pixel 5
+retail.cancel_order_initiate;I don't want the  Google Home  anymore
+retail.cancel_order_initiate;I want to cancel my order
+retail.edit_order_payment_method_initiate;I goofed up I need to use a different payment method
+retail.edit_order_payment_method_initiate;I made a mistake can I change the payment method I used
+retail.edit_order_payment_method_initiate;I messed up on the  pixel  order and need to change what card I used
+retail.edit_order_payment_method_initiate;Could I use a different card for my order
+retail.edit_order_payment_method_initiate;Could I change the debit card I used on my order to a credit card
+retail.edit_order_payment_method_initiate;I just realized I used the wrong card for my order
+retail.edit_order_payment_method_initiate;I used my brother's card on my last order
+retail.edit_order_payment_method_initiate;I used my friend's card instead of mine for my last order
+retail.edit_order_payment_method_initiate;I bought a  chrome cast  and had the wrong credit card number
+retail.edit_order_payment_method_initiate;I just bought a  nest  and the debit card was wrong
+retail.edit_order_payment_method_initiate;I just made a purchase and used the wrong card
+retail.edit_order_payment_method_initiate;I just purchased a  nest  and need to correct the payment method
+retail.edit_order_payment_method_initiate;I'm pretty sure I used the wrong card for my recent order
+retail.edit_order_payment_method_initiate;I think I need to change the payment method I used on my order
+retail.edit_order_payment_method_initiate;I think I made a mistake and used the wrong card on my order
+retail.edit_order_payment_method_initiate;I'm pretty sure I used the wrong debit card on my last order
+retail.edit_order_payment_method_initiate;I bought a  Google home  but used the wrong debit card
+retail.edit_order_payment_method_initiate;I placed an order but I'm pretty sure I used the wrong card
+retail.edit_order_payment_method_initiate;I need to change the card I just used for my order
+retail.edit_order_payment_method_initiate;So I just bought a  pixel  but I used the wrong card
+retail.edit_order_payment_method_initiate;I made a purchase but I need to change the payment method
+retail.edit_order_payment_method_initiate;I ordered a  chrome cast  can I change the payment method
+retail.edit_order_payment_method_initiate;is it possible to change the card used to pay for the  nest thermostat
+retail.edit_order_payment_method_initiate;i would like to change the card i used to order the  google home
+retail.edit_order_payment_method_initiate;looks like the wrong payment method was charged for my order
+retail.edit_order_payment_method_initiate;the order i just placed used the wrong credit card
+retail.edit_order_payment_method_initiate;can i change the payment method i used for my order
+retail.edit_order_payment_method_initiate;i saw in the confirmation email that a different card got billed for my order
+retail.edit_order_payment_method_initiate;i noticed that the wrong card got billed for my order
+retail.edit_order_payment_method_initiate;i ordered my  thermostat  with the wrong credit card
+retail.edit_order_payment_method_initiate;i accidentally used the wrong card to order my  phone  can i change it
+retail.edit_order_payment_method_initiate;i used the wrong card on my last order
+retail.edit_order_payment_method_initiate;Can I change the payment method for my most recent order
+retail.edit_order_payment_method_initiate;I'd like to change my payment method for my last order
+retail.edit_order_payment_method_initiate;i want to update the credit card i used for my last order
+retail.edit_order_payment_method_initiate;can i use a different card to pay for the  nest thermostat
+retail.edit_order_payment_method_initiate;change payment method for the  google home
+retail.edit_order_payment_method_initiate;i want to pay for my  pixel 5  with a different card
+retail.edit_order_payment_method_initiate;change how i paid for the last order
+retail.edit_order_payment_method_initiate;i want to change the card i used to place an order
+retail.edit_order_payment_method_initiate;can i change my card for an order
+retail.edit_order_payment_method_initiate;change credit card used for order
+retail.edit_order_payment_method_initiate;change order credit card
+retail.edit_order_payment_method_initiate;I want to use a different card to pay for an order
+retail.edit_order_payment_method_initiate;I want to use store credit to pay for an order instead of my card
+retail.edit_order_payment_method_initiate;want to update an orders payment menthod
+retail.edit_order_payment_method_initiate;can i change the card i used to pay for an item
+retail.edit_order_payment_method_initiate;placed the order using the wrong card
+retail.edit_order_payment_method_initiate;can i change my payment method for the order
+retail.edit_order_payment_method_initiate;accidentally placed the order with my credit card
